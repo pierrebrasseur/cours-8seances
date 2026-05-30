@@ -4,257 +4,112 @@ subtitle: "Cartographie politique I"
 ---
 
 ::: {.callout-tip icon=false appearance="default"}
-## Au programme de cette séance
+## Au programme
 
-**Mouvement** · Cartographie politique I
-**Question structurante** · Désinstitutionnaliser — pour qui, comment, à quelles conditions ?
-**Durée** · 2 heures
-**Lecture estimée** · 35 minutes
+Mouvement · Cartographie politique I
+Question structurante · Désinstitutionnaliser — pour qui, comment, à quelles conditions ?
+Durée · 2 heures
+Lecture estimée · 35 minutes
 
-L'article 19 CDPH, sa lecture stricte par le Comité ONU, la position IASSIDD de Mansell-Beadle-Brown, les jalons suisses 2014-2026, et un angle mort essentiel : l'intersection handicap-migration.
+L'article 19 CDPH [@cdph2006 ; @cdph_og5], sa lecture stricte par le Comité ONU [@onu2022], la position IASSIDD de Mansell et Beadle-Brown [@mansell2010 ; @bigby2018], les jalons suisses 2014-2026 [@plancantonal2023 ; @ledh2024 ; @inclusionhandicap2022], et un angle mort essentiel — l'intersection handicap-migration [@pierart2013].
 
-À la fin, vous saurez **identifier les conditions de qualité** de la désinstitutionnalisation, **cartographier les jalons suisses**, **reconnaître les risques** de transinstitutionnalisation.
+À la fin, vous saurez identifier les conditions de qualité de la désinstitutionnalisation, cartographier les jalons suisses, reconnaître les risques de transinstitutionnalisation.
 
-**Slides** · [reveal.js de la séance 4](../slides/04-slides.qmd)
+Slides · [reveal.js de la séance 4](../slides/04-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage
 
-À l'issue de cette séance, l'étudiant·e sera capable de :
+À l'issue de cette séance, l'étudiant·e sera capable de comprendre le concept de désinstitutionnalisation et ses présupposés [@castel1995 ; @foucault1972 ; @ratzka2003] ; d'identifier la position IASSIDD [@mansell2010 ; @bigby2018] sur les conditions de qualité ; de cartographier les jalons suisses 2014-2026 (CDPH, ONU 2022, plan cantonal, LED-H, Initiative *Pour l'inclusion*) [@onu2022 ; @plancantonal2023 ; @ledh2024] ; de reconnaître les risques de transinstitutionnalisation et de non-recours aggravé [@power2013 ; @stancliffe2007] ; et de mobiliser l'intersection handicap-migration [@pierart2013] pour penser les angles morts.
 
-1. Comprendre le concept de **désinstitutionnalisation** et ses présupposés
-2. Identifier la position **IASSIDD** [@mansell2010] sur les conditions de qualité
-3. Cartographier les **jalons suisses 2014-2026** (CDPH, ONU 2022, plan cantonal, LED-H, Initiative *Pour l'inclusion*)
-4. Reconnaître les risques de **transinstitutionnalisation** et de non-recours aggravé
-5. Mobiliser l'**intersection handicap-migration** [@pierart2013] pour penser les angles morts
+Compétences PEC20 ciblées : C1, C2, C5, C7.
 
-Compétences PEC20 ciblées : **C1, C2, C5, C7**.
-
-## Plan minuté (2 h)
+## Plan minuté
 
 | Temps | Contenu | Activité |
 |---|---|---|
 | 0-10 min | Retour sur les carnets de bord (1-2 partages) | Tour de table |
-| 10-25 min | **Article 19 CDPH et observations ONU 2022** sur la Suisse | Exposé |
-| 25-45 min | **Mansell-Beadle-Brown (2010)** : la qualité ne dépend pas de la taille | Exposé |
-| 45-60 min | **Jalons suisses 2014-2026** | Exposé + frise |
-| 60-75 min | **Qui reste invisible ?** Intersection handicap-migration | Exposé |
-| 75-100 min | ***Jigsaw*** : 3 textes / 3 sous-groupes | Travail collectif |
-| 100-115 min | **Étude de cas** : Sureaux vs foyer EPI | Discussion |
+| 10-25 min | Article 19 CDPH et observations ONU 2022 sur la Suisse | Exposé |
+| 25-45 min | Mansell-Beadle-Brown (2010) : la qualité ne dépend pas de la taille | Exposé |
+| 45-60 min | Jalons suisses 2014-2026 | Exposé + frise |
+| 60-75 min | Qui reste invisible ? Intersection handicap-migration | Exposé |
+| 75-100 min | *Jigsaw* : 3 textes, 3 sous-groupes | Travail collectif |
+| 100-115 min | Étude de cas : Sureaux contre foyer EPI | Discussion |
 | 115-120 min | Synthèse | Discussion |
 
-## Cadre théorique
-
-### Une histoire courte de la désinstitutionnalisation
+## Une histoire courte de la désinstitutionnalisation
 
 ::: {.column-margin}
-Le mot **« désinstitutionnalisation »** apparaît dans la littérature anglo-saxonne dans les années 1960, d'abord en psychiatrie (Italie de Basaglia, États-Unis post-Kennedy Act 1963), puis se diffuse au champ du handicap dans les années 1980 (mouvement des *self-advocates*, *Independent Living* d'Adolf Ratzka).
+Le mot « désinstitutionnalisation » apparaît dans la littérature anglo-saxonne dans les années 1960, d'abord en psychiatrie (Italie de Basaglia, États-Unis post-Kennedy Act 1963), puis se diffuse au champ du handicap dans les années 1980 (mouvement des *self-advocates*, *Independent Living* d'Adolf Ratzka).
 :::
 
-La désinstitutionnalisation n'est pas un concept neuf. Elle apparaît d'abord en **psychiatrie** dans les années 1960 (Basaglia en Italie, loi 180 de 1978 ; Kennedy aux États-Unis, *Community Mental Health Centers Act* de 1963). Elle se diffuse au champ du **handicap intellectuel** dans les années 1970-1980, sous l'impulsion du mouvement scandinave (principe de normalisation de Bengt Nirje et Bank-Mikkelsen), nord-américain (*self-advocates*, Wolfensberger), puis britannique (mouvement *Independent Living* importé des États-Unis par Vic Finkelstein et UPIAS, séance 2).
+La désinstitutionnalisation n'est pas un concept neuf. Elle apparaît d'abord en psychiatrie dans les années 1960 (Basaglia en Italie, loi 180 de 1978 ; Kennedy aux États-Unis, *Community Mental Health Centers Act* de 1963) [@castel1995 ; @foucault1972]. Elle se diffuse au champ du handicap intellectuel dans les années 1970-1980, sous l'impulsion du mouvement scandinave (principe de normalisation de Bengt Nirje [@nirje1969] et Bank-Mikkelsen), nord-américain (*self-advocates*, Wolfensberger [@wolfensberger1972 ; @wolfensberger1983]), puis britannique (mouvement *Independent Living* importé des États-Unis par Vic Finkelstein [@finkelstein1980] et UPIAS [@upias1976], séance 2). Trois logiques différentes coexistent dans le mouvement. La logique de droits (CDPH 2006) [@cdph2006] : vivre dans la communauté est un droit, l'institution est une forme de privation de liberté. La logique d'efficacité (IASSIDD, Mansell-Beadle-Brown) [@mansell2010 ; @bigby2018] : les services communautaires produisent de meilleurs résultats à coût équivalent. La logique économique : réduire les coûts publics par le transfert vers les familles et les services d'aide à domicile [@daly2002 ; @anttonen1996]. Ces logiques peuvent converger ou diverger. Le mouvement britannique des *self-advocates* a longtemps soupçonné les gouvernements conservateurs d'utiliser la logique économique pour justifier la fermeture d'institutions sans investir dans les services de proximité — produisant ce qu'on appelle la transinstitutionnalisation [@power2013].
 
-Trois logiques différentes coexistent dans le mouvement :
+## L'article 19 CDPH et son interprétation stricte
 
-- **Logique de droits** (CDPH 2006) — vivre dans la communauté est un droit, l'institution est une forme de privation de liberté
-- **Logique d'efficacité** (IASSIDD, Mansell-Beadle-Brown) — les services communautaires produisent de meilleurs résultats à coût équivalent
-- **Logique économique** — réduire les coûts publics par le transfert vers les familles et les services d'aide à domicile
+L'article 19 de la CDPH [@cdph2006] (« Autonomie de vie et inclusion dans la société ») est l'article clé pour la désinstitutionnalisation. Il pose trois éléments :
 
-Ces logiques peuvent converger ou diverger. Le mouvement britannique des *self-advocates* a longtemps soupçonné les gouvernements conservateurs d'utiliser la logique économique pour justifier la fermeture d'institutions **sans** investir dans les services de proximité — produisant ce qu'on appelle la **transinstitutionnalisation**.
+> *« Les États Parties à la présente Convention reconnaissent à toutes les personnes handicapées le droit de vivre dans la société, avec la même liberté de choix que les autres personnes. »* [@cdph2006, art. 19]
 
-### L'article 19 CDPH et son interprétation stricte
-
-L'**article 19 de la CDPH** (« Autonomie de vie et inclusion dans la société ») est l'article clé pour la désinstitutionnalisation. Il pose trois éléments :
-
-#### Les trois piliers de l'article 19
-
-> *« Les États Parties à la présente Convention reconnaissent à toutes les personnes handicapées le droit de vivre dans la société, avec la même liberté de choix que les autres personnes, et prennent des mesures efficaces et appropriées pour faciliter aux personnes handicapées la pleine jouissance de ce droit ainsi que leur pleine intégration et participation à la société. »* [@cdph2006, art. 19]
-
-Trois conditions :
-
-- **Choix du lieu de vie** et des personnes avec qui vivre (alinéa a)
-- **Accès à des services d'aide à domicile et à l'assistance personnelle** (alinéa b)
-- **Accès aux services généraux** sur la base de l'égalité (alinéa c)
-
-#### L'Observation générale n° 5 (2017)
-
-Le Comité ONU CDPH a publié en septembre 2017 une **Observation générale n° 5** qui interprète strictement l'article 19. Trois éléments structurants :
-
-**(1)** *« Les institutions résidentielles, telles que les foyers de longue durée, les hôpitaux psychiatriques pour personnes handicapées et les institutions de soins en milieu fermé, constituent une violation de la Convention. »* Cette lecture est **maximaliste** : tout établissement de longue durée séparant les personnes handicapées du reste de la population est problématique en soi.
-
-**(2)** Le Comité refuse les *« petites institutions »* comme alternative. Une structure de 8-10 places n'est pas une *« vie dans la communauté »* si elle reproduit les caractéristiques institutionnelles (vie collective imposée, absence de contrôle sur le quotidien, séparation d'avec la population générale).
-
-**(3)** La désinstitutionnalisation doit être **planifiée**, **financée**, et **non préjudiciable** aux personnes concernées. Pas de fermeture sans alternative en place.
+Trois conditions sont explicitées : choix du lieu de vie et des personnes avec qui vivre (alinéa a) ; accès à des services d'aide à domicile et à l'assistance personnelle (alinéa b) ; accès aux services généraux sur la base de l'égalité (alinéa c). Le Comité ONU CDPH a publié en septembre 2017 une Observation générale n° 5 [@cdph_og5] qui interprète strictement l'article 19. Trois éléments structurants. Premièrement, *« les institutions résidentielles, telles que les foyers de longue durée, les hôpitaux psychiatriques pour personnes handicapées et les institutions de soins en milieu fermé, constituent une violation de la Convention »*. Cette lecture est maximaliste : tout établissement de longue durée séparant les personnes handicapées du reste de la population est problématique en soi. Deuxièmement, le Comité refuse les « petites institutions » comme alternative — une structure de 8-10 places n'est pas une vie dans la communauté si elle reproduit les caractéristiques institutionnelles. Troisièmement, la désinstitutionnalisation doit être planifiée, financée, et non préjudiciable aux personnes concernées. Pas de fermeture sans alternative en place. Cette interprétation a été précisée par Quinn [@quinn2010] et Degener [@degener2017].
 
 ::: {.callout-warning appearance="simple"}
 ## Lecture controversée
 
-L'interprétation du Comité ONU CDPH est **maximaliste** et controversée. Plusieurs États (dont la Suisse) considèrent que des **alternatives intermédiaires** (habitats accompagnés, foyers de petite taille) peuvent être conformes à l'article 19. Le débat n'est pas tranché.
+L'interprétation du Comité ONU CDPH est maximaliste et controversée. Plusieurs États (dont la Suisse) considèrent que des alternatives intermédiaires (habitats accompagnés, foyers de petite taille) peuvent être conformes à l'article 19. Le débat n'est pas tranché [@biglerschob2016].
 
-Pour le TS, l'enjeu est de **connaître la position stricte du Comité** et de l'utiliser comme **horizon normatif**, sans nécessairement la considérer comme la seule lecture possible.
+Pour le TS, l'enjeu est de connaître la position stricte du Comité et de l'utiliser comme horizon normatif, sans nécessairement la considérer comme la seule lecture possible.
 :::
 
-### Les observations finales sur la Suisse (2022)
+Le Comité ONU CDPH a examiné le rapport initial de la Suisse les 14-15 mars 2022 et publié ses observations finales le 13 avril 2022 [@onu2022]. Le rapport (CRPD/C/CHE/CO/1) compte une trentaine de pages et formule plus de 80 recommandations. Sur la désinstitutionnalisation, les paragraphes clés sont § 41-42 : *« The Committee is concerned about the lack of a comprehensive deinstitutionalization strategy. »* (§ 41) et *« The Committee recommends that the State party adopt a deinstitutionalization strategy with a clear time frame. »* (§ 42). Le Comité critique également l'absence de données nationales consolidées, la fragmentation cantonale des politiques d'habitat, la prévalence de la curatelle de portée générale [@cdph_og1 ; @maitre2021], l'insuffisance des services à domicile et de l'accessibilité, le retard de l'école inclusive [@ebersold2017]. Inclusion Handicap a publié dans la foulée un communiqué intitulé *« La Suisse en mauvaise position »* [@inclusionhandicap2022].
 
-Le Comité ONU CDPH a examiné le rapport initial de la Suisse les 14-15 mars 2022 et publié ses observations finales le **13 avril 2022** [@onu2022]. Le rapport (CRPD/C/CHE/CO/1) compte une trentaine de pages et formule plus de **80 recommandations**.
-
-Sur la désinstitutionnalisation, les paragraphes clés sont **§ 41-42** :
-
-> *« The Committee is concerned about the lack of a comprehensive deinstitutionalization strategy. »* (§ 41)
->
-> *« The Committee recommends that the State party adopt a deinstitutionalization strategy with a clear time frame. »* (§ 42)
-
-Le Comité critique également :
-
-- L'absence de **données nationales consolidées** sur le nombre de personnes en institution
-- La **fragmentation cantonale** des politiques d'habitat
-- La **prévalence de la curatelle de portée générale** (art. 12, vu en séance 3)
-- L'**insuffisance des services à domicile** et de l'**accessibilité**
-- Le **retard de l'école inclusive**
-
-Inclusion Handicap a publié dans la foulée un communiqué intitulé *« La Suisse en mauvaise position »* qui résume les recommandations pour le public.
+## Mansell et Beadle-Brown, la position IASSIDD
 
 ::: {.column-margin}
-Le **Comité ONU CDPH** est composé de 18 experts indépendants, dont environ la moitié sont eux-mêmes des personnes en situation de handicap. La présence majoritaire de personnes concernées dans l'organe de suivi est une innovation institutionnelle de la CDPH par rapport aux autres traités onusiens.
+Jim Mansell (1952-2012) était professeur à l'Université du Kent. Julie Beadle-Brown lui a succédé dans la direction du *Tizard Centre*, centre de référence britannique pour le handicap intellectuel. Leur position de 2010 fait référence dans la communauté scientifique internationale.
 :::
 
-### Mansell et Beadle-Brown : la position IASSIDD
-
-::: {.column-margin}
-**Jim Mansell** (1952-2012) était professeur à l'Université du Kent. **Julie Beadle-Brown** lui a succédé dans la direction du *Tizard Centre*, centre de référence britannique pour le handicap intellectuel. Leur position de 2010 fait référence dans la communauté scientifique internationale.
-:::
-
-L'**International Association for the Scientific Study of Intellectual Disabilities (IASSIDD)** est la principale association scientifique mondiale sur le handicap intellectuel. Sa position officielle sur la désinstitutionnalisation a été formalisée en 2010 dans un texte de Jim Mansell et Julie Beadle-Brown [@mansell2010].
-
-#### L'argument central
-
-La position IASSIDD se distingue à la fois de la lecture maximaliste du Comité ONU CDPH et de la position défensive de certains gestionnaires d'institutions. Sa thèse :
+L'*International Association for the Scientific Study of Intellectual Disabilities* (IASSIDD) est la principale association scientifique mondiale sur le handicap intellectuel. Sa position officielle sur la désinstitutionnalisation a été formalisée en 2010 dans un texte de Jim Mansell et Julie Beadle-Brown [@mansell2010]. La position IASSIDD se distingue à la fois de la lecture maximaliste du Comité ONU CDPH et de la position défensive de certains gestionnaires d'institutions. Sa thèse :
 
 > *« Community-based services are typically associated with better outcomes than institutional provision, but outcomes vary widely depending on how services are organised. »* [@mansell2010, p. 106]
 
-Autrement dit :
+Autrement dit, en moyenne les services de proximité produisent de meilleurs résultats (qualité de vie, autodétermination, choix quotidiens, participation sociale) que les institutions résidentielles ; mais la variance est importante — certains services communautaires de mauvaise qualité produisent des résultats moins bons que certaines institutions de bonne qualité ; l'enjeu n'est pas la taille mais l'organisation — ce qui compte, c'est la qualité de l'accompagnement, l'autodétermination effective, l'inclusion réelle. Cette position est étayée par les recherches longitudinales de Stancliffe et collègues [@stancliffe2007], Emerson et collègues [@emerson1996], et plus récemment Bigby et Beadle-Brown [@bigby2018]. Mansell, Beadle-Brown et collègues [@mansell2007] ont formalisé le concept d'*active support* — accompagnement professionnel qui maximise l'engagement, pas le contrôle. Verdugo et collègues [@verdugo2005] et Schalock [@schalock2007] proposent un modèle de qualité de vie qui structure l'évaluation.
 
-- En moyenne, **les services de proximité produisent de meilleurs résultats** (qualité de vie, autodétermination, choix quotidiens, participation sociale) que les institutions résidentielles
-- **Mais la variance est importante** : certains services communautaires de mauvaise qualité produisent des résultats moins bons que certaines institutions de bonne qualité
-- **L'enjeu n'est pas la taille mais l'organisation** : ce qui compte, c'est la qualité de l'accompagnement, l'autodétermination effective, l'inclusion réelle
-
-#### Les conditions de qualité
-
-Mansell et Beadle-Brown identifient plusieurs conditions :
-
-| Condition | Indicateur |
-|---|---|
-| **Active support** | Accompagnement professionnel qui maximise l'engagement, pas le contrôle |
-| **Person-centred planning** | Projet personnalisé co-construit avec la personne |
-| **Choix au quotidien** | La personne décide de son emploi du temps, ses activités, ses repas |
-| **Inclusion dans la communauté** | Usage des services ordinaires, participation civique |
-| **Continuité des relations** | Maintien des liens familiaux et amicaux |
-| **Compétences du personnel** | Formation continue, supervision, conditions de travail correctes |
+Mansell et Beadle-Brown identifient plusieurs conditions de qualité : *active support* (accompagnement professionnel qui maximise l'engagement, pas le contrôle) ; *person-centred planning* (projet personnalisé co-construit avec la personne) ; choix au quotidien (la personne décide de son emploi du temps, ses activités, ses repas) ; inclusion dans la communauté (usage des services ordinaires, participation civique) ; continuité des relations (maintien des liens familiaux et amicaux) ; compétences du personnel (formation continue, supervision, conditions de travail correctes) [@felce1998 ; @stancliffe2007 ; @bigby2018].
 
 ::: {.callout-note appearance="simple"}
 ## Pour la pratique du TS
 
-La position IASSIDD donne une **grille d'évaluation** opérationnelle. Devant un projet de désinstitutionnalisation, le TS peut poser six questions :
-
-1. Le projet prévoit-il un *active support* avec formation des accompagnant·es ?
-2. Un projet personnalisé est-il co-construit avec la personne ?
-3. La personne aura-t-elle un **contrôle réel** de son quotidien ?
-4. L'habitat est-il **dans la communauté**, pas une réplique miniature de l'institution ?
-5. Les **liens existants** sont-ils maintenus ?
-6. Les conditions de travail du personnel sont-elles **acceptables** ?
-
-Si non, le projet risque de produire une **transinstitutionnalisation**.
+La position IASSIDD donne une grille d'évaluation opérationnelle. Devant un projet de désinstitutionnalisation, le TS peut poser six questions : le projet prévoit-il un *active support* avec formation des accompagnant·es ? Un projet personnalisé est-il co-construit avec la personne ? La personne aura-t-elle un contrôle réel de son quotidien ? L'habitat est-il dans la communauté, pas une réplique miniature de l'institution ? Les liens existants sont-ils maintenus ? Les conditions de travail du personnel sont-elles acceptables ? Si non, le projet risque de produire une transinstitutionnalisation [@power2013].
 :::
 
-#### La controverse avec le Comité ONU
+La position IASSIDD a été parfois critiquée par les militant·es du mouvement *Independent Living* [@ratzka2003] comme trop conciliante avec l'existant. Le Comité ONU CDPH [@cdph_og5] considère que toute institution résidentielle est inconventionnelle ; Mansell et Beadle-Brown considèrent que la qualité prime sur le format. Cette tension est productive pour le TS. Elle l'oblige à distinguer horizon normatif (CDPH stricte) et mesure pragmatique (IASSIDD).
 
-La position IASSIDD a été parfois critiquée par les militant·es du mouvement *Independent Living* comme trop conciliante avec l'existant. Le Comité ONU CDPH considère que toute institution résidentielle est inconventionnelle ; Mansell-Beadle-Brown considèrent que la **qualité** prime sur le **format**.
-
-Cette tension est productive pour le TS. Elle l'oblige à distinguer **horizon normatif** (CDPH stricte) et **mesure pragmatique** (IASSIDD).
-
-### Les jalons suisses 2014-2026
+## Les jalons suisses 2014-2026
 
 ![Frise chronologique 2006-2026](../images/timeline-2006-2026.svg)
 
-#### La ratification de la CDPH (15 avril 2014)
+La Suisse a ratifié la CDPH avec trois réserves (voir séance 3). La ratification a été tardive et a fait l'objet de débats parlementaires importants — la fragmentation cantonale des politiques sociales et la subsidiarité étaient au cœur des objections [@biglerschob2016 ; @tabin2019]. Antérieure à la ratification CDPH, l'introduction de la contribution d'assistance AI par la 6ᵉ révision LAI (1ᵉʳ janvier 2012) a constitué un premier outil structurel pour la désinstitutionnalisation. Elle sera approfondie en séance 6 [@ofas2020 ; @fracheboud2019]. Les observations finales du Comité ONU [@onu2022] ont constitué un choc symbolique majeur pour le débat suisse — la presse romande a relayé largement (*Le Temps*, *Tribune de Genève*, RTS).
 
-La Suisse a ratifié la CDPH avec **trois réserves** (voir séance 3). La ratification a été tardive et a fait l'objet de débats parlementaires importants — la **fragmentation cantonale** des politiques sociales et la **subsidiarité** étaient au cœur des objections.
+Le plan cantonal de mise en œuvre de la CDPH publié en janvier 2023 [@plancantonal2023] par le Département de la cohésion sociale (DCS) est le document de référence pour Genève. Quatre axes structurants : sensibiliser et lutter contre la discrimination ; renforcer l'accessibilité ; garantir l'autodétermination et la participation ; assurer un cadre institutionnel équitable. Le plan a été élaboré en consultation avec une vingtaine d'organisations (Pro Infirmis, INSOS-Genève, Cap-Contact, AGILE.CH [@agile2023], fégaph). L'avant-projet de Loi sur l'égalité et les droits des personnes handicapées (LED-H) [@ledh2024] a été mis en consultation publique le 12 juin 2024. Co-construit avec une quarantaine d'organisations, il vise à doter Genève d'une législation cantonale dédiée à l'égalité dans le handicap. L'Initiative populaire fédérale *Pour l'inclusion* a été déposée le 5 septembre 2024 avec 107 910 signatures validées sur 100 000 nécessaires. Elle demande l'inscription constitutionnelle de l'égalité de fait des personnes handicapées, du droit à la participation politique, économique, sociale et culturelle, du droit à l'autodétermination (choix du lieu de vie, des accompagnant·es), du droit à l'assistance personnelle financée par l'État. Le Conseil fédéral a adopté son message de contre-projet indirect le 25 février 2026. Le texte est jugé en-deçà des attentes par Inclusion Handicap et AGILE.CH [@inclusionhandicap2022 ; @agile2023] qui demandent un rejet de ce contre-projet ou un retrait stratégique de l'initiative pour aller au vote sur le texte initial.
 
-#### L'introduction de la contribution d'assistance AI (2012)
-
-Antérieure à la ratification CDPH, l'introduction de la contribution d'assistance AI par la **6ᵉ révision LAI** (1ᵉʳ janvier 2012) a constitué un premier outil structurel pour la désinstitutionnalisation. Elle sera approfondie en séance 6.
-
-#### Les observations finales du Comité ONU (13 avril 2022)
-
-Voir ci-dessus. Choc symbolique majeur pour le débat suisse — la presse romande a relayé largement (*Le Temps*, *Tribune de Genève*, *RTS*).
-
-#### Le plan cantonal genevois CDPH (janvier 2023)
-
-Le **plan cantonal de mise en œuvre de la CDPH** publié en janvier 2023 par le Département de la cohésion sociale (DCS) est le document de référence pour Genève. Quatre axes structurants :
-
-1. **Sensibiliser et lutter contre la discrimination**
-2. **Renforcer l'accessibilité**
-3. **Garantir l'autodétermination et la participation**
-4. **Assurer un cadre institutionnel équitable**
-
-Le plan a été élaboré en consultation avec une vingtaine d'organisations (Pro Infirmis, INSOS-Genève, Cap-Contact, AGILE.CH, fégaph, etc.).
-
-#### L'avant-projet LED-H (12 juin 2024)
-
-L'**avant-projet de Loi sur l'égalité et les droits des personnes handicapées (LED-H)** a été mis en consultation publique le 12 juin 2024. Co-construit avec une quarantaine d'organisations, il vise à doter Genève d'une législation cantonale dédiée à l'égalité dans le handicap.
-
-#### L'Initiative populaire « Pour l'inclusion » (5 septembre 2024)
-
-L'**Initiative populaire fédérale Pour l'inclusion** a été déposée le 5 septembre 2024 avec **107 910 signatures validées** (sur 100 000 nécessaires). Elle demande l'inscription constitutionnelle de :
-
-- L'**égalité de fait** des personnes handicapées
-- Le droit à la **participation politique, économique, sociale et culturelle**
-- Le droit à l'**autodétermination** (choix du lieu de vie, des accompagnant·es)
-- Le droit à l'**assistance personnelle** financée par l'État
-
-#### Le contre-projet du Conseil fédéral (25 février 2026)
-
-Le Conseil fédéral a adopté son message de contre-projet indirect le **25 février 2026**. Le texte est jugé en-deçà des attentes par Inclusion Handicap et AGILE.CH qui demandent un **rejet** de ce contre-projet ou un retrait stratégique de l'initiative pour aller au vote sur le texte initial.
-
-### Qui sort-on de l'institution ? Qui reste invisible ?
+## Qui sort-on de l'institution ? Qui reste invisible ?
 
 ::: {.column-margin}
-**Geneviève Piérart** est professeure HES à la HETS Fribourg (HES-SO). Ses recherches portent sur le handicap, la famille, la migration et la surdité. Son ouvrage collectif *Handicap, famille et migration* (IES, 2013) est la référence francophone sur cette intersection.
+Geneviève Piérart est professeure HES à la HETS Fribourg (HES-SO). Ses recherches portent sur le handicap, la famille, la migration et la surdité. Son ouvrage collectif *Handicap, famille et migration* (IES, 2013) est la référence francophone sur cette intersection.
 :::
 
-L'**intersection handicap-migration** est un angle mort majeur des stratégies de désinstitutionnalisation. Les travaux de **Geneviève Piérart** [@pierart2013] documentent :
-
-- **Sous-représentation** des familles migrantes dans les dispositifs d'aide précoce (diagnostic tardif, accès retardé aux services)
-- **Non-recours** structurel lié aux barrières linguistiques, à la méconnaissance des dispositifs, à la peur des autorités (notamment chez les personnes sans statut stable)
-- **Représentations culturelles** différenciées du handicap qui peuvent entrer en tension avec les dispositifs suisses (par exemple, l'idée d'une responsabilité collective familiale vs l'individualisation suisse)
-- **Médiation interculturelle** rarement systématisée dans les services de désinstitutionnalisation
+L'intersection handicap-migration est un angle mort majeur des stratégies de désinstitutionnalisation. Les travaux de Geneviève Piérart [@pierart2013] documentent une sous-représentation des familles migrantes dans les dispositifs d'aide précoce (diagnostic tardif, accès retardé aux services), un non-recours structurel lié aux barrières linguistiques, à la méconnaissance des dispositifs, à la peur des autorités (notamment chez les personnes sans statut stable) [@spire2008], des représentations culturelles différenciées du handicap qui peuvent entrer en tension avec les dispositifs suisses (par exemple, l'idée d'une responsabilité collective familiale contre l'individualisation suisse) [@gardou2010], et une médiation interculturelle rarement systématisée dans les services de désinstitutionnalisation. Cette dimension est connectée aux *critical disability studies* [@goodley2017] et à l'intersection genre-handicap [@masson2013 ; @wendell1996] vues en séance 2.
 
 ::: {.callout-important appearance="simple"}
 ## Conséquence pour le TS
 
-Une stratégie de désinstitutionnalisation qui ne thématise pas cet angle mort produit une **désinstitutionnalisation à deux vitesses** : pour les familles déjà intégrées au système, elle ouvre des options ; pour les familles migrantes précaires, elle laisse perdurer des situations de non-recours ou de placement par défaut.
-
-Le TS doit articuler **droit à la communauté** (art. 19 CDPH) et **droit à la non-discrimination** (art. 5 CDPH), avec une vigilance particulière pour les familles éloignées des dispositifs.
+Une stratégie de désinstitutionnalisation qui ne thématise pas cet angle mort produit une désinstitutionnalisation à deux vitesses : pour les familles déjà intégrées au système, elle ouvre des options ; pour les familles migrantes précaires, elle laisse perdurer des situations de non-recours ou de placement par défaut [@revillard2020 ; @piecek2017]. Le TS doit articuler droit à la communauté (art. 19 CDPH) et droit à la non-discrimination (art. 5 CDPH), avec une vigilance particulière pour les familles éloignées des dispositifs.
 :::
 
-### Étude de cas : Sureaux vs foyer EPI
+## Étude de cas : Sureaux contre foyer EPI
 
-#### Le projet Sureaux
-
-**Sureaux** (Chêne-Bougeries) est un habitat coopératif inclusif inauguré en mars 2021. Partenariat **Codha** (Coopérative de l'habitat associatif) + **Fondation Ensemble**. 19 logements dont 3 réservés à Ensemble pour environ 12 résident·es avec déficience intellectuelle. Le projet a reçu le 1ᵉʳ prix des Coopératives Habitat Suisse dans la catégorie « partenariat ».
-
-Lecture :
-
-- **Au sens du Comité ONU CDPH** : les résident·es sont dans la communauté (immeuble ordinaire, voisinage mixte), ont accès aux services généraux (commerces, transports, voisinage), exercent un choix réel (gouvernance coopérative). Conforme à l'art. 19.
-- **Au sens IASSIDD** : *active support* assuré par Ensemble, projet co-construit, choix quotidien réel.
-
-#### Les EPI
-
-Les **Établissements publics pour l'intégration (EPI)** sont la structure historique cantonale genevoise. Ils accueillent plus de 2 000 personnes par an dans plus de 40 lieux différents (ateliers, foyers, accompagnement à domicile). Statut public, financement cantonal et fédéral.
-
-Lecture :
-
-- Tous les dispositifs EPI ne sont pas équivalents. Certains ateliers occupationnels et foyers de jour conjuguent bien intégration communautaire et accompagnement professionnel. D'autres foyers résidentiels collectifs présentent les caractéristiques institutionnelles que le Comité ONU CDPH considère comme problématiques.
-- L'enjeu n'est pas EPI vs Sureaux. C'est la **diversification** de l'offre : Sureaux pour celles et ceux dont le projet de vie va dans cette direction, des EPI transformés pour les autres.
+Sureaux (Chêne-Bougeries) est un habitat coopératif inclusif inauguré en mars 2021. Partenariat Codha (Coopérative de l'habitat associatif) et Fondation Ensemble. 19 logements dont 3 réservés à Ensemble pour environ 12 résident·es avec déficience intellectuelle. Le projet a reçu le 1ᵉʳ prix des Coopératives Habitat Suisse dans la catégorie « partenariat » [@plancantonal2023]. Au sens du Comité ONU CDPH [@cdph_og5], les résident·es sont dans la communauté (immeuble ordinaire, voisinage mixte), ont accès aux services généraux (commerces, transports, voisinage), exercent un choix réel (gouvernance coopérative). Conforme à l'art. 19. Au sens IASSIDD [@mansell2010], *active support* assuré par Ensemble, projet co-construit, choix quotidien réel. Les Établissements publics pour l'intégration (EPI) sont la structure historique cantonale genevoise. Ils accueillent plus de 2 000 personnes par an dans plus de 40 lieux différents (ateliers, foyers, accompagnement à domicile). Statut public, financement cantonal et fédéral [@lipphvers2020]. Tous les dispositifs EPI ne sont pas équivalents. Certains ateliers occupationnels et foyers de jour conjuguent bien intégration communautaire et accompagnement professionnel. D'autres foyers résidentiels collectifs présentent les caractéristiques institutionnelles que le Comité ONU CDPH considère comme problématiques [@cdph_og5]. L'enjeu n'est pas EPI contre Sureaux. C'est la diversification de l'offre : Sureaux pour celles et ceux dont le projet de vie va dans cette direction, des EPI transformés pour les autres [@gardou2012 ; @ebersold2017].
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -262,95 +117,58 @@ Lecture :
 
 ### Groupe A — Le cadre normatif
 
-Comité ONU CDPH (2017), *Observation générale n° 5 sur l'article 19* (20 pages).
+Comité ONU CDPH (2017), *Observation générale n° 5 sur l'article 19* [@cdph_og5] (20 pages). [@onu2022], sections sur l'article 19 (10 pages).
 
-[@onu2022], **sections sur l'article 19** (10 pages).
+Comment le Comité ONU CDPH interprète-t-il l'article 19 ? Pourquoi refuse-t-il les « petites institutions » comme alternative ? Quelles critiques précises adresse-t-il à la Suisse ?
 
-**Questions guides** :
-
-- Comment le Comité ONU CDPH interprète-t-il l'article 19 ?
-- Pourquoi refuse-t-il les *« petites institutions »* comme alternative ?
-- Quelles critiques précises adresse-t-il à la Suisse ?
+Compléments éventuels : Quinn & Degener [@quinn2002], Degener [@degener2017], Bantekas et al. [@bantekas2018], Bigler-Schöb & Gächter [@biglerschob2016].
 
 ### Groupe B — La controverse scientifique
 
-[@mansell2010] (9 pages).
+[@mansell2010] (9 pages). Bigby & Beadle-Brown [@bigby2018] (15 pages, compagnon FR).
 
-Bigby & Beadle-Brown (2018). *Improving quality of life outcomes in supported accommodation* (15 pages, compagnon FR).
+En quoi la position IASSIDD se distingue-t-elle de celle du Comité ONU ? Quelles sont les conditions de qualité identifiées ? Comment ces conditions s'appliquent-elles à votre lieu de FP ?
 
-**Questions guides** :
-
-- En quoi la position IASSIDD se distingue-t-elle de celle du Comité ONU ?
-- Quelles sont les **conditions de qualité** identifiées ?
-- Comment ces conditions s'appliquent-elles à votre lieu de FP ?
+Compléments éventuels : Mansell et al. 2007 [@mansell2007], Stancliffe et al. [@stancliffe2007], Emerson [@emerson1996], Verdugo [@verdugo2005], Schalock [@schalock2007], Felce & Lowe [@felce1998], Wolfensberger [@wolfensberger1972 ; @wolfensberger1983], Nirje [@nirje1969].
 
 ### Groupe C — Le terrain suisse et ses angles morts
 
-AGILE.CH (2023-2024). *Vie autodéterminée* (20 pages).
+AGILE.CH [@agile2023] (20 pages). Inclusion Handicap [@inclusionhandicap2022] (15 pages). [@pierart2013], introduction et 1 chapitre (30 pages).
 
-Inclusion Handicap (2022). *La Suisse en mauvaise position* (15 pages).
+Quelles sont les attentes du mouvement suisse du handicap ? Quels angles morts Piérart identifie-t-elle dans les politiques actuelles ? Comment penser une désinstitutionnalisation non discriminatoire ?
 
-[@pierart2013], **introduction et 1 chapitre** (30 pages).
-
-**Questions guides** :
-
-- Quelles sont les attentes du mouvement suisse du handicap ?
-- Quels **angles morts** Piérart identifie-t-elle dans les politiques actuelles ?
-- Comment penser une désinstitutionnalisation **non discriminatoire** ?
+Compléments éventuels : Tabin et al. [@tabin2019], Probst & Tabin [@probst2017], Piecek et al. [@piecek2017], Power [@power2013], Castel [@castel1995], Ratzka [@ratzka2003], ENIL [@enil2023], LIPPI [@lipphvers2020], LED-H [@ledh2024].
 
 :::
 
 ## Pour aller plus loin
 
-**Pour l'histoire de la désinstitutionnalisation en psychiatrie** : Castel, R. (1995). *Les Métamorphoses de la question sociale* (Fayard) — la transformation des grandes institutions modernes dans une perspective française.
-
-**Pour le mouvement Independent Living** : Ratzka, A. (2003). *Independent Living and Personal Assistance: Lessons for the Practice and Policy* — articles fondateurs du mouvement *Independent Living* européen.
-
-**Pour la critique du marché du care** : Power, A. (2013). *Making space for belonging: critical reflections on the implementation of personalised adult social care* (*Social Science & Medicine*, 88, 68-75) — analyse critique de l'individualisation des prestations.
-
-**Pour le contexte romand** : Lucas, B. (2022). *Care, droits et citoyenneté* (HETS Genève, PNR 74) — étude empirique sur le rapport entre soins, droits et citoyenneté en Suisse.
+Pour l'histoire de la désinstitutionnalisation en psychiatrie, Castel [@castel1995] et Foucault [@foucault1972] proposent l'analyse historique des grandes institutions modernes. Pour le mouvement *Independent Living*, Ratzka [@ratzka2003] est le texte fondateur. Pour la critique du marché du care, Power [@power2013] analyse l'individualisation des prestations. Pour le contexte romand, Lucas [@lucas2022] propose une étude empirique sur le rapport entre soins, droits et citoyenneté, complétée par Tøssebro [@tossebro2017] sur la dimension familiale. Pour l'évaluation des services, Verdugo [@verdugo2005] et Schalock [@schalock2007] proposent les modèles de qualité de vie de référence. Pour la perspective normative, Gardou [@gardou2012] sur la société inclusive. Pour la critique structurale, ENIL [@enil2023] documente l'usage continu des fonds européens pour rénover des institutions.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice 1 : évaluer la qualité d'un habitat alternatif
+## Exercice 1 — évaluer la qualité d'un habitat alternatif
 
 Un foyer de 60 places se réorganise en 8 appartements de 4 personnes dans le même quartier. Quels indicateurs Mansell-Beadle-Brown vous permettent d'évaluer la qualité de cette réorganisation, au-delà de la simple « sortie de l'institution » ?
 
 ### Réponse
 
-Indicateurs IASSIDD [@mansell2010] à vérifier :
+Indicateurs IASSIDD [@mansell2010 ; @bigby2018] à vérifier : qualité de vie individuelle [@verdugo2005] (choix au quotidien, activités significatives, relations sociales) ; inclusion dans la communauté (usage des services ordinaires, participation civique) ; autodétermination effective (décisions sur le lieu, les colocataires, les routines, l'emploi du temps) ; *active support* [@mansell2007] (accompagnement professionnel qui maximise l'engagement, pas le contrôle) ; continuité des relations (maintien des liens familiaux et amicaux) ; compétences du personnel (formation continue, supervision, conditions de travail) [@felce1998].
 
-- **Qualité de vie individuelle** : choix au quotidien, activités significatives, relations sociales
-- **Inclusion dans la communauté** : usage des services ordinaires (commerces, transports, loisirs), participation civique
-- **Autodétermination effective** : décisions sur le lieu, les colocataires, les routines, l'emploi du temps
-- ***Active support*** : accompagnement professionnel qui maximise l'engagement, pas le contrôle
-- **Continuité des relations** : maintien des liens familiaux et amicaux
-- **Compétences du personnel** : formation continue, supervision, conditions de travail
-
-Sans cette évaluation, on peut très bien avoir **transinstitutionnalisation** : 8 mini-foyers fonctionnant comme un grand foyer, avec les mêmes routines, les mêmes asymétries de pouvoir, simplement répartis sur 8 sites.
-
-Action concrète : proposer une grille d'évaluation au comité directeur ; mobiliser la position IASSIDD comme référence externe ; impliquer les personnes concernées dans l'évaluation.
+Sans cette évaluation, on peut très bien avoir transinstitutionnalisation [@power2013] : 8 mini-foyers fonctionnant comme un grand foyer, avec les mêmes routines, les mêmes asymétries de pouvoir, simplement répartis sur 8 sites. Action concrète : proposer une grille d'évaluation au comité directeur, mobiliser la position IASSIDD comme référence externe, impliquer les personnes concernées dans l'évaluation [@charlton1998].
 :::
 
 ::: {.callout-tip collapse="true"}
-## Exercice 2 : repérer un angle mort
+## Exercice 2 — repérer un angle mort
 
 Une institution genevoise lance un programme d'accompagnement à la sortie en habitat communautaire. Le bilan à 5 ans : 80 % des bénéficiaires sont des personnes nées en Suisse, avec famille intégrée et niveau socio-économique moyen-supérieur. Que dirait Piérart ?
 
 ### Réponse
 
-Le bilan signale un **angle mort** au sens de [@pierart2013] : le programme bénéficie majoritairement aux familles déjà familières des dispositifs suisses. Les familles **migrantes**, **précaires**, **non germanophones/francophones** sont sous-représentées.
+Le bilan signale un angle mort au sens de Piérart [@pierart2013] : le programme bénéficie majoritairement aux familles déjà familières des dispositifs suisses. Les familles migrantes, précaires, non germanophones/francophones sont sous-représentées. Trois mécanismes possibles : information non accessible (français/allemand juridique, absence de FALC, pas de traduction) ; procédures complexes (formulaires, calendriers, rendez-vous administratifs) [@revillard2020 ; @spire2008] ; représentations différenciées (peur des autorités, méfiance vis-à-vis des institutions, conceptions familiales du soin) [@gardou2010].
 
-Trois mécanismes possibles :
-
-1. **Information** non accessible (français/allemand juridique, absence de FALC, pas de traduction)
-2. **Procédures** complexes (formulaires, calendriers, rendez-vous administratifs)
-3. **Représentations** différenciées (peur des autorités, méfiance vis-à-vis des institutions, conceptions familiales du soin)
-
-Le programme reproduit l'inégalité d'accès. Sans action ciblée, il devient un **instrument d'inégalité** masquée par une rhétorique d'inclusion.
-
-Action concrète : audit d'accessibilité du programme, partenariat avec des médiateur·trices interculturel·les, FALC, communication multilingue, présence dans les lieux fréquentés par les familles migrantes (consultations sociales, écoles, associations communautaires).
+Le programme reproduit l'inégalité d'accès. Sans action ciblée, il devient un instrument d'inégalité masquée par une rhétorique d'inclusion. Action concrète : audit d'accessibilité du programme, partenariat avec des médiateur·trices interculturel·les, FALC, communication multilingue, présence dans les lieux fréquentés par les familles migrantes.
 :::
 
 ## Travail attendu pour la séance 5
@@ -359,17 +177,15 @@ Identifier un dispositif d'habitat ou d'accompagnement de votre canton de FP. An
 
 ## Bibliographie complète de la séance
 
-Voir Annexe C. Citations principales : @mansell2010, @onu2022, @pierart2013.
+Voir Annexe C. Citations principales : @bigby2018, @cdph2006, @cdph_og5, @mansell2010, @onu2022, @pierart2013.
 
-**Compléments** : AGILE.CH (2023-2024), *Vie autodéterminée*. Bigby & Beadle-Brown (2018). Castel (1995), *Les Métamorphoses de la question sociale*. Comité ONU CDPH (2017), *Observation générale n° 5*. ENIL (2023). État de Genève DCS (2023), *Plan cantonal CDPH*. État de Genève DCS (2024), *Avant-projet LED-H*. Inclusion Handicap (2022). Lucas (2022), *Care, droits et citoyenneté*. Power (2013), *Making space for belonging*. Ratzka (2003), *Independent Living*.
+Compléments mobilisés : AGILE.CH [@agile2023], Anttonen & Sipilä [@anttonen1996], Bantekas et al. [@bantekas2018], Bigler-Schöb & Gächter [@biglerschob2016], Castel [@castel1995], Comité OG n° 1 [@cdph_og1], Daly [@daly2002], Degener [@degener2017], Ebersold [@ebersold2017], Emerson [@emerson1996], ENIL [@enil2023], Felce & Lowe [@felce1998], Finkelstein [@finkelstein1980], Foucault [@foucault1972], Fracheboud & Lehmann [@fracheboud2019], Gardou [@gardou2010 ; @gardou2012], Goodley [@goodley2017], Inclusion Handicap [@inclusionhandicap2022], LIPPI rapport [@lipphvers2020], Lucas [@lucas2022], Maître [@maitre2021], Mansell et al. 2007 [@mansell2007], Masson [@masson2013], LED-H [@ledh2024], Nirje [@nirje1969], OFAS [@ofas2020], Piecek et al. [@piecek2017], Plan cantonal [@plancantonal2023], Power [@power2013], Probst & Tabin [@probst2017], Quinn [@quinn2010], Quinn & Degener [@quinn2002], Ratzka [@ratzka2003], Revillard [@revillard2020], Schalock [@schalock2007], Spire [@spire2008], Stancliffe et al. [@stancliffe2007], Tabin et al. [@tabin2019], Tøssebro [@tossebro2017], UPIAS [@upias1976], Verdugo [@verdugo2005], Wendell [@wendell1996], Wolfensberger [@wolfensberger1972 ; @wolfensberger1983].
 
 ## Fiches de lecture détaillées
 
-Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+Cette séance mobilise les auteurs suivants, traités en détail dans l'Annexe D :
 
 > Mansell & Beadle-Brown · Piérart
-
-Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
 
 [:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
 
