@@ -47,88 +47,287 @@ Compétences PEC20 ciblées : **C2, C7, C8, C9, C11**.
 
 ### Défi 1 — Protection / Autonomie
 
-Robert Perske formule en 1972 l'une des phrases les plus citées du champ :
+#### Robert Perske et la dignité du risque
 
-> *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »*
+::: {.column-margin}
+**Robert Perske** (1927-2016) était un pasteur et activiste américain proche du mouvement des familles d'enfants avec déficience intellectuelle. Son texte de 1972 *« The Dignity of Risk »* est court (4 pages) mais sa formule a circulé mondialement. Perske a publié plusieurs livres dont *Show Me No Mercy* (1984) et *Circles of Friends* (1988).
+:::
 
-La **dignité du risque** signifie que les personnes ayant une déficience intellectuelle ont droit à prendre des risques ordinaires. Surprotéger nie l'humanité de la personne.
+Robert Perske, pasteur impliqué dans le mouvement nord-américain pour les droits des personnes avec déficience intellectuelle, publie en 1972 un texte court dans *Mental Retardation* qui contient l'une des phrases les plus citées du champ [@perske1972] :
 
-L'**article 12 CDPH** opère le déplacement juridique : du paradigme tutélaire au paradigme du **soutien à la décision**.
+> *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »* [@perske1972]
 
-Joan Tronto [@tronto2009] déplace le care de l'éthique privée vers la philosophie politique :
+L'argument de Perske : surprotéger les personnes avec déficience intellectuelle au nom de la sécurité revient à leur **dénier leur humanité**. Une vie sans aucun risque est une vie sans aucune autonomie — donc une vie qui n'est pas pleinement humaine.
 
-> *« Nous sommes tous des êtres vulnérables et dépendants. Il s'agit de redistribuer la responsabilité du care, non de la concentrer sur les plus faibles. »*
+La **dignité du risque** signifie reconnaître que :
 
-Patricia Paperman et Sandra Laugier [@paperman2011] introduisent les *care ethics* en francophonie.
+- Toute personne a le droit d'**essayer**, d'**échouer**, d'**apprendre par l'expérience**
+- Les **risques ordinaires** (se déplacer seul, gérer un budget, vivre une relation, faire un choix de carrière) sont constitutifs de la vie adulte
+- Refuser ces risques au nom de la protection est une **violence symbolique**
+
+Perske écrit en 1972 dans un contexte américain où la déficience intellectuelle est encore largement institutionnalisée. Sa phrase devient un slogan du mouvement de désinstitutionnalisation et de normalisation (Wolfensberger).
+
+#### Le déplacement juridique (CDPH art. 12)
+
+L'**article 12 CDPH** (séance 3) opère le déplacement juridique correspondant. Le passage du **paradigme tutélaire** (substitution de décision par tuteur ou curateur) au **paradigme du soutien à la décision** (*supported decision-making*).
+
+Quatre différences opérationnelles :
+
+| Paradigme tutélaire | Paradigme du soutien |
+|---|---|
+| Substitution de la décision | Soutien à la décision propre |
+| Hiérarchie : tuteur > personne | Co-construction |
+| Décision finale au tuteur | Décision finale à la personne |
+| Capacité juridique restreinte | Capacité juridique universelle |
+
+En Suisse, la **curatelle de portée générale** (CC art. 398) reste massivement utilisée — c'est ce que le Comité ONU CDPH a critiqué en 2022 [@onu2022, § 22-23] (séance 4).
+
+#### Joan Tronto et l'éthique du care
+
+::: {.column-margin}
+**Joan Tronto** est philosophe politique, professeure à l'Université du Minnesota. Sa contribution majeure : avoir transformé l'éthique du care, initialement développée par Carol Gilligan en réponse à Lawrence Kohlberg dans les années 1980, en **théorie politique** du care. Son ouvrage *Moral Boundaries* (1993) et *Caring Democracy* (2013) sont les références centrales.
+:::
+
+Joan Tronto déplace le care de l'**éthique privée** vers la **philosophie politique** [@tronto2009]. Sa thèse centrale :
+
+> *« Nous sommes tous des êtres vulnérables et dépendants. Il s'agit de redistribuer la responsabilité du care, non de la concentrer sur les plus faibles. »* [@tronto2009]
+
+Quatre **phases du care** identifiées par Tronto :
+
+1. ***Caring about*** — reconnaître qu'un besoin existe
+2. ***Taking care of*** — assumer la responsabilité de la réponse
+3. ***Care giving*** — accomplir le travail de care
+4. ***Care receiving*** — recevoir le care, le réinscrire dans une relation
+
+À partir de ces quatre phases, Tronto pose la question politique : **qui assure quelle phase, dans quelle société ?** Sa réponse critique : nos sociétés concentrent les phases 3 et 4 sur des groupes spécifiques (femmes, racisé·es, migrant·es, pauvres) en déchargeant les groupes dominants (hommes, blancs, riches) de la responsabilité du care.
+
+Pour le travail social, l'apport de Tronto est décisif. Le care n'est pas une activité subalterne réservée à certains métiers : c'est une **activité politique de redistribution** de la vulnérabilité.
+
+#### Paperman et Laugier en francophonie
+
+::: {.column-margin}
+**Patricia Paperman** (Université Paris 8) et **Sandra Laugier** (Sorbonne) ont introduit les *care ethics* dans le débat francophone à partir des années 2000. Leur recueil *Le souci des autres* (EHESS, 2006/2011) et l'ouvrage de Laugier *L'éthique du care* (Vrin, 2010) sont les références francophones.
+:::
+
+Patricia Paperman et Sandra Laugier [@paperman2011] introduisent les *care ethics* dans le débat français. Leur lecture est philosophiquement plus exigeante que la lecture sociologique de Tronto. Elles insistent sur :
+
+- L'**attention** comme dimension éthique première (Iris Murdoch, Simone Weil)
+- Le **détail** de la situation comme objet de l'attention morale
+- La **vulnérabilité** comme condition humaine partagée
+
+Pour le travail social, ces auteures ouvrent un cadre éthique qui complète et déplace celui des **valeurs professionnelles** (autonomie, dignité, secret professionnel). Le care n'oppose pas à ces valeurs ; il les **incarne** dans une attention au détail singulier.
 
 ### Défi 2 — Expertise / Savoir expérientiel
 
-James Charlton [@charlton1998] : *« Nothing about us without us. »* Plus qu'un slogan : une **épistémologie politique**.
+#### James Charlton et l'épistémologie politique
 
-Brasseur et Rodriguez [@brasseurrodriguez2019] :
+James Charlton (1998) [@charlton1998] formule l'épistémologie politique sous-jacente avec son slogan ***« Nothing about us without us »*** — emprunté au mouvement antiapartheid sud-africain et tchèque.
 
-> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. »*
+Cette formule, déjà mobilisée en séance 5 sur la pair-aidance, prend ici son sens **professionnel** : le TS doit interroger son propre rôle d'expert sur des situations qu'il vit de l'extérieur. La connaissance professionnelle (académique, technique, gestionnaire) n'a pas le **monopole** de la pertinence. Elle gagne à se laisser **transformer** par le savoir expérientiel des personnes concernées.
+
+#### Brasseur et Rodriguez : la division persistante
+
+Brasseur et Rodriguez [@brasseurrodriguez2019] documentent (séance 5) que cette épistémologie n'est pas effective :
+
+> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. La participation se déploie selon une économie inégale de la parole. »*
+
+Pour le TS en posture professionnelle, l'enjeu est de **résister activement** à cette division — ce qui suppose un travail de **réflexivité** sur ses propres modes d'exercice de l'expertise.
 
 ### Défi 3 — Travail prescrit / Travail réel
 
-::: {.column-margin}
-**Yves Clot** dirige le pôle Clinique du travail au CNAM. La clinique de l'activité est mobilisée depuis les années 2000 dans les recherches HETS sur les métiers du social.
-:::
-
-Yves Clot [@clot1999 ; @clot2008] : la **clinique de l'activité**.
-
-Distinction centrale :
-
-| Niveau | Définition |
-|---|---|
-| **Travail prescrit** | Référentiels, procédures, contraintes du financement |
-| **Activité réalisée** | Ce qui est effectivement fait |
-| **Réel de l'activité** | Inclut aussi ce qui n'est pas fait, ce qui aurait pu être fait, ce qui est **empêché** |
-
-> *« Ce qui rend malade au travail, ce n'est pas le conflit, c'est l'impossibilité du conflit. »*
->
-> --- @clot2008
-
-Michael Lipsky [@lipsky2010] : la *street-level bureaucracy*.
-
-> *« The decisions of street-level bureaucrats, the routines they establish, and the devices they invent to cope with uncertainties and work pressures effectively become the public policies they carry out. »*
->
-> --- @lipsky2010, p. xii
-
-Vincent Dubois [@dubois2010] en a tiré une ethnographie de référence du guichet.
+#### Yves Clot et la clinique de l'activité
 
 ::: {.column-margin}
-**Catherine Lenzi** est professeure associée à la HETS Genève et anime le réseau de compétences *« Autonomie-Handicap-Dépendance »*. Si elle accepte la proposition, elle co-anime cette séance.
+**Yves Clot** dirige le pôle Clinique du travail au CNAM (Paris). La clinique de l'activité hérite de la psychodynamique du travail (Christophe Dejours) et de l'ergonomie de langue française (Alain Wisner). Elle se distingue par sa méthode d'**autoconfrontation croisée** où deux professionnel·les analysent ensemble leurs vidéos de travail. Cette méthode est mobilisée depuis les années 2000 dans les recherches HETS sur les métiers du social.
 :::
 
-Catherine Lenzi et Alexandre Moine [@lenzimoine2025] : les marges du métier comme lieu d'invention professionnelle.
+La **clinique de l'activité** d'Yves Clot [@clot1999 ; @clot2008] propose une grammaire conceptuelle pour la troisième tension.
 
-### Le travail émotionnel
+#### Distinction centrale
 
-Arlie Hochschild [@hochschild1983] :
+| Niveau | Définition | Exemple |
+|---|---|---|
+| **Travail prescrit** | Référentiels d'activité, procédures, contraintes du financement | Le règlement intérieur, les fiches de fonction, les protocoles |
+| **Activité réalisée** | Ce qui est effectivement fait dans la situation | Ce qui apparaît dans le compte-rendu |
+| **Réel de l'activité** | Inclut aussi ce qui n'est pas fait, ce qui aurait pu être fait, ce qui est **empêché**, ce qui est **rêvé**, ce qui est **différé** | Ce que le professionnel raconterait à un collègue qui le comprend |
 
-> *« This labor requires one to induce or suppress feeling in order to sustain the outward countenance that produces the proper state of mind in others. »*
->
-> --- @hochschild1983, p. 7
+L'apport central de Clot : le **réel de l'activité** ne se réduit pas à ce qui apparaît dans les comptes-rendus. Il inclut une dimension **non visible** que la clinique de l'activité travaille à rendre visible par l'autoconfrontation.
 
-Annoncer un refus AI, accompagner une fin de droits, recadrer un proche : autant de situations où le travail émotionnel est central, **invisible dans les fiches de poste**, coûteux psychiquement.
+#### La santé au travail
 
-### Le praticien réflexif
+> *« Ce qui rend malade au travail, ce n'est pas le conflit, c'est l'impossibilité du conflit. »* [@clot2008]
 
-Donald Schön [@schon1994] :
+L'argument de Clot : ce n'est pas la **difficulté** du métier qui produit la souffrance, c'est l'impossibilité de **discuter** cette difficulté, de la **transformer**, de l'**élaborer collectivement**. La souffrance émerge quand le **collectif de travail** ne peut plus assumer son rôle de transmission et de transformation du métier.
 
-> *« Les praticiens compétents en savent généralement plus qu'ils ne peuvent en dire. »*
+#### Concepts clés
+
+| Concept | Définition | Exemple en TS |
+|---|---|---|
+| **Genre professionnel** | Manières de faire propres au métier, déposées dans le collectif | « Comment on fait, nous, un entretien d'aide » |
+| **Style** | Manière personnelle de mobiliser le genre | Le style de tel·le collègue |
+| **Pouvoir d'agir** | Possibilité effective d'agir sur son milieu et sur soi-même | Pouvoir transformer un protocole rigide |
+| **Activité empêchée** | Ce qu'on ne peut pas faire malgré sa volonté de bien faire | Prendre le temps d'écouter quand le téléphone sonne |
+| **Qualité empêchée** | Le travail bien fait qu'on ne peut pas produire | L'accompagnement idéal qu'on n'a pas le temps de faire |
 
 ::: {.callout-important appearance="simple"}
-## Synthèse opérationnelle
+## Pour la pratique du TS
+
+La clinique de l'activité offre des questions concrètes pour la supervision :
+
+- Quelle est mon **activité empêchée** aujourd'hui ? Que voudrais-je faire que je ne peux pas faire ?
+- Quel **genre professionnel** se transmet dans mon équipe ? Quels gestes, quelles manières de faire ?
+- Quel **conflit** ne peut pas se dire dans mon collectif ?
+
+Ces questions débordent la supervision individuelle. Elles appellent un **travail collectif** sur le métier.
+:::
+
+#### Lenzi et Moine : *Des pas de côté dans le travail social*
+
+::: {.column-margin}
+**Catherine Lenzi** est professeure associée à la HETS Genève et anime le réseau de compétences *« Autonomie-Handicap-Dépendance »*. Si elle accepte la proposition, elle co-anime cette séance. Son ouvrage avec Alexandre Moine *Des pas de côté dans le travail social* (Champ social, 2025) rassemble des contributions de chercheur·es et de praticien·nes sur les **marges** du métier.
+:::
+
+Catherine Lenzi et Alexandre Moine [@lenzimoine2025] prolongent la tradition de la clinique de l'activité en travail social en proposant un concept opérationnel : les ***pas de côté***.
+
+Un *pas de côté* est une **micro-déviation** de la prescription qui permet au TS de :
+
+- Maintenir la **qualité** de son intervention
+- Préserver le **lien** avec la personne accompagnée
+- Garder sens à son **métier**
+
+Ces pas de côté ne sont pas des **transgressions** — ils sont des **adaptations** quotidiennes qui rendent le métier praticable. Mais ils sont **invisibles** dans les comptes-rendus et **fragiles** sous la pression managériale.
+
+L'ouvrage documente ces pas de côté dans plusieurs champs : protection de l'enfance, addictions, accompagnement social, et **handicap**. Il propose une éthique des marges qui complète la clinique de l'activité.
+
+#### Michael Lipsky : la *street-level bureaucracy*
+
+::: {.column-margin}
+**Michael Lipsky** (Université du Massachusetts) publie *Street-Level Bureaucracy* en 1980. Réédité en 2010 avec une nouvelle préface, l'ouvrage compte parmi les classiques de la sociologie de l'action publique anglo-saxonne. Sa thèse a été reprise et discutée par Vincent Dubois en France.
+:::
+
+Michael Lipsky [@lipsky2010] fournit la **sociologie politique** de la troisième tension.
+
+#### La thèse centrale
+
+Les agents de terrain (enseignants, TS, policiers, agents AI, infirmières) qui appliquent les politiques publiques **au contact** des usagers disposent d'un **pouvoir discrétionnaire considérable**. Ils sont les véritables ***policy makers*** :
+
+> *« The decisions of street-level bureaucrats, the routines they establish, and the devices they invent to cope with uncertainties and work pressures effectively become the public policies they carry out. »* [@lipsky2010, p. xii]
+
+#### Les *coping mechanisms*
+
+Lipsky analyse les **mécanismes d'adaptation** que les *street-level bureaucrats* développent face aux contraintes du métier :
+
+| Mécanisme | Description | Effet |
+|---|---|---|
+| **Rationnement** | Limiter l'accès aux services (créneaux courts, files d'attente) | Tri implicite des usagers |
+| **Écrémage** (*creaming*) | Privilégier les cas « gérables » | Sélection des publics |
+| **Simplification** | Réduire la complexité (catégories rigides) | Perte de la singularité |
+| **Routinisation** | Standardiser les réponses | Gain d'efficience, perte d'adaptation |
+| **Stéréotypisation** | Catégoriser rapidement les usagers | Préjugés institutionnalisés |
+
+Pour le TS, ces mécanismes sont **inévitables**. La question éthique est : **lesquels mobiliser, dans quelles situations, avec quels effets** ? L'analyse de Lipsky n'est pas normative — elle outille une réflexivité.
+
+#### Vincent Dubois et l'ethnographie du guichet
+
+Vincent Dubois [@dubois2010] a réalisé une ethnographie de référence du guichet français de la CAF (Caisse d'allocations familiales). Son apport : montrer concrètement, par l'observation, comment se déroule la rencontre entre une bureaucratie et ses usagers.
+
+Trois résultats :
+
+- Le guichet articule **contraintes bureaucratiques**, **demandes sociales**, **travail relationnel**
+- Les agents oscillent entre **rôle administratif** et **rôle social**, tension constitutive
+- Les usagers ne maîtrisent souvent pas les **codes administratifs** ; les agents font un travail invisible de **traduction** et de **mise en forme**
+
+L'application au contexte suisse romand est directe : Pro Infirmis, OAI, AS-Hospice, services sociaux institutionnels.
+
+### Le travail émotionnel (Hochschild)
+
+::: {.column-margin}
+**Arlie Hochschild** (Université de Californie à Berkeley) publie *The Managed Heart* en 1983. Le livre porte sur les hôtesses de l'air et les agents de recouvrement, mais son cadre est étendu à de nombreux métiers de service. C'est un classique de la sociologie du travail féministe.
+:::
+
+Une dimension reste sous-thématisée dans la clinique de l'activité : le **travail émotionnel**.
+
+Arlie Hochschild [@hochschild1983] définit le travail émotionnel comme :
+
+> *« This labor requires one to induce or suppress feeling in order to sustain the outward countenance that produces the proper state of mind in others. »* [@hochschild1983, p. 7]
+
+Trois opérations distinguées :
+
+- ***Surface acting*** — afficher une émotion sans la ressentir (sourire forcé)
+- ***Deep acting*** — induire en soi-même l'émotion attendue (travailler à se sentir compatissant)
+- ***Genuine emotion*** — éprouver effectivement l'émotion appropriée
+
+Le travail social mobilise massivement le **deep acting**. Annoncer un refus AI, accompagner une fin de droits, recevoir une colère, contenir une crise, recadrer un proche : autant de situations où le TS doit **produire** une émotion ajustée à la situation, indépendamment de ce qu'il ressent.
+
+Coût psychique : dissonance émotionnelle, fatigue, burn-out. Hochschild documente précisément ces effets dans les métiers de service à fort travail émotionnel.
+
+::: {.callout-warning appearance="simple"}
+## Pour la pratique du TS
+
+Le travail émotionnel est :
+
+- **Central** dans le métier
+- **Invisible** dans les fiches de poste
+- **Coûteux** psychiquement
+- **Sous-thématisé** dans la formation
+
+Le reconnaître est une condition de la santé professionnelle. La supervision, la pair-supervision, l'analyse de pratiques sont des dispositifs qui doivent **inclure** la dimension émotionnelle, pas seulement la dimension technique.
+:::
+
+### Donald Schön et le praticien réflexif
+
+Donald Schön (1983) [@schon1994] complète le cadre avec son concept de **praticien réflexif** :
+
+> *« Les praticiens compétents en savent généralement plus qu'ils ne peuvent en dire. »* [@schon1994]
+
+Deux concepts opérationnels :
+
+- ***Reflection-in-action*** — réfléchir **pendant** l'action, ajuster en temps réel
+- ***Reflection-on-action*** — réfléchir **après** l'action, élaborer l'expérience
+
+L'apport de Schön : sortir d'une opposition entre **savoir théorique** (académique) et **savoir pratique** (de terrain). Le praticien compétent mobilise un **savoir tacite** que la formation peut soutenir mais ne peut pas remplacer.
+
+### Synthèse opérationnelle
+
+::: {.callout-important appearance="simple"}
+## Questions pour la supervision
 
 | Outil théorique | Question pour la pratique |
 |---|---|
-| Clinique de l'activité | Quelle est mon activité empêchée aujourd'hui ? |
-| *Street-level bureaucracy* | Quelle marge discrétionnaire ai-je mobilisée cette semaine ? |
-| Travail émotionnel | Quelles émotions ai-je dû gérer pour faire mon travail ? |
-| Praticien réflexif | Que m'a appris cette situation que je ne savais pas avant ? |
+| **Clinique de l'activité** | Quelle est mon activité empêchée aujourd'hui ? |
+| ***Street-level bureaucracy*** | Quelle marge discrétionnaire ai-je mobilisée cette semaine ? |
+| **Travail émotionnel** | Quelles émotions ai-je dû gérer pour faire mon travail ? |
+| **Praticien réflexif** | Que m'a appris cette situation que je ne savais pas avant ? |
+| **Care éthique** | Comment ai-je redistribué la responsabilité du care ? |
+| **Pas de côté** | Quelle micro-déviation ai-je opérée pour préserver le sens du métier ? |
 :::
+
+## Exemples genevois et romands
+
+### La supervision dans une équipe de la Fondation Ensemble
+
+Plusieurs équipes de la Fondation Ensemble mobilisent la **clinique de l'activité** dans leur supervision. La pratique :
+
+- Sessions mensuelles de 2 h en équipe complète
+- Présentation d'une situation par un·e membre
+- Travail collectif sur l'**activité empêchée** et les **conflits de critères** (pouvoir d'agir vs travail prescrit)
+- Élaboration d'un **collectif de métier**
+
+Cette pratique illustre concrètement Clot. Elle est précieuse mais reste **inégalement** déployée.
+
+### Le réseau Autonomie-Handicap-Dépendance HETS-GE
+
+Catherine Lenzi anime à la HETS Genève le réseau de compétences ***Autonomie-Handicap-Dépendance***. Le réseau réunit chercheur·es et praticien·nes autour des transformations du champ et de leurs effets sur les postures professionnelles. Travail régulier sur :
+
+- Les marges du métier (lignée Lenzi-Moine)
+- Le care au quotidien (lignée Tronto-Paperman-Laugier)
+- La pair-aidance (lignée Wehmeyer-Souesme)
+
+C'est un réseau actif que les étudiant·es Bachelor TS peuvent solliciter pour leur travail final.
+
+### Les Journées de l'éthique professionnelle de l'OFS-S
+
+La **Société suisse d'éthique en travail social** organise régulièrement des journées d'étude qui mobilisent les outils de la clinique de l'activité et de l'éthique du care. Des actes sont publiés dans les *Cahiers de l'éthique professionnelle en travail social*.
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -138,7 +337,13 @@ Donald Schön [@schon1994] :
 
 [@tronto2009], **chapitres 1 et 4** (40 pages).
 
-Perske (1972), The dignity of risk (4 pages, compagnon FR).
+Perske (1972), *The dignity of risk and the mentally retarded* (4 pages, compagnon FR).
+
+**Questions guides** :
+
+- Quelles sont les **quatre phases du care** identifiées par Tronto ?
+- Quelle implication politique tire-t-elle de ces quatre phases ?
+- Comment articuler dignité du risque (Perske) et care politique (Tronto) ?
 
 ### Groupe B — Clinique de l'activité et street-level bureaucracy
 
@@ -146,18 +351,42 @@ Perske (1972), The dignity of risk (4 pages, compagnon FR).
 
 [@lipsky2010], **chapitres 1, 5, 11** (40 pages, compagnon FR).
 
+**Questions guides** :
+
+- Quelle distinction Clot opère-t-il entre **travail prescrit**, **activité réalisée** et **réel de l'activité** ?
+- Quels sont les **mécanismes d'adaptation** identifiés par Lipsky ?
+- Comment ces deux cadres se complètent-ils pour penser le travail du TS ?
+
 ### Groupe C — Marges et travail émotionnel
 
 [@lenzimoine2025], **introduction + 2 chapitres au choix** (40 pages).
 
 [@hochschild1983], **introduction et chapitre 1** (30 pages, compagnon FR).
 
+**Questions guides** :
+
+- Que désigne le concept de ***pas de côté*** chez Lenzi et Moine ?
+- Quelle distinction Hochschild opère-t-elle entre ***surface acting*** et ***deep acting*** ?
+- Comment le travail émotionnel est-il (ou pas) reconnu dans votre lieu de FP ?
+
 :::
+
+## Pour aller plus loin
+
+**Pour la sociologie du métier** : Demailly, L. (2008). *Politiques de la relation. Approche sociologique des métiers et activités professionnelles relationnelles* (Presses Universitaires du Septentrion) — analyse des métiers de la relation.
+
+**Pour les marges professionnelles** : Cefaï, D. & Costey, P. (2009). *Codifier l'engagement ethnographique* (*L'Homme*) — sur l'ethnographie comme méthode d'analyse des marges.
+
+**Pour le care en TS** : Molinier, P. (2013). *Le travail du care* (La Dispute) — synthèse francophone récente.
+
+**Pour la clinique de l'activité en travail social** : Libois, J. & Stroumza, K. (2007). *Analyse de l'activité en travail social* (HETS Genève / IES) — application au travail social romand.
+
+**Pour la formation à la réflexivité** : Fabre, M. (2017). *Qu'est-ce que problématiser ?* (Vrin) — sur la réflexivité comme problématisation.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice : identifier la tension
+## Exercice 1 : identifier la tension
 
 Une éducatrice rapporte : *« Léa veut prendre seule le tram pour aller travailler. Le règlement de l'institution interdit la circulation seule. La cheffe d'équipe dit que c'est pour notre protection juridique. »* Quel défi est à l'œuvre ? Quels outils mobiliser ?
 
@@ -174,8 +403,34 @@ Outils théoriques :
 Outils pratiques :
 
 - Travail d'équipe sur les **critères** d'évaluation du risque
-- Articulation avec la **clinique de l'activité** [@clot2008] : que dit le « règlement » du travail prescrit qui empêche l'équipe d'exercer son métier ?
-- Médiation avec la cheffe d'équipe en mobilisant le cadre légal
+- Articulation avec la **clinique de l'activité** [@clot2008] : que dit le « règlement » du travail prescrit qui empêche l'équipe d'exercer son métier ? Quelle est ici l'**activité empêchée** ?
+- Médiation avec la cheffe d'équipe en mobilisant le cadre légal CDPH
+- Mobilisation d'un **pas de côté** [@lenzimoine2025] : accompagner Léa dans le tram pendant deux semaines, puis l'autoriser à voyager seule en cas de succès
+
+Conclusion : la posture professionnelle ici est de tenir ensemble la **dignité du risque** et le **soutien institutionnel**. Pas l'un contre l'autre.
+:::
+
+::: {.callout-tip collapse="true"}
+## Exercice 2 : nommer le travail émotionnel
+
+Une étudiante en FP annonce à un usager qu'il sera prochainement réorienté vers une autre structure, contre son souhait. Elle rapporte en supervision : *« Il s'est mis à crier. J'ai dû rester calme et professionnelle. Après, j'ai pleuré dans les toilettes. »* Comment lire cette situation ?
+
+### Réponse
+
+La situation mobilise massivement le **travail émotionnel** [@hochschild1983]. Trois dimensions :
+
+- ***Surface acting*** — *« rester calme et professionnelle »* malgré l'émotion ressentie
+- **Coût psychique** — *« pleurer dans les toilettes »*, c'est-à-dire devoir contenir l'émotion en public puis la libérer en privé
+- **Invisibilité institutionnelle** — cette opération n'apparaît dans aucun compte-rendu, n'est pas évaluée, n'est pas reconnue formellement
+
+Réponse de la supervision :
+
+- **Reconnaître** ce travail émotionnel comme partie intégrante du métier (pas comme défaillance personnelle)
+- **Élaborer** l'expérience (réflexion sur la situation, sur les émotions, sur ce qu'elles disent du métier)
+- **Outiller** pour les situations à venir (préparation émotionnelle, dispositifs de débriefing, soutien collégial)
+- **Politiser** la question : qui assume cette charge ? est-elle bien répartie dans l'équipe ?
+
+Cette dimension est rarement explicitement travaillée en formation. Elle gagne à l'être systématiquement.
 :::
 
 ## Travail attendu pour la séance 8
@@ -186,7 +441,7 @@ Outils pratiques :
 
 Voir Annexe C. Citations principales : @brasseurrodriguez2019, @charlton1998, @clot1999, @clot2008, @dubois2010, @hochschild1983, @lenzimoine2025, @lipsky2010, @paperman2011, @perske1972, @schon1994, @tronto2009.
 
-**Compléments** : Fisher & Tronto (1990). Molinier (2013).
+**Compléments** : Cefaï & Costey (2009). Demailly (2008), *Politiques de la relation*. Fabre (2017), *Qu'est-ce que problématiser ?*. Fisher & Tronto (1990). Libois & Stroumza (2007), *Analyse de l'activité en travail social*. Molinier (2013), *Le travail du care*.
 
 ## Slides
 

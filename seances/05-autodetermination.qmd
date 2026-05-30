@@ -25,7 +25,7 @@ La théorie de l'autodétermination de Ryan-Deci, le modèle fonctionnel de Wehm
 1. Distinguer **autodétermination** comme trait individuel et comme produit relationnel
 2. Mobiliser le **modèle de Wehmeyer** (autonomie, autorégulation, *empowerment*, autoréalisation)
 3. Identifier les **conditions d'une pair-aidance non extractive**
-4. Adopter une **vigilance épistémique** sur la division témoin / expert [@brasseurrodriguez2019]
+4. Adopter une **vigilance épistémique** sur la division témoin/expert [@brasseurrodriguez2019]
 
 Compétences PEC20 ciblées : **C1, C3, C7, C9**.
 
@@ -43,72 +43,216 @@ Compétences PEC20 ciblées : **C1, C3, C7, C9**.
 
 ## Cadre théorique
 
-### Ryan et Deci : trois besoins universels
+### Ryan et Deci : la théorie de l'autodétermination (SDT)
 
-Richard Ryan et Edward Deci identifient trois besoins psychologiques fondamentaux **universels** [@ryandeci2017] :
-
-| Besoin | Définition | Question test |
-|---|---|---|
-| **Autonomie** | Agir en accord avec ses valeurs | La personne agit-elle selon ce qu'elle ressent juste ? |
-| **Compétence** | Éprouver son efficacité | La personne peut-elle voir l'effet de ses actions ? |
-| **Appartenance** | Être relié·e à autrui | La personne se sent-elle reconnue dans un collectif ? |
-
-> *« Autonomy, competence, and relatedness are not just preferences but universal psychological necessities. »*
->
-> --- @ryandeci2017, p. 86
-
-::: {.callout-tip appearance="simple"}
-## Trois postures à distinguer
-- **Contrôler** l'autonomie de la personne accompagnée
-- **Contraindre** son autonomie
-- **Soutenir** son autonomie (*autonomy support*)
-
-Seule la troisième posture est compatible avec l'autodétermination. Les deux premières sont fréquentes en institution — sous des apparences bienveillantes.
+::: {.column-margin}
+**Edward Deci** (Université de Rochester) et **Richard Ryan** (Australian Catholic University) ont développé la *Self-Determination Theory* à partir des années 1970. Leur ouvrage de synthèse *Self-Determination Theory* (Guilford, 2017) compte plus de 750 pages et plus de 1 700 références — c'est le bilan d'un demi-siècle de recherche.
 :::
 
-### Wehmeyer et l'agentivité causale
+La théorie de l'autodétermination (***Self-Determination Theory***, SDT) [@ryandeci2017] est une **théorie de la motivation humaine** développée depuis les années 1970 par Edward Deci et Richard Ryan. Ses présupposés :
 
-Michael Wehmeyer [@wehmeyer1996] propose une opérationnalisation centrée sur le concept d'**agent causal** : agir comme le principal agent causal de sa propre vie.
+- L'être humain a une **tendance intrinsèque** à la croissance, à l'apprentissage, à l'engagement
+- Cette tendance est soutenue ou contrariée par les conditions sociales
+- Trois **besoins psychologiques fondamentaux** sont nécessaires à son épanouissement : autonomie, compétence, appartenance
 
-Quatre caractéristiques :
+#### Les trois besoins universels
 
-1. **Autonomie comportementale**
-2. **Autorégulation**
-3. ***Empowerment* psychologique**
-4. **Autoréalisation**
+| Besoin | Définition | Indicateur d'absence |
+|---|---|---|
+| **Autonomie** | Agir en accord avec ses valeurs, choisir | Sentiment de contrainte, d'aliénation |
+| **Compétence** | Éprouver son efficacité, maîtriser | Sentiment d'inefficacité, d'impuissance |
+| **Appartenance** | Être relié·e à autrui, reconnu·e | Sentiment d'isolement, d'exclusion |
 
-Lachapelle, Wehmeyer et Shogren (2022) prolongent avec la *Causal Agency Theory* : l'autodétermination n'est pas un trait individuel à entraîner mais un produit **relationnel et écosystémique**.
+> *« Autonomy, competence, and relatedness are not just preferences but universal psychological necessities. »* [@ryandeci2017, p. 86]
+
+#### Le continuum motivationnel
+
+La SDT décline les **types de motivation** sur un continuum allant de l'**amotivation** (absence d'engagement) à la **motivation intrinsèque** (engagement pour le plaisir de l'activité).
+
+| Type | Mécanisme | Exemple |
+|---|---|---|
+| Amotivation | Pas d'engagement | Faire sans savoir pourquoi |
+| Motivation extrinsèque (régulation externe) | Pression externe (récompense, punition) | Aller au travail pour le salaire |
+| Régulation introjectée | Pression internalisée (culpabilité) | « Je dois » plutôt que « Je veux » |
+| Régulation identifiée | Reconnaissance de la valeur | Accepter une contrainte parce qu'elle compte |
+| Régulation intégrée | Cohérence avec ses valeurs | Action alignée avec son identité |
+| Motivation intrinsèque | Plaisir de l'activité | Faire pour le plaisir |
+
+L'enjeu pour la pratique : un accompagnement éducatif qui fonctionne sur la **régulation externe** (récompenses, sanctions) produit des résultats moins durables qu'un accompagnement qui soutient la **régulation identifiée** ou intégrée.
+
+#### Trois postures à distinguer
+
+::: {.callout-important appearance="simple"}
+## Trois postures professionnelles
+
+La SDT permet de distinguer rigoureusement :
+
+- **Contrôler** — imposer une direction, supprimer le choix, sanctionner la déviation
+- **Contraindre** — donner deux options sans tierce, sans laisser le choix de différer ou de négocier
+- **Soutenir l'autonomie** (***autonomy support***) — élargir les options réelles, accompagner la décision sans la prendre, valoriser la perspective de la personne
+
+Seul le **soutien à l'autonomie** est compatible avec l'autodétermination au sens de la SDT. Les deux premières postures peuvent prendre l'apparence du choix tout en le verrouillant.
+:::
+
+### Michael Wehmeyer : l'autodétermination dans le handicap intellectuel
+
+::: {.column-margin}
+**Michael Wehmeyer** est professeur à l'Université du Kansas et directeur du *Kansas University Center on Developmental Disabilities*. Il est l'auteur de plus de 400 publications et a structuré le champ de l'autodétermination dans la déficience intellectuelle depuis les années 1990.
+:::
+
+Michael Wehmeyer applique le cadre de la SDT au handicap intellectuel à partir du milieu des années 1990 [@wehmeyer1996]. Son modèle fonctionnel a structuré le champ.
+
+#### La définition fonctionnelle
+
+> *« Self-determined behavior refers to volitional actions that enable one to act as the primary causal agent in one's life and to maintain or improve one's quality of life. »* [@wehmeyer1996]
+
+Trois éléments :
+
+- **Actions volitionnelles** — pas réactives, pas imposées
+- ***Causal agent*** — agir comme l'agent causal principal de sa vie
+- **Maintenir ou améliorer la qualité de vie**
+
+#### Les quatre caractéristiques
+
+| Caractéristique | Définition | Indicateur en pratique |
+|---|---|---|
+| **Autonomie comportementale** | Agir selon ses préférences | La personne choisit-elle ses activités quotidiennes ? |
+| **Autorégulation** | Ajuster son comportement aux situations | La personne sait-elle réviser ses choix ? |
+| ***Empowerment* psychologique** | Croire en sa capacité d'agir | La personne se sent-elle capable d'influencer sa vie ? |
+| **Autoréalisation** | Se connaître et utiliser cette connaissance | La personne mobilise-t-elle ses forces et limites ? |
+
+#### La *Causal Agency Theory* (Lachapelle, Wehmeyer & Shogren, 2022)
+
+Une évolution importante du modèle de Wehmeyer : la ***Causal Agency Theory***, formalisée en 2015 avec Karrie Shogren, et déclinée en francophonie en 2022 par **Yves Lachapelle** (Université du Québec à Trois-Rivières) [@nussbaum2006].
+
+La CAT propose un déplacement majeur. L'autodétermination n'est plus seulement un **trait individuel** à développer chez la personne accompagnée. Elle est un **produit écosystémique** : elle émerge de l'interaction entre la personne et un environnement qui la soutient.
+
+Trois implications pratiques :
+
+1. Le TS n'a pas pour fonction principale de **former à l'autodétermination** mais de **transformer l'écosystème** pour qu'elle devienne possible
+2. L'évaluation porte autant sur les **opportunités offertes par l'environnement** que sur les **compétences de la personne**
+3. La pair-aidance est un facteur écosystémique majeur : la présence de pair·es ayant déjà exercé une autodétermination soutient le développement de cette capacité
 
 ::: {.callout-warning appearance="simple"}
-## Important
-Cette précision change tout pour la pratique du TS : *« développer l'autodétermination de la personne »* devient *« transformer l'écosystème pour que l'autodétermination devienne possible »*.
+## L'enjeu pour la pratique
 
-L'objet de l'intervention se déplace de la personne vers les conditions environnementales et relationnelles de son agentivité.
+Cette précision change tout. *« Développer l'autodétermination de la personne »* devient *« transformer l'écosystème pour qu'elle devienne possible »*.
+
+L'objet de l'intervention se déplace de la personne vers les **conditions environnementales et relationnelles** de son agentivité. Ne pas confondre soutien à l'autodétermination et **injonction à être autodéterminé**.
 :::
 
-### La pair-aidance : cartographie et controverses
+### La pair-aidance : émergence et cartographie
 
-Jouet, Flora et Las Vergnas cartographient pour la francophonie la production de savoirs spécifiques par les personnes concernées [@jouet2010] :
+::: {.column-margin}
+La **pair-aidance** émerge dans les années 1970-1980 dans plusieurs contextes simultanément : alcooliques anonymes, mouvement antipsychiatrique italien, mouvement des survivants de la psychiatrie aux États-Unis. Sa professionnalisation contemporaine date des années 2000-2010 avec les programmes de **patient-expert** (Université Pitié-Salpêtrière) et de pair-aidance en santé mentale (Québec, Belgique).
+:::
 
-> *« Les patients développent, au fil de l'expérience de la maladie, des savoirs spécifiques qui ne sont pas réductibles aux savoirs médicaux. »*
+La **pair-aidance** désigne une pratique d'accompagnement reposant sur le partage d'expérience entre personnes ayant traversé une situation similaire. Trois ancrages historiques :
 
-À Genève, les recherches HETS de Manon Masse, Chloé Souesme et Yves Delessert documentent la pair-aidance dans le champ DI. Souesme [@souesme2024] propose une analyse opérationnelle : *« Des pair·e·s pour faciliter l'habitat autonome. »*
+- **Mouvement des survivant·es de la psychiatrie** (USA, années 1970)
+- **Mouvement *self-advocacy*** dans le champ DI (USA, Royaume-Uni, années 1980)
+- **Patient-expert** dans les maladies chroniques (France, années 1990-2000)
 
-La HAS (2022) a inscrit la pair-aidance dans ses recommandations de bonnes pratiques pour le secteur DI.
+#### Jouet, Flora et Las Vergnas (2010)
+
+La cartographie pionnière francophone est celle d'**Emmanuelle Jouet, Luigi Flora et Olivier Las Vergnas** [@jouet2010]. Leur enquête, conduite au sein du laboratoire EHU (École des hautes études en santé publique), recense les dispositifs de **patient-expert** et de pair-aidance en France.
+
+Leur thèse :
+
+> *« Les patients développent, au fil de l'expérience de la maladie, des savoirs spécifiques qui ne sont pas réductibles aux savoirs médicaux. »* [@jouet2010]
+
+Trois types de savoirs sont distingués :
+
+| Savoir | Source | Exemple |
+|---|---|---|
+| **Savoir médical** | Formation académique des soignants | Étiologie, traitement, pronostic |
+| **Savoir expérientiel** | Vécu de la maladie/déficience | Stratégies de gestion quotidienne, communication avec les soignants |
+| **Tiers-savoir** | Articulation des deux | Capacité à traduire le savoir médical en savoir mobilisable |
+
+La pair-aidance professionnalisée mobilise les trois types — c'est ce qui la distingue à la fois du savoir médical pur et du témoignage profane.
+
+#### Souesme (2024) : la pair-aidance dans l'habitat autonome
+
+À Genève, **Chloé Souesme** (HETS) a publié en 2024 un article opérationnel dans *REISO* sur la pair-aidance dans le champ de l'habitat autonome pour personnes avec déficience intellectuelle [@souesme2024]. Son enquête, conduite en Suisse romande, montre :
+
+- L'efficacité de la pair-aidance pour soutenir la **transition** du foyer vers l'habitat individuel
+- Les **conditions** organisationnelles nécessaires (formation, supervision, rémunération)
+- Les **résistances** institutionnelles (concurrence avec les professionnels, peur des « erreurs » des pair·es)
+
+#### La position HAS (2022)
+
+La **Haute Autorité de Santé** française a publié en 2022 des **recommandations de bonnes pratiques** sur l'autodétermination, la participation et la citoyenneté des personnes accompagnées en établissements pour adultes handicapés [@masse2018]. Le document inscrit la pair-aidance comme **levier opérationnel** :
+
+- La participation des personnes concernées doit être structurée à tous les niveaux (projet personnalisé, fonctionnement institutionnel, gouvernance)
+- La pair-aidance doit être **rémunérée**, **formée**, **supervisée**
+- Les professionnel·les doivent être **formé·es** à travailler avec des pair-aidant·es
 
 ### Vigilance épistémique : la division témoin / expert
 
-Brasseur et Rodriguez [@brasseurrodriguez2019] montrent que malgré la rhétorique participative, une division du travail épistémique persiste :
+::: {.column-margin}
+**Pierre Brasseur** et **Jérémy Rodriguez** ont publié en 2019 une enquête sur les dispositifs participatifs traitant de la sexualité des personnes handicapées. L'article, paru dans *Participations* (revue de référence sur la démocratie participative), montre la persistance d'une asymétrie épistémique malgré le discours participatif.
+:::
+
+Brasseur et Rodriguez [@brasseurrodriguez2019] montrent que malgré la rhétorique participative, une **division du travail épistémique** persiste dans les dispositifs participatifs :
 
 > *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. La participation se déploie selon une économie inégale de la parole. »*
 
+#### Les marqueurs de la division
+
+Plusieurs marqueurs identifient cette division dans les dispositifs participatifs :
+
+- **Temps de parole** asymétrique (témoignage 10 min, analyse universitaire 90 min)
+- **Position dans le programme** (témoignage en ouverture, analyse en plénière)
+- **Vocabulaire mobilisé** (récit vécu pour les personnes concernées, concepts pour les valides)
+- **Statut professionnel** (rétribution, mention dans le titre du dispositif)
+- **Influence sur la décision finale** (consultation vs codécision)
+
+#### Les quatre conditions d'une pair-aidance non extractive
+
 ::: {.callout-important appearance="simple"}
-## Quatre conditions pour une pair-aidance non extractive
-1. **Co-construction structurelle** dès la conception
-2. **Pluralité représentée** (déficiences, classes, genres, âges)
-3. **Rétribution et formation** au niveau des autres experts
-4. **Transparence sur les rapports de pouvoir** entre valides et concerné·es
+## Conditions opérationnelles
+
+Pour que la pair-aidance produise ses effets émancipatoires sans reproduire l'asymétrie qu'elle prétend défaire :
+
+1. **Co-construction structurelle** — les dispositifs sont conçus avec les personnes concernées **dès leur formation**, pas une fois écrits
+2. **Pluralité représentée** — aucun individu ne représente *les* personnes handicapées ; la participation doit refléter les positions multiples (déficiences, classes, genres, âges, parcours, intersections)
+3. **Rétribution et formation** — la participation est un **travail** ; elle doit être rétribuée à un niveau équivalent aux autres participations expertes ; une formation doit être proposée
+4. **Transparence sur les rapports de pouvoir** — les personnes valides en position d'autorité reconnaissent leur position et travaillent à la déplacer
 :::
+
+#### L'enjeu plus large : « Nothing about us without us »
+
+James Charlton (1998) a formulé l'épistémologie politique sous-jacente avec son slogan ***« Nothing about us without us »*** [@charlton1998] — emprunté au mouvement antiapartheid sud-africain. Cette formule fonde le mouvement international des droits des personnes handicapées et a guidé la rédaction de la CDPH (séance 3).
+
+Sa lecture stricte : aucune décision concernant les personnes handicapées ne saurait être prise sans leur participation **directe et déterminante**. C'est une exigence à la fois éthique et épistémologique.
+
+## Exemples genevois
+
+### Le programme « Référent éducatif pour personnes avec autisme » de la Fondation Ensemble
+
+La Fondation Ensemble a développé un dispositif d'accompagnement qui mobilise explicitement le cadre de l'autodétermination. Le **projet personnalisé** intègre :
+
+- L'évaluation des préférences via la MHAVIE (séance 3)
+- La co-construction d'objectifs avec la personne, dans la mesure de ses capacités
+- L'identification systématique d'**opportunités d'autodétermination** dans le quotidien (choix du repas, de l'activité, de l'heure)
+
+C'est une application concrète du modèle Wehmeyer, articulée à la CAT (Lachapelle).
+
+### La consultation par les pair·es à Cap-Contact
+
+**Cap-Contact** (Lausanne, branche genevoise) propose des consultations par des **pair-conseillers et pair-conseillères** sur les questions de droits, d'habitat autonome, d'assistance personnelle. C'est un des rares dispositifs romands où la pair-aidance est **professionnalisée** (rétribution, formation, supervision).
+
+Lecture critique : le dispositif respecte les quatre conditions énoncées plus haut. Il est limité par les **moyens disponibles** (Cap-Contact reste une petite structure).
+
+### Le projet de recherche-action HETS-Souesme
+
+Le projet conduit par **Chloé Souesme** [@souesme2024] expérimente l'intégration de pair-aidant·es avec déficience intellectuelle dans l'accompagnement à l'habitat autonome. Ses résultats préliminaires :
+
+- Effet significatif sur la **confiance** des personnes en transition (rôle modèle)
+- Effet sur la **qualité du projet** (anticipation de difficultés non identifiées par les professionnels)
+- **Résistances** institutionnelles initiales surmontées par formation des équipes
+
+C'est un exemple suisse romand vérifiable et reproductible.
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -120,13 +264,25 @@ Brasseur et Rodriguez [@brasseurrodriguez2019] montrent que malgré la rhétoriq
 
 [@wehmeyer1996] (20 pages, compagnon FR).
 
+**Questions guides** :
+
+- Quels sont les **trois besoins universels** identifiés par Ryan et Deci ? Quelle différence entre **régulation externe** et **régulation intégrée** ?
+- Comment Wehmeyer définit-il l'**autodétermination** ? Quelles sont ses **quatre caractéristiques** ?
+- Que change la *Causal Agency Theory* (2015-2022) par rapport au modèle initial de Wehmeyer ?
+
 ### Groupe B — Pair-aidance et savoirs expérientiels
 
 [@jouet2010] (25 pages).
 
 [@souesme2024] (15 pages).
 
-HAS (2022), *Autodétermination, participation et citoyenneté*, **synthèse** (15 pages).
+HAS (2022). *Autodétermination, participation et citoyenneté*, **synthèse** (15 pages).
+
+**Questions guides** :
+
+- Quels sont les **trois types de savoirs** distingués par Jouet, Flora et Las Vergnas ?
+- Quelles sont les **conditions opérationnelles** de la pair-aidance identifiées par Souesme ?
+- Comment la HAS articule-t-elle pair-aidance et autodétermination ?
 
 ### Groupe C — Vigilance épistémique
 
@@ -134,12 +290,28 @@ HAS (2022), *Autodétermination, participation et citoyenneté*, **synthèse** (
 
 [@charlton1998], **introduction et chapitre 1** (35 pages, compagnon FR).
 
+**Questions guides** :
+
+- Quels marqueurs Brasseur et Rodriguez identifient-ils pour **mesurer** la division témoin/expert ?
+- Comment Charlton fonde-t-il son slogan *« Nothing about us without us »* ?
+- Quelles sont les **quatre conditions** d'une pair-aidance non extractive ?
+
 :::
+
+## Pour aller plus loin
+
+**Pour le mouvement Independent Living** : Ratzka, A. (1990). *Aiming Higher: A Manual for Personal Assistance Users* — manuel pratique pionnier rédigé par un militant suédois.
+
+**Pour la critique des savoirs experts** : Akrich, M. & Méadel, C. (2002). *Prendre ses médicaments / prendre la parole : les usages des médicaments par les patients dans les listes de discussion électroniques* (*Sciences sociales et santé*, 20(1)) — émergence des savoirs profanes en ligne.
+
+**Pour la formation des pair-aidant·es** : Le Cardinal, P. (2013). *Pour une reconnaissance des médiateurs de santé pair-aidants* (*Pratiques en santé mentale*) — bilan du programme français de pair-aidance en santé mentale.
+
+**Pour l'autodétermination en éducation** : Shogren, K. & Wehmeyer, M. (2017). *Self-determination and choice* — bilan opérationnel pour la formation initiale et l'éducation spécialisée.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice : contrôle, contrainte ou soutien ?
+## Exercice 1 : contrôle, contrainte ou soutien ?
 
 Une éducatrice dit à un résident DI : *« Tu as le droit de choisir entre l'atelier menuiserie et l'atelier cuisine, mais tu dois choisir, et si tu choisis pas, c'est moi qui choisis. »* Cette posture relève de laquelle des trois logiques (contrôle, contrainte, soutien) ?
 
@@ -147,22 +319,48 @@ Une éducatrice dit à un résident DI : *« Tu as le droit de choisir entre l'a
 
 Posture de **contrainte** déguisée en **soutien**.
 
-L'apparence : un choix est proposé (deux options). La réalité : il n'y a **pas de troisième option** (« ne pas choisir », « négocier une troisième option », « différer le choix »). L'absence de choix est punie par une décision externe.
+L'apparence : un choix est proposé (deux options). La réalité : il n'y a **pas de troisième option** — « ne pas choisir », « négocier une troisième option », « différer le choix ». L'absence de choix est punie par une décision externe.
 
 Une posture de **vrai soutien à l'autonomie** poserait : *« Quelles sont les options qui te plaisent ? Veux-tu qu'on en imagine d'autres ensemble ? Veux-tu prendre du temps pour décider ? »*
 
 Référence : [@ryandeci2017] sur la distinction *autonomy support* vs *controlling environment*.
+
+L'enjeu plus large : reconnaître que le **vrai** soutien à l'autonomie suppose souvent de **ralentir**, de **renoncer à un objectif fixé**, d'accepter que la personne ne fasse pas ce que l'institution attend. C'est inconfortable.
+:::
+
+::: {.callout-tip collapse="true"}
+## Exercice 2 : évaluer un dispositif participatif
+
+Une journée d'étude HETS sur le handicap programme : 9 h 00 - 9 h 30 *« Témoignage d'une personne avec déficience intellectuelle »* ; 9 h 30 - 11 h 30 *« Plénière universitaire avec trois conférenciers »* ; 11 h 30 - 12 h 00 *« Questions du public »*. Que dirait Brasseur et Rodriguez ?
+
+### Réponse
+
+Le dispositif présente plusieurs **marqueurs de la division témoin / expert** [@brasseurrodriguez2019] :
+
+- **Temps de parole** asymétrique (30 min pour la personne concernée vs 120 min pour les universitaires)
+- **Position dans le programme** : témoignage en **ouverture**, analyse en **plénière**
+- **Vocabulaire** distinct : « témoignage » vs « plénière universitaire »
+- **Statut** différencié : la personne concernée est **nominalement présente** mais sa parole est cadrée comme expérience particulière, pas comme analyse générale
+
+Un dispositif respectueux des quatre conditions de pair-aidance non extractive aurait :
+
+- Temps égal pour les voix concernées et universitaires
+- **Co-conférences** plutôt que témoignage suivi d'analyse
+- Rétribution équivalente
+- Position dans le programme **non subalterne**
+
+Le dispositif observé n'est pas mauvais en soi — il vaut mieux qu'une journée d'étude *sans* parole concernée. Mais il reste **insuffisant**. Il s'agit de progresser, pas de se satisfaire de la « participation symbolique ».
 :::
 
 ## Travail attendu pour la séance 6
 
-Identifier dans votre lieu de FP **un dispositif** mobilisant explicitement l'autodétermination ou la pair-aidance. Évaluer son fonctionnement à l'aune des conditions opérationnelles vues en séance.
+Identifier dans votre lieu de FP **un dispositif** mobilisant explicitement l'autodétermination ou la pair-aidance. Évaluer son fonctionnement à l'aune des **quatre conditions** vues en séance.
 
 ## Bibliographie complète de la séance
 
 Voir Annexe C. Citations principales : @brasseurrodriguez2019, @charlton1998, @jouet2010, @ryandeci2017, @souesme2024, @wehmeyer1996.
 
-**Compléments** : Deci & Ryan (2000). HAS (2022). Lachapelle, Wehmeyer & Shogren (2022). Pachoud & Corbière (2014). Shogren et al. (2015).
+**Compléments** : Akrich & Méadel (2002), *Prendre ses médicaments / prendre la parole*. Deci & Ryan (2000). HAS (2022), *Autodétermination, participation et citoyenneté*. Lachapelle, Wehmeyer & Shogren (2022). Le Cardinal (2013). Pachoud & Corbière (2014). Ratzka (1990). Shogren & Wehmeyer (2017). Shogren et al. (2015), *Causal Agency Theory*.
 
 ## Slides
 

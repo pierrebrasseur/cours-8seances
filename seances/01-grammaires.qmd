@@ -42,94 +42,213 @@ Compétences PEC20 ciblées : **C1, C2, C7**.
 
 ## Cadre théorique
 
-### La modernité comme paradigme de la réadaptation
+### Stiker : une archéologie des figures du handicap
 
 ::: {.column-margin}
-**Stiker** est l'un des théoriciens francophones les plus mobilisés du champ. Son livre, publié en 1982 et réédité en 2013, reste la référence en anthropologie historique du handicap. Disponible à la bibliothèque HETS.
+**Stiker** est l'un des théoriciens francophones les plus mobilisés du champ. Son livre, publié en 1982 et réédité plusieurs fois (3ᵉ édition Dunod 2013), reste la référence en anthropologie historique du handicap. Disponible à la bibliothèque HETS.
 :::
 
-Henri-Jacques Stiker propose une anthropologie historique du handicap [@stiker2013]. Chaque société construit un rapport spécifique à l'infirmité. La modernité produit le paradigme de la **réadaptation** : ramener à la norme, à l'identique.
+Henri-Jacques Stiker propose dans *Corps infirmes et sociétés* (1982/2013) une **anthropologie historique** du traitement social de l'infirmité [@stiker2013]. Sa méthode : reconstituer, période par période, les figures sociales du corps « différent » et les régimes d'action qui leur correspondent.
 
-> *« Réadapter, c'est ramener à la norme, à l'identique, et c'est par là même désigner comme différent. »*
->
-> --- @stiker2013
+Cinq grandes périodes structurent l'ouvrage.
 
-Le paradoxe : l'opération même qui prétend effacer la différence la **désigne**. Trois figures historiques successives en France :
+**(1) L'Antiquité** — figure de l'infirme comme signe (présage, marque divine). La déficience est un objet de **sémiologie religieuse** plutôt que de soin.
 
-| Période | Figure dominante | Logique d'intervention |
-|---|---|---|
-| Avant XIXᵉ s. | Le mendiant infirme, le pauvre | Charité, hôpital général |
-| XIXᵉ — milieu XXᵉ s. | L'invalide (de guerre, du travail) | Compensation, pension |
-| Après 1945 | L'inadapté à réadapter | Centres spécialisés, rééducation |
-| Depuis 1990s | Le sujet de droits | Inclusion, capabilités |
+**(2) Le Moyen Âge** — figure du **pauvre du Christ**. La déficience entre dans l'économie de la charité chrétienne. L'infirme reçoit l'aumône qui sauve l'âme du donateur. Pas de séparation entre infirmité et pauvreté.
 
-::: {.callout-warning appearance="simple"}
-## Précision
-Les figures **se superposent** dans les institutions concrètes. Aucune n'a disparu. Un foyer genevois contemporain peut activer simultanément la logique de la charité (donations), de la compensation (financement AI), de la réadaptation (atelier) et du sujet de droits (CDPH).
-:::
+**(3) L'âge classique (XVIᵉ-XVIIIᵉ s.)** — figure de l'**enfermé**. L'Hôpital Général parisien (créé 1656) accueille indistinctement pauvres, fous, infirmes. C'est la **grande renfermement** que Foucault avait analysé pour la folie ; Stiker l'étend à l'infirmité.
 
-### Le stigmate comme processus relationnel
+**(4) Le XIXᵉ siècle médical** — figure du **patient à classifier**. La médecine clinique sépare les catégories (sourd, aveugle, infirme moteur, idiot, etc.) et les inscrit dans des institutions distinctes. Naissance de l'éducation spécialisée (Itard et le « sauvage de l'Aveyron » 1801, Bourneville et Bicêtre).
+
+**(5) Le XXᵉ siècle réadaptatif** — figure de l'**inadapté à réadapter**. Après les invalides de guerre (loi française 1924), puis du travail, la réadaptation s'institutionnalise comme paradigme dominant.
 
 ::: {.column-margin}
-*Stigmate* est le titre français de *Stigma. Notes on the Management of Spoiled Identity* (Prentice-Hall, 1963). La traduction Minuit (1975) est la plus diffusée en France et en Suisse romande.
+**Réadaptation** est un mot tardif. Il s'impose en français dans l'entre-deux-guerres puis prend son sens contemporain avec la création de l'AI en Suisse (1960) et de l'orientation scolaire spéciale en France (loi 1975).
 :::
 
-Erving Goffman analyse le stigmate comme un **attribut socialement disqualifiant** qui transforme, dans l'interaction, une personne « normale » en personne « entachée » [@goffman1975].
+### Le paradoxe de la réadaptation
 
-> *« Par définition, nous pensons qu'une personne ayant un stigmate n'est pas tout à fait humaine. »*
->
-> --- @goffman1975
+L'argument-clé de Stiker se trouve dans la dernière partie du livre, et c'est lui qu'il faut retenir pour la pratique :
 
-Trois types de stigmate :
+> *« Réadapter, c'est ramener à la norme, à l'identique, et c'est par là même désigner comme différent. »* [@stiker2013]
 
-- **Corporel** (déficiences visibles)
-- **De caractère** (suspicion de moralité, troubles psychiques)
-- **Tribal** (appartenance à un groupe disqualifié)
+Le paradoxe est le suivant. La société moderne ne tolère plus l'enfermement asilaire — elle veut **inclure**, **intégrer**, **normaliser**. Mais l'opération même de la réadaptation suppose que la personne soit **désignée comme à réadapter**, donc comme préalablement « hors norme ». Plus la réadaptation s'intensifie, plus elle désigne.
 
-Trois positions sociales :
+::: {.callout-note appearance="simple"}
+## Conséquence pour la pratique du TS
 
-- **Normaux**
-- **Stigmatisés**
-- ***Initiés / sages*** (proches, professionnel·les)
+Un foyer genevois contemporain qui propose un « parcours de réadaptation à l'autonomie » avant tout passage en logement individuel reproduit, sans toujours le savoir, ce paradoxe. La personne doit **démontrer** qu'elle mérite l'autonomie, alors que la CDPH (art. 19) pose l'autonomie comme **droit**.
 
-::: {.aside}
-La position d'**initié·e** (*the wise*) est centrale pour penser la posture du TS : ni stigmatisé·e, ni « normal·e neutre », mais professionnel·le familier·ère de l'univers stigmatisé.
+Tester avec Stiker : quels dispositifs de votre FP supposent une **mise à l'épreuve** préalable de la personne ? Que produit cette mise à l'épreuve sur l'identité de la personne ?
 :::
 
-#### Concepts opérationnels pour le TS
+### Une critique de Stiker
 
-| Concept | Définition | Conséquence en FP |
+Stiker n'est pas un dogme. Sa périodisation est française et catholique. Le passage de la charité à la réadaptation est moins net dans le contexte suisse romand, où le réseau associatif protestant (Pro Infirmis, créé 1920) joue un rôle d'intermédiation que la grille de Stiker capture mal. Les *disability studies* anglo-saxonnes lui reprochent aussi de minorer la dimension productive du capitalisme dans la production du handicap — c'est ce qu'Oliver développe (séance 2).
+
+### Goffman : le stigmate comme processus relationnel
+
+::: {.column-margin}
+*Stigmate* est le titre français de *Stigma. Notes on the Management of Spoiled Identity* (Prentice-Hall, 1963). La traduction Minuit (1975) par Alain Kihm est la plus diffusée en France et en Suisse romande.
+:::
+
+Erving Goffman publie *Stigma* en 1963 [@goffman1975]. C'est un livre court, dense, qui prolonge *Asylums* (1961) sur les institutions totales et *La présentation de soi dans la vie quotidienne* (1956) sur la microsociologie des interactions.
+
+#### Définition du stigmate
+
+Le stigmate n'est pas une propriété de la personne. C'est une **relation entre un attribut et un stéréotype**.
+
+> *« La société établit les procédés de catégorisation des personnes et le complément d'attributs que l'on estime ordinaires et naturels pour les membres de chacune de ces catégories. »* [@goffman1975]
+
+Quand l'attribut effectif d'une personne s'écarte de l'attribut attendu, et que cet écart est **dévalorisé**, il y a stigmate. La condition est interactionnelle : un attribut n'est pas stigmatisant en soi, il le devient dans la rencontre avec une catégorie qui le dévalorise.
+
+#### Trois types de stigmate
+
+Goffman distingue :
+
+- **Stigmate corporel** — monstruosités, déformations, déficiences physiques sensorielles
+- **Stigmate de caractère** — homosexualité (à l'époque où il écrit), troubles psychiques, addictions, casier judiciaire, chômage de longue durée
+- **Stigmate tribal** — appartenance à un groupe stigmatisé (race, religion, nation)
+
+::: {.column-margin}
+La typologie est datée. Les *queer* et *disability studies* l'ont reprise pour montrer que les frontières sont mobiles : ce qui était stigmate de caractère (homosexualité) peut devenir identité revendiquée ; ce qui était stigmate corporel peut devenir support d'auto-organisation politique.
+:::
+
+#### Discrédité et discréditable
+
+La distinction la plus opérationnelle pour le TS est entre **discrédité** (le stigmate est visible, déjà connu) et **discréditable** (le stigmate peut être dissimulé).
+
+| Position | Travail identitaire | Exemple en FP |
 |---|---|---|
-| **Discrédité** | Stigmate visible | La gestion concerne l'interaction face-à-face |
-| **Discréditable** | Stigmate dissimulable | La gestion concerne l'information à révéler |
-| ***Passing*** | Dissimuler son stigmate | Coût identitaire élevé pour la personne |
-| ***Covering*** | Minimiser l'impact d'un stigmate non dissimulable | Adaptation continue |
+| **Discrédité** | Gérer une interaction où l'autre sait | Personne en fauteuil au guichet AI |
+| **Discréditable** | Gérer une information à révéler ou non | Personne avec déficience intellectuelle légère dans un entretien d'embauche |
 
-### Le handicap comme catégorie d'action publique
+#### Stratégies de gestion identitaire
 
-Isabelle Ville, Emmanuelle Fillion et Jean-François Ravaud synthétisent un demi-siècle de sociologie du handicap [@villefillion2020] : le handicap n'est pas un donné mais un construit historique, social et politique.
+Goffman analyse les **stratégies** des personnes stigmatisées :
 
-> *« Le handicap n'est pas un donné mais un construit historique, social et politique. »*
->
-> --- @villefillion2020
+- ***Passing*** — « passer pour normal », dissimuler le stigmate. Coût psychique élevé.
+- ***Covering*** — assumer le stigmate mais en minimiser la visibilité. Stratégie courante chez les personnes en situation de handicap qui acceptent leur déficience tout en demandant que leur identité ne s'y réduise pas.
+- ***Normalisation*** — adopter les codes des « normaux » sans dissimuler. Exigence morale forte (la personne doit constamment prouver sa « normalité »).
 
-La **catégorisation administrative** (l'AI, la MDPH, le taux d'invalidité) ne décrit pas une réalité préexistante : elle **produit** ce qu'elle prétend décrire. Trois effets :
+#### Les trois positions sociales
 
-1. **Effet de seuil** : le score d'invalidité ouvre ou ferme des droits
-2. **Effet d'identité** : la personne se reconnaît (ou résiste) dans la catégorie qui lui est imposée
-3. **Effet de pratique** : les professionnel·les construisent leurs interventions en fonction de la catégorie
+Goffman identifie trois positions face au stigmate :
 
-### Le concept de droits vulnérables
+- **Normaux** — porteurs des attributs attendus
+- **Stigmatisés** — porteurs des attributs dévalorisés
+- ***Initiés*** (*the wise*) — personnes non stigmatisées qui ont une familiarité avec l'univers du stigmate (proches, professionnel·les, militant·es)
 
-Anne Revillard [@revillard2020] propose un concept opérationnel pour penser l'écart entre droits proclamés et droits effectifs.
+::: {.callout-important appearance="simple"}
+## La position d'« initié·e » et la posture du TS
 
-> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
->
-> --- @revillard2020
+Le TS occupe la position d'***initié·e***. C'est une position **inconfortable** : la personne stigmatisée le tolère parce qu'il connaît son univers, les normaux le regardent comme un peu « contaminé » par cet univers.
 
-::: {.callout-tip appearance="simple"}
-## Pour la pratique du TS
-Le TS est un **opérateur de l'effectivité** des droits. Sa fonction n'est pas seulement de connaître le droit, mais de le **rendre actionnable** pour la personne accompagnée — par l'information, l'accompagnement administratif, le soutien à la mobilisation des recours, la médiation institutionnelle.
+Pour le TS, l'enjeu est de ne pas devenir un *« initié protecteur »* qui parle à la place de la personne stigmatisée. Charlton (séance 5) formulera ce point en 1998 avec son slogan *« Nothing about us without us »*.
+:::
+
+### Ville-Fillion-Ravaud : le handicap comme catégorie d'action publique
+
+Isabelle Ville (sociologue, IRIS-EHESS), Emmanuelle Fillion (sociologue, EHESP) et Jean-François Ravaud (épidémiologiste, INSERM) publient en 2014 un manuel synthétique réédité en 2020 [@villefillion2020]. Trois auteurs avec trois disciplines, ce qui marque la stratégie du livre : sortir le handicap de la médecine seule.
+
+L'argument central tient en une phrase :
+
+> *« Le handicap n'est pas un donné mais un construit historique, social et politique. »* [@villefillion2020]
+
+Ce qui signifie concrètement :
+
+#### (1) Le handicap est une **catégorie d'action publique**
+
+La catégorie « handicapé » n'existe pas indépendamment des dispositifs publics qui la mobilisent. En Suisse, la catégorie est produite par l'**AI** (taux d'invalidité ≥ 40 %), par la **LHand** (« inégalités dont sont victimes les personnes handicapées »), par la **LIPPI** (financement des institutions). Chaque dispositif définit sa propre catégorie, qui ne recoupe pas exactement les autres.
+
+#### (2) La catégorisation **produit** ce qu'elle prétend décrire
+
+Un exemple genevois. Une personne avec un trouble du spectre autistique léger peut être :
+
+- **Reconnue** par l'AI avec un taux d'invalidité de 40 % → rente partielle
+- **Non reconnue** par l'école ordinaire qui ne juge pas nécessaire d'aménagement
+- **Reconnue** par l'OAI pour des mesures de réadaptation professionnelle
+- **Reconnue** par sa propre auto-identification au mouvement neurodivergent
+- **Non reconnue** par sa famille qui rejette l'étiquette
+
+La **même personne** est tantôt handicapée, tantôt non, selon le dispositif qui la rencontre. La sociologie de l'action publique appelle ces dispositifs des **prismes catégoriels**.
+
+#### (3) Trois effets de la catégorisation
+
+Ville-Fillion-Ravaud (et plus largement la sociologie pragmatique française) identifient trois effets :
+
+| Effet | Mécanisme | Exemple |
+|---|---|---|
+| **Effet de seuil** | Un score administratif ouvre/ferme des droits | Taux AI 40 % vs 39 % : tout change |
+| **Effet d'identité** | La personne se reconnaît (ou résiste) | « Je ne suis pas handicapée, je suis sourde » |
+| **Effet de pratique** | Les pros construisent leur intervention par la catégorie | Référent éducatif vs assistant social selon la catégorie |
+
+### Revillard : les droits vulnérables
+
+Anne Revillard, sociologue à Sciences Po, publie en 2020 *Des droits vulnérables. Handicap, action publique et changement social* [@revillard2020]. Le livre repose sur une enquête empirique : récits de vie de personnes handicapées en France, lus à la lumière des grandes lois (1975, 2005, 2015).
+
+::: {.column-margin}
+La méthode de Revillard est celle du **récit de carrière** au sens de Goffman et Becker : elle reconstitue la trajectoire de chaque enquêté·e en suivant l'enchaînement des dispositifs traversés.
+:::
+
+#### Le concept de droits vulnérables
+
+L'idée centrale est exprimée dans la formule :
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »* [@revillard2020]
+
+Un droit est **vulnérable** quand son existence formelle ne garantit pas son effectivité. Trois sources de vulnérabilité :
+
+**(1) Vulnérabilité informationnelle.** La personne ne sait pas que le droit existe. Exemple suisse : sur les ~2 600 bénéficiaires de la contribution d'assistance fin 2019, l'enquête OFAS 2020 montre que beaucoup d'éligibles n'ont jamais entendu parler du dispositif.
+
+**(2) Vulnérabilité procédurale.** La personne ne maîtrise pas les démarches. Formulaires en allemand juridique, calculs de besoins horaires, statut d'employeur·euse : autant de barrières.
+
+**(3) Vulnérabilité relationnelle.** L'entourage (famille, équipe institutionnelle) s'oppose ou dissuade. La famille protectrice qui décourage l'autonomie n'est pas un cas exceptionnel — c'est la **forme dominante** de la relation, comme le montre la vignette de Léa.
+
+#### Le TS comme opérateur d'effectivité
+
+::: {.callout-important appearance="simple"}
+## L'enjeu pour la pratique
+
+Le TS n'est pas seulement un médiateur entre la personne et la loi. Il est un **opérateur de l'effectivité** des droits. Trois leviers :
+
+- **Levier informationnel** — savoir, expliquer, documenter en FALC si nécessaire
+- **Levier procédural** — accompagner les démarches sans s'y substituer
+- **Levier relationnel** — travailler avec l'entourage, mobiliser le réseau associatif (Pro Infirmis, Cap-Contact)
+:::
+
+## Exemples genevois et romands
+
+### L'Office cantonal AI (OAI Genève)
+
+L'OAI applique la LAI fédérale au niveau cantonal. Quelques chiffres à connaître :
+
+- En 2022, environ **9 % de la population active genevoise** bénéficie d'une rente AI (moyenne suisse : ~4-5 %).
+- Les **causes d'invalidité** ont évolué : la part des maladies psychiques approche désormais 50 % des nouvelles rentes AI, alors qu'elle était minoritaire dans les années 1990.
+- L'introduction de la **6ᵉ révision LAI (2012)** a marqué un tournant : la contribution d'assistance, qui mobilise une logique *cash-for-care* (voir séance 6).
+
+Ces évolutions illustrent la thèse de Ville-Fillion-Ravaud : la catégorie « handicap » se redéfinit en fonction des évolutions sociales (santé mentale au travail, vieillissement) et des choix politiques (priorité réadaptation > rente).
+
+### La création d'INSOS-Genève et la structuration du secteur
+
+La fédération **INSOS-Genève** rassemble les institutions sociales de Genève accueillant des personnes en situation de handicap. Sa structuration date des années 2000 et s'inscrit dans un mouvement plus large de **professionnalisation du tiers secteur**.
+
+Cette structuration produit, au sens de Ville-Fillion-Ravaud, un effet de catégorisation : une « personne handicapée » à Genève est aussi *« une personne dont le suivi peut être pris en charge par une institution INSOS »*. Cela ouvre des droits (subventions LIPPI), cela ferme d'autres possibilités (la personne entre dans une trajectoire institutionnelle).
+
+### Une situation de FP type
+
+::: {.callout-note appearance="simple"}
+## Exemple typifié à analyser
+
+Madame T., 56 ans, vit avec une sclérose en plaques diagnostiquée il y a 8 ans. Elle bénéficie d'une rente AI partielle (60 %) et travaille à mi-temps dans une administration publique. Elle vient au service social de son employeur car son médecin lui a parlé de la **contribution d'assistance AI**, qu'elle ne connaissait pas. Elle hésite : « Je ne suis pas vraiment handicapée, je peux encore marcher. »
+
+**Lecture stikerienne** : Madame T. résiste à la **désignation** comme handicapée. Demander la contribution d'assistance, c'est entrer dans une catégorie qu'elle refuse pour elle-même.
+
+**Lecture goffmanienne** : Madame T. est dans une position **discréditable** (la sclérose en plaques n'est pas visible). Demander la contribution d'assistance, c'est rendre le stigmate visible.
+
+**Lecture revillardienne** : Madame T. est en situation de **vulnérabilité informationnelle**. Elle a entendu parler du dispositif mais ne le maîtrise pas. Sans le TS, le droit ne sera pas mobilisé.
+
+Que faire ?
 :::
 
 ## Lectures préparatoires (*jigsaw*)
@@ -138,13 +257,13 @@ Le TS est un **opérateur de l'effectivité** des droits. Sa fonction n'est pas 
 
 ### Groupe A — Stiker
 
-[@stiker2013], **chapitre III** (la réadaptation comme paradigme moderne, 30 pages).
+[@stiker2013], **chapitre III** sur l'âge classique et **partie sur la réadaptation moderne** (30 pages).
 
 **Questions guides** :
 
-- Qu'est-ce que le paradigme de la réadaptation selon Stiker ?
-- Pourquoi ce paradigme *« désigne comme différent »* ce qu'il prétend normaliser ?
-- Quel exemple contemporain illustre ce paradoxe ?
+- Comment Stiker articule-t-il les passages d'une figure à une autre ? Y a-t-il rupture ou continuité ?
+- Que signifie le paradoxe *« ramener à l'identique = désigner comme différent »* ?
+- Dans votre FP, quels dispositifs illustrent ce paradoxe ?
 
 ### Groupe B — Goffman
 
@@ -152,9 +271,9 @@ Le TS est un **opérateur de l'effectivité** des droits. Sa fonction n'est pas 
 
 **Questions guides** :
 
-- Quelle est la définition goffmanienne du stigmate ?
-- Quelle distinction entre discrédité et discréditable ?
-- Quelles conséquences pour la posture du TS face à un usager qui « cache » sa situation administrative ?
+- Pourquoi Goffman insiste-t-il sur la dimension **relationnelle** du stigmate ?
+- Quelle différence entre *passing* et *covering* ? Donnez un exemple de chaque.
+- Comment la position d'***initié·e*** s'applique-t-elle à votre rôle de TS ?
 
 ### Groupe C — Ville-Fillion-Ravaud
 
@@ -162,9 +281,9 @@ Le TS est un **opérateur de l'effectivité** des droits. Sa fonction n'est pas 
 
 **Questions guides** :
 
-- Pourquoi les définitions du handicap varient-elles selon les époques et les contextes administratifs ?
-- Comment la catégorisation administrative « produit » du handicap ?
-- Quels effets sur les pratiques professionnelles ?
+- Pourquoi les auteur·es refusent-iels de donner une définition unique du handicap ?
+- Comment la **catégorisation administrative** « produit » du handicap ?
+- Quels effets identifiez-vous dans votre lieu de FP ?
 
 ### Groupe D — Revillard
 
@@ -173,23 +292,49 @@ Le TS est un **opérateur de l'effectivité** des droits. Sa fonction n'est pas 
 **Questions guides** :
 
 - Que désigne le concept de *droits vulnérables* ?
-- Quelle distinction entre droit proclamé et droit effectif ?
-- Comment le TS contribue-t-il à l'effectivité des droits ?
+- Quels sont les trois mécanismes de vulnérabilité ?
+- Comment le TS peut-il être *opérateur d'effectivité* dans une situation concrète ?
 
 :::
+
+## Pour aller plus loin
+
+Quelques pistes pour approfondir, en fonction de votre intérêt.
+
+**Pour l'anthropologie historique** : Buton (2007), *Les corps saisis par l'État* (*Revue française de science politique*, 57(3-4), 333-360) — analyse la production sociologique des « personnes handicapées » par les dispositifs d'identification administrative.
+
+**Pour la sociologie du stigmate appliquée** : Murphy, R. F. (1990), *Vivre à corps perdu* (Plon) — autobiographie d'un anthropologue américain devenu paraplégique, lecture saisissante de Goffman à la première personne.
+
+**Pour la catégorisation administrative en Suisse** : Tabin, Probst, Waardenburg & Bruttin (2019), *Repenser la normalité. Réflexions sur l'invalidité* (Antipodes) — analyse sociologique critique du fonctionnement de l'AI suisse.
+
+**Pour la réception des droits** : Lascoumes & Le Galès (2004), *Gouverner par les instruments* (Presses de Sciences Po) — cadre théorique sur la sociologie de l'action publique mobilisé par Revillard.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice : reconnaître les figures historiques
+## Exercice 1 : reconnaître les figures historiques
 
 Dans le règlement d'un foyer genevois, on lit : *« L'usager·ère doit démontrer sa capacité à respecter les règles communes avant tout passage en logement individuel. »* À quelle(s) figure(s) historique(s) du handicap ce règlement renvoie-t-il principalement ?
 
 ### Réponse
 
-Principalement à la figure de **l'inadapté à réadapter** (réadaptation comportementale, mise à l'épreuve) et secondairement à celle du **protégé** (mise sous condition de l'autonomie). La figure du **sujet de droits** est, dans cette formulation, absente : Léa ne fait pas valoir un droit, elle doit *mériter* un passage.
+Principalement à la figure de **l'inadapté à réadapter** (réadaptation comportementale, mise à l'épreuve) et secondairement à celle du **protégé** (mise sous condition de l'autonomie). La figure du **sujet de droits** est, dans cette formulation, absente : la personne ne fait pas valoir un droit, elle doit *mériter* un passage.
 
-Le TS qui mobilise Revillard renversera la formulation : *« L'institution doit démontrer ce qu'elle met en place pour soutenir l'accès au logement individuel, sur la base de l'art. 19 CDPH. »*
+Le TS qui mobilise Revillard renversera la formulation : *« L'institution doit démontrer ce qu'elle met en place pour soutenir l'accès au logement individuel, sur la base de l'art. 19 CDPH. »* L'objet de la démonstration se déplace de la personne vers l'institution.
+:::
+
+::: {.callout-tip collapse="true"}
+## Exercice 2 : lire un règlement avec Goffman
+
+Un foyer genevois a une règle implicite : les couples qui se forment entre résident·es doivent être « validés » par l'équipe avant de pouvoir partager une chambre. Que pourrait dire Goffman ?
+
+### Réponse
+
+Goffman lirait cette règle comme une **gestion institutionnelle des stigmates dits de caractère** (la « gestion » de la sexualité des personnes handicapées par des tiers reflète l'idée implicite que cette sexualité serait « problématique »).
+
+Les résident·es concerné·es sont dans une position **discréditable** : leur relation n'existe socialement que si elle est validée par l'équipe. C'est une **dépossession** au sens de Goffman (*« mortification du moi »* dans *Asylums*).
+
+Pour le TS, l'enjeu est de poser la question : *de quel droit l'institution valide-t-elle ou non une relation entre adultes ?* L'article 22 CDPH (vie privée) et l'article 23 (vie familiale) sont mobilisables.
 :::
 
 ## Travail attendu pour la séance 2
@@ -200,7 +345,7 @@ Identifier dans votre lieu de FP (actuel ou récent) **un dispositif** qui illus
 
 Les références sont listées en fin de volume (Annexe C). Citations bibliographiques principales : @goffman1975, @revillard2020, @stiker2013, @villefillion2020.
 
-**Compléments** : Blanc (2012), *Sociologie du handicap*. Buton (2007), Les corps saisis par l'État. Calvez (2000), La sociologie du handicap.
+**Compléments** : Blanc (2012), *Sociologie du handicap*. Buton (2007), *Les corps saisis par l'État*. Calvez (2000), *La sociologie du handicap*. Lascoumes & Le Galès (2004), *Gouverner par les instruments*. Murphy (1990), *Vivre à corps perdu*. Tabin et al. (2019), *Repenser la normalité*.
 
 ## Slides
 

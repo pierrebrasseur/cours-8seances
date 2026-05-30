@@ -43,69 +43,243 @@ Compétences PEC20 ciblées : **C2, C4, C5, C11**.
 
 ## Cadre théorique
 
-### La logique *cash-for-care*
+### Une généalogie du *cash-for-care*
 
-Le Bihan, Da Roit et Sopadzhiyan [@lebihan2019] analysent les politiques *cash-for-care* en France, Italie, Pays-Bas comme un *« familialisme optionnel par le marché »*. Les familles continuent à produire l'essentiel de l'aide mais peuvent acheter du soin sur un marché concurrentiel.
+::: {.column-margin}
+Le terme ***cash-for-care*** émerge dans la littérature anglo-saxonne au milieu des années 1990, à partir des travaux de Caroline Glendinning, Mary Daly et Jane Lewis. Il désigne le transfert direct d'allocations aux personnes accompagnées plutôt que le financement direct des services.
+:::
 
-Trois conséquences :
+Les politiques de ***cash-for-care*** émergent dans les années 1980-1990 dans plusieurs contextes nationaux convergents :
 
-| Conséquence | Bénéficiaire | Effet pervers |
-|---|---|---|
-| **Autonomie de choix accrue** | Personne / famille | Inégalités selon capacité à gérer |
-| **Précarisation des care workers** | Personnes accompagnantes (souvent migrantes) | Concurrence sur les salaires |
-| **Logique de marché** | État (économies de gestion) | Marchandisation du soin |
+- **États-Unis** — *Independent Living Movement* (Berkeley, années 1970), avec des programmes d'assistance personnelle financés par les États
+- **Suède** — *Personlig assistans* (loi LSS de 1993), modèle de référence européen
+- **Royaume-Uni** — *Independent Living Fund* (1988), puis *direct payments* (1996), puis *individual budgets* (2003)
+- **Pays-Bas** — *Persoonsgebonden budget* (PGB, 1995)
+- **France** — *Prestation de compensation du handicap* (PCH, 2005)
+- **Suisse** — *Contribution d'assistance AI* (2012)
+
+Trois logiques différentes coexistent dans ces politiques :
+
+#### Logique 1 — Autodétermination (héritage *Independent Living*)
+
+Inspirée du mouvement *Independent Living* d'Adolf Ratzka, la logique d'autodétermination postule que la personne handicapée doit être **employeuse** de ses propres assistant·es, choisir leur sélection, leurs tâches, leurs horaires. C'est une logique politique d'**émancipation**.
+
+#### Logique 2 — Efficacité (héritage *New Public Management*)
+
+Portée par les gouvernements conservateurs anglo-saxons (Thatcher, Blair, Cameron), cette logique vise à **rationaliser** les dépenses sociales en transférant la responsabilité vers les bénéficiaires. L'argument : les marchés concurrentiels du soin produisent plus d'efficacité que les services publics monopolistiques.
+
+#### Logique 3 — Familialisme par défaut
+
+Portée par les États conservateurs et les pays du sud de l'Europe, cette logique reconnaît que les **familles continuent à produire l'essentiel du soin**. L'allocation financière soulage marginalement la famille sans transformer le partage de la responsabilité.
+
+Ces trois logiques peuvent se combiner ou s'opposer. Comprendre quelle logique est dominante dans un dispositif national permet d'en analyser les effets.
+
+### Le Bihan, Da Roit et Sopadzhiyan (2019)
+
+::: {.column-margin}
+**Blanche Le Bihan** (EHESP Rennes), **Barbara Da Roit** (Université Ca' Foscari Venise) et **Alis Sopadzhiyan** (chercheuse Bulgarie/France) ont publié en 2019 une analyse comparative des politiques *cash-for-care* en France, Italie et Pays-Bas. L'article est paru dans *Social Policy & Administration*, revue de référence en politiques sociales comparées.
+:::
+
+L'analyse comparée de Blanche Le Bihan, Barbara Da Roit et Alis Sopadzhiyan [@lebihan2019] formule un concept utile : le ***familialisme optionnel par le marché*** (*optional familialism through the market*).
+
+#### Le concept
+
+Les politiques *cash-for-care* dans les trois pays étudiés (France, Italie, Pays-Bas) **n'évacuent pas** la responsabilité familiale dans le soin. Elles la **transforment** :
+
+- La famille reste **productrice** de l'essentiel de l'aide
+- La famille devient **employeuse** de care workers (souvent migrantes)
+- La famille gagne en **flexibilité** (choisir, congédier, ajuster) mais aussi en **charge** (administration, gestion, responsabilité juridique)
+
+Le résultat n'est ni le modèle scandinave (services publics étendus) ni le modèle libéral pur (marché privé), mais un **hybride** : familialisme persistant + marché du care + soutien public modéré.
+
+#### Les effets sur les *care workers*
+
+Le travail de Le Bihan et al. documente précisément les conséquences pour les travailleur·euses du care :
+
+- **Précarisation** des conditions d'emploi (contrats courts, temps partiel imposé, faibles salaires)
+- **Migrantisation** de la profession (forte proportion de travailleur·euses migrant·es, parfois sans statut stable)
+- **Genre** : très forte féminisation du secteur (>90 %)
+- **Invisibilité syndicale** (travail au domicile, dispersion)
+
+::: {.callout-warning appearance="simple"}
+## Pour le TS
+
+Une politique *cash-for-care* peut simultanément :
+
+- **Libérer** la personne handicapée (autodétermination, choix)
+- **Surcharger** la famille (administration, gestion)
+- **Précariser** les care workers (conditions de travail)
+
+Le TS qui accompagne une demande de contribution d'assistance doit penser ces trois dimensions ensemble. Ne pas réduire l'analyse au seul bénéficiaire direct.
+:::
+
+### Caroline Glendinning et le cas anglais
+
+::: {.column-margin}
+**Caroline Glendinning** (Université de York) est sociologue spécialiste des politiques de soin de longue durée. Sa contribution majeure : avoir documenté de manière systématique l'évaluation des programmes anglais d'individualisation des prestations.
+:::
+
+Caroline Glendinning [@glendinning2008] analyse le cas anglais sur trois dispositifs successifs :
+
+- ***Independent Living Fund*** (1988) — fonds national pour l'assistance personnelle
+- ***Direct payments*** (1996) — versement direct aux personnes éligibles aux services sociaux
+- ***Individual budgets*** (2003) — budget personnalisé couvrant plusieurs sources de financement
+
+#### La thèse
+
+> *« Personalisation marks a shift from the citizen-as-recipient to the citizen-as-purchaser of care. »* [@glendinning2008]
+
+Le déplacement est radical : le citoyen ne reçoit plus un service de l'État, il **achète** un service sur un marché. Conséquences :
+
+- **Autonomie de choix** accrue pour celles et ceux qui peuvent gérer
+- **Inégalités d'accès** selon la capacité administrative et cognitive
+- **Marchandisation** progressive du soin
+- **Affaiblissement** des services publics qui perdent leur masse critique
+
+#### Le bilan IBSEN (2008)
+
+Le projet IBSEN (*Individual Budgets Evaluation Network*) a évalué le pilote anglais d'*individual budgets* en 2008. Résultats nuancés :
+
+- **Effets positifs** sur les adultes handicapés mentaux et moteurs (qualité de vie, choix)
+- **Effets mitigés** sur les personnes âgées (préférence pour services structurés)
+- **Coûts administratifs** plus élevés que prévu
+
+Le bilan a conduit à un **développement prudent** plutôt qu'à un déploiement massif. Le Royaume-Uni a maintenu un système hybride.
 
 ### La contribution d'assistance AI suisse
 
-Introduite le **1ᵉʳ janvier 2012** par la 6ᵉ révision LAI. Logique : la personne reçoit l'argent et engage elle-même ses assistant·es comme employeur·euse.
+#### La genèse politique
 
-::: {.callout-note appearance="simple"}
-## Chiffres OFAS 2020
-- **~ 2 600 bénéficiaires** fin 2019 (cible initiale 3 000 dès 2012)
-- Durée moyenne d'engagement : **41 h/semaine**
-- Satisfaction : **81 %** de bénéficiaires satisfaits ou très satisfaits
-- Rares retours en home
+La **contribution d'assistance** est introduite en Suisse par la **6ᵉ révision de la LAI**, entrée en vigueur le **1ᵉʳ janvier 2012**. Elle résulte d'une mobilisation de plus d'une décennie des organisations du handicap (Pro Infirmis, AGILE.CH, Inclusion Handicap), inspirées par les modèles scandinaves.
+
+L'argument politique central : sortir de la **logique du home** (financement de la place en institution) vers une **logique de la personne** (financement de l'autonomie effective).
+
+#### Le fonctionnement
+
+| Élément | Détail |
+|---|---|
+| **Éligibilité** | Personnes percevant l'allocation pour impotent AI, vivant à domicile, ayant besoin d'assistance régulière |
+| **Calcul** | Sur la base d'une grille de besoins horaires (FAKT) |
+| **Statut juridique** | La personne devient **employeuse** des assistant·es |
+| **Limites** | Plafond horaire (maximum 19 740 h/an), exclusion des prestations couvertes par d'autres prestations |
+| **Exclusions** | Mineurs de moins de 16 ans (sauf dans certaines situations), personnes en curatelle de portée générale |
+
+::: {.column-margin}
+**FAKT** est l'instrument d'évaluation des besoins développé par l'OFAS pour la contribution d'assistance. Il décompose les activités quotidiennes en heures requises. L'instrument fait l'objet de critiques sur sa rigidité.
 :::
 
-Critiques structurelles (Inclusion Handicap, AGILE.CH) :
+#### Le rapport OFAS 2020
 
-- **Barrières administratives** lourdes (formulaire, calcul des besoins, statut employeur-bénéficiaire)
-- **Pénurie d'assistant·es** disponibles
-- **Non-extension aux mineurs** et aux personnes en **curatelle de portée générale**
+L'évaluation finale conduite par l'OFAS en 2020 [@ofas2020] fournit les chiffres de référence :
 
-### Le cas anglais : *direct payments* et *individual budgets*
+| Indicateur | Valeur |
+|---|---|
+| **Nombre de bénéficiaires** (fin 2019) | ~ 2 600 |
+| **Cible initiale** (2012) | 3 000 |
+| **Durée moyenne d'engagement** | 41 h/semaine |
+| **Satisfaction des bénéficiaires** | **81 %** satisfaits ou très satisfaits |
+| **Retours en home** | Rares |
+| **Coût moyen annuel par bénéficiaire** | Environ 70 000 CHF |
 
-Caroline Glendinning [@glendinning2008] :
+Le bilan est **positif sur l'effet** (autodétermination, qualité de vie) mais **mitigé sur la diffusion** (sous la cible initiale).
 
-> *« Personalisation marks a shift from the citizen-as-recipient to the citizen-as-purchaser of care. »*
+#### Les critiques structurelles
 
-Tableau comparé :
+Les critiques formulées par **Inclusion Handicap** et **AGILE.CH** sur le dispositif suisse :
 
-| Pays | Dispositif | Année | Critique principale |
-|---|---|---|---|
-| Suisse | Contribution d'assistance AI | 2012 | Diffusion limitée, complexité admin. |
-| France | PCH | 2005 | Familialisme par défaut |
-| Angleterre | *Direct payments / Individual budgets* | 1996 / 2003 | Inégalités de capacité à gérer |
-| Pays-Bas | Budget personnel (PGB) | 1995 | Précarisation des care workers |
+**Critique 1 — Barrières administratives.** Le formulaire de demande, le calcul FAKT, le statut d'employeur·euse sont complexes. Pour beaucoup de personnes éligibles, ces barrières sont prohibitives.
 
-### Retour à Léa : la contribution est-elle une solution ?
+**Critique 2 — Pénurie d'assistant·es.** Le marché suisse de l'assistance personnelle reste sous-développé. Recruter, former, retenir des assistant·es est difficile, notamment en région.
 
-Léa **n'est pas** sous curatelle de portée générale → elle est **éligible**. Elle aurait à embaucher elle-même ses assistant·es.
+**Critique 3 — Non-extension aux mineurs.** L'exclusion des mineurs de moins de 16 ans (sauf situations particulières) limite l'usage du dispositif pour les enfants handicapés et leurs familles.
 
-Mais : sait-elle qu'elle existe ? Sait-elle remplir le formulaire ? Connaît-elle ses droits de recours ?
+**Critique 4 — Exclusion des curatelles de portée générale.** Les personnes sous curatelle ne peuvent pas être employeuses. Cette exclusion entre en tension directe avec l'article 12 CDPH (capacité juridique universelle, séance 3).
 
-> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
->
-> --- @revillard2020
+**Critique 5 — Plafond horaire insuffisant.** Pour les personnes lourdement handicapées (tétraplégie, polyhandicap), le plafond ne couvre pas l'intégralité des besoins. Recours obligé à d'autres prestations ou à la famille.
 
-::: {.callout-tip appearance="simple"}
-## Le TS comme opérateur d'effectivité
-À Genève, trois acteurs clés :
+### Comparaison internationale
 
-- **Pro Infirmis Genève** : consultation sociale, conseil spécialisé sur l'AI
-- **Cap-Contact** : association romande orientée droits, axe domicile
-- **Services sociaux institutionnels** : information et orientation des résident·es
+| Pays | Dispositif | Année | Bénéficiaires | Particularité |
+|---|---|---|---|---|
+| Suède | *Personlig assistans* (LSS) | 1993 | ~ 16 000 | Modèle référence, droit subjectif, financement large |
+| Pays-Bas | PGB | 1995 | ~ 130 000 | Diffusion massive, controverses sur fraudes |
+| Royaume-Uni | *Direct payments* / *Individual budgets* | 1996 / 2003 | Variable selon pays | Système devolu (Angleterre, Écosse, Pays de Galles) |
+| France | PCH | 2005 | ~ 350 000 | Familialisme persistant, modèle hybride |
+| **Suisse** | **Contribution d'assistance AI** | **2012** | **~ 2 600** | **Diffusion limitée, plafond strict** |
+
+La comparaison met en évidence que la Suisse a un dispositif **comparativement étroit** : le nombre de bénéficiaires rapporté à la population est inférieur à la plupart des pays comparables.
+
+### Retour à Léa
+
+Reprenons la situation de Léa (séance 3). 22 ans, trisomie 21, à L'Atelier de la Fondation Ensemble, demandant *« un appartement à moi et un amoureux qui dort là »*.
+
+#### Éligibilité
+
+Léa **est éligible** à la contribution d'assistance :
+
+- Elle perçoit (vraisemblablement) une allocation pour impotent AI
+- Elle vit en institution (transition possible vers domicile)
+- Elle n'est **pas** sous curatelle de portée générale (rien dans la vignette ne le suggère)
+- Elle a 22 ans (majeure)
+
+#### Calcul indicatif
+
+Une lecture FAKT possible pour Léa :
+
+- **Soins de base** (toilette, habillage) : 1-2 h/jour, soit ~ 10 h/semaine
+- **Tenue du ménage** : 5-10 h/semaine
+- **Participation sociale** : 5-10 h/semaine
+- **Suivi administratif** : 2-5 h/semaine
+
+Total indicatif : **25-35 h/semaine**, en deçà du plafond OFAS. La couverture financière est possible.
+
+#### Mais
+
+::: {.callout-important appearance="simple"}
+## Les obstacles non financiers
+
+L'éligibilité ne fait pas l'effectivité [@revillard2020]. Pour Léa :
+
+- **Information** — sait-elle que le dispositif existe ?
+- **Démarche** — peut-elle remplir le formulaire seule ? Avec qui ?
+- **Recrutement** — comment trouver des assistant·es à Genève dans son champ ?
+- **Familles** — sa mère sera-t-elle facilitatrice ou obstacle ?
+- **Suivi** — qui supervisera, formera, soutiendra dans la durée ?
+
+Le TS est l'**opérateur d'effectivité** sur ces cinq dimensions. À Genève, le réseau mobilisable :
+
+- **Pro Infirmis Genève** — consultation sociale, conseil spécialisé sur la contribution
+- **Cap-Contact** — pair-conseil sur le statut d'employeur, mise en réseau avec d'autres bénéficiaires
+- **Service social institutionnel** — accompagnement administratif
+- **OAI Genève** — interlocuteur pour la demande
 :::
+
+## Exemples genevois
+
+### Le service social de Pro Infirmis Genève
+
+**Pro Infirmis Genève** est l'un des principaux opérateurs de l'effectivité de la contribution d'assistance dans le canton. Le service social :
+
+- Informe et explique le dispositif
+- Accompagne la rédaction de la demande FAKT
+- Soutient les démarches d'employeur·euse (contrats, AVS, fiches de salaire)
+- Intervient en cas de litige avec l'OAI
+
+C'est un acteur que tout TS romand doit connaître nominativement.
+
+### L'expérience de Cap-Contact
+
+**Cap-Contact**, association romande pionnière de l'*Independent Living* (anciennement *Centre d'aide par les pairs pour les personnes handicapées*), a été l'une des organisations à militer pour l'introduction de la contribution d'assistance en Suisse. L'association continue à former et conseiller les bénéficiaires.
+
+L'expérience de Cap-Contact :
+
+- La grande majorité des bénéficiaires apprécient le dispositif
+- Les difficultés majeures sont **administratives** (statut d'employeur·euse) et **relationnelles** (recruter, manager des assistant·es)
+- La **pair-conseillance** (séance 5) est un facteur déterminant de succès
+
+### La cause récente d'une exclusion
+
+Sans entrer dans des détails identifiants, plusieurs cas récents ont opposé Inclusion Handicap à l'OAI sur des **refus de contribution d'assistance** pour des personnes en curatelle de portée générale. Les recours mobilisent l'article 12 CDPH (capacité juridique universelle). Le Tribunal fédéral a, à ce stade, généralement confirmé les positions de l'OAI, mais le débat juridique reste ouvert.
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -115,7 +289,13 @@ Mais : sait-elle qu'elle existe ? Sait-elle remplir le formulaire ? Connaît-ell
 
 [@ofas2020], **synthèse et chapitres 3-4** (30 pages).
 
-Inclusion Handicap (2022), Position sur la contribution d'assistance (10 pages).
+Inclusion Handicap (2022). *Position sur la contribution d'assistance* (10 pages).
+
+**Questions guides** :
+
+- Quels sont les **chiffres clés** du rapport OFAS 2020 ?
+- Quelles **critiques structurelles** sont formulées par Inclusion Handicap ?
+- Quel bilan global tirer du dispositif après 10 ans ?
 
 ### Groupe B — La perspective comparée
 
@@ -123,18 +303,40 @@ Inclusion Handicap (2022), Position sur la contribution d'assistance (10 pages).
 
 [@glendinning2008] (19 pages, compagnon FR).
 
+**Questions guides** :
+
+- Que désigne le concept de *familialisme optionnel par le marché* ?
+- Quels sont les effets sur les *care workers* ?
+- Que peut-on apprendre du cas anglais pour la Suisse ?
+
 ### Groupe C — Le terrain
 
-Fracheboud & Lehmann (2019), L'introduction de la contribution d'assistance en Suisse (18 pages).
+Fracheboud, V. & Lehmann, C. (2019). *L'introduction de la contribution d'assistance en Suisse* (*Revue suisse de travail social*, 26, 11-28). (18 pages)
 
-AGILE.CH (2023), *Vie autodéterminée*, chapitre assistance personnelle (15 pages).
+AGILE.CH (2023). *Vie autodéterminée*, chapitre assistance personnelle (15 pages).
+
+**Questions guides** :
+
+- Comment l'introduction de la contribution s'est-elle politiquement déroulée ?
+- Quelles attentes le mouvement suisse du handicap formule-t-il ?
+- Quels obstacles concrets identifie-t-on dans la mise en œuvre ?
 
 :::
+
+## Pour aller plus loin
+
+**Pour le modèle suédois** : Brennan, C., Rice, J., Traustadóttir, R. & Anderberg, P. (2017). *How can states ensure access to personal assistance when service delivery is decentralised?* (*Scandinavian Journal of Disability Research*) — comparaison des modèles scandinaves.
+
+**Pour la critique de la marchandisation** : Da Roit, B. & Le Bihan, B. (2010). *Similar and yet so different: cash-for-care in six European countries' long-term care policies* (*The Milbank Quarterly*, 88(3)) — analyse comparée systématique.
+
+**Pour le contexte légal suisse** : Bigler-Schöb, A. & Gächter, T. (2016). *Behindertengleichstellungsrecht in der Schweiz* (Schulthess) — manuel juridique de référence sur le droit suisse de l'égalité des personnes handicapées.
+
+**Pour l'évaluation** : Power, A., Lord, J. & deFranco, A. (2013). *Active Citizenship and Disability* (Cambridge University Press) — analyse comparative internationale des politiques d'autodétermination.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice : décrypter une trajectoire de non-recours
+## Exercice 1 : décrypter une trajectoire de non-recours
 
 Une personne tétraplégique éligible à la contribution d'assistance ne fait pas la demande : sa famille s'oppose, son entourage doute de sa capacité à gérer, le formulaire lui semble incompréhensible. Comment le TS peut-il intervenir ?
 
@@ -143,21 +345,48 @@ Une personne tétraplégique éligible à la contribution d'assistance ne fait p
 Trois leviers articulés :
 
 1. **Levier informationnel** : expliquer clairement le dispositif, ses droits, ses obligations. Documents en langage clair, possibilité de FALC.
-2. **Levier relationnel** : travailler avec la famille sur ses craintes. Mobiliser l'éthique du care [@tronto2009] : la dépendance est universelle, redistribuer la responsabilité du care.
-3. **Levier institutionnel** : orienter vers Pro Infirmis Genève (conseil) et Cap-Contact (auto-organisation). Soutenir la demande sans s'y substituer.
 
-Concept central : **droits vulnérables** [@revillard2020]. Le droit existe mais reste virtuel sans intermédiation.
+2. **Levier relationnel** : travailler avec la famille sur ses craintes. Mobiliser l'éthique du care [@tronto2009] (séance 7) : la dépendance est universelle, redistribuer la responsabilité du care plutôt que de la concentrer sur la personne. Informer sur la pair-conseillance Cap-Contact (séance 5).
+
+3. **Levier institutionnel** : orienter vers Pro Infirmis Genève (conseil et accompagnement administratif) et Cap-Contact (auto-organisation). Soutenir la demande sans s'y substituer (au sens de Wehmeyer, séance 5).
+
+Concept central : **droits vulnérables** [@revillard2020] (séance 1). Le droit existe mais reste virtuel sans intermédiation.
+:::
+
+::: {.callout-tip collapse="true"}
+## Exercice 2 : analyser les effets sur les care workers
+
+Une famille genevoise embauche, via la contribution d'assistance, deux assistantes : l'une à temps plein (Suissesse, formée HES), l'autre à temps partiel (migrante, sans statut formel, sans diplôme reconnu). Que dirait Le Bihan et al. ?
+
+### Réponse
+
+La situation illustre exactement le *familialisme optionnel par le marché* [@lebihan2019] :
+
+- **Familialisme** — c'est la famille qui gère, embauche, supervise
+- **Optionnel** — la famille a fait le choix de cette modalité plutôt que du placement
+- **Par le marché** — l'embauche se fait sur un marché concurrentiel du care
+
+Conséquences pour les care workers :
+
+- **L'assistante suissesse formée** est protégée par le droit du travail, perçoit un salaire syndical, peut faire valoir ses droits
+- **L'assistante migrante** est dans une position structurellement plus précaire (peur de la perte du contrat, dépendance accrue, asymétrie négociatrice)
+
+Question éthique pour le TS qui accompagne la famille : comment soutenir une demande qui peut, dans certaines configurations, **reproduire des inégalités** sur des care workers vulnérables ?
+
+Réponses possibles : informer la famille des obligations légales (AVS, fiches de salaire), promouvoir la régularisation du statut, mettre en relation avec des associations de care workers.
+
+Cette dimension est rarement discutée dans les formations TS — elle gagne à l'être.
 :::
 
 ## Travail attendu pour la séance 7
 
-**Deuxième entrée du carnet de bord** (1 page) : décrire une situation de FP où la mobilisation (ou non-mobilisation) d'un droit a transformé le déroulement de l'accompagnement.
+**Deuxième entrée du carnet de bord** (1 page) : décrire une situation de FP où la mobilisation (ou non-mobilisation) d'un droit a transformé le déroulement de l'accompagnement. Mobiliser le concept de **droits vulnérables** [@revillard2020].
 
 ## Bibliographie complète de la séance
 
 Voir Annexe C. Citations principales : @glendinning2008, @lebihan2019, @ofas2020, @revillard2020.
 
-**Compléments** : AGILE.CH (2023), *Vie autodéterminée*. Da Roit & Le Bihan (2010). Fracheboud & Lehmann (2019). Inclusion Handicap (2022). Power (2013).
+**Compléments** : AGILE.CH (2023), *Vie autodéterminée*. Bigler-Schöb & Gächter (2016), *Behindertengleichstellungsrecht in der Schweiz*. Brennan et al. (2017). Da Roit & Le Bihan (2010). Fracheboud & Lehmann (2019). Inclusion Handicap (2022). Power, Lord & deFranco (2013), *Active Citizenship and Disability*.
 
 ## Slides
 

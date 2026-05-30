@@ -20,6 +20,7 @@ Sexualités handicapées et assistance sexuelle (Brasseur 2024), violences sexue
 
 ::: {.callout-warning appearance="simple"}
 ## Cadre éthique de cette séance
+
 La séance touche des questions sensibles. **Avant le début** : présentation explicite du cadre, possibilité de se retirer sans justification, possibilité de demander un entretien individuel. Aucune divulgation de situation personnelle n'est demandée. Les exemples mobilisés viennent de la littérature scientifique, anonymisés et désindividualisés.
 :::
 
@@ -40,7 +41,7 @@ Compétences PEC20 ciblées : **C1, C2, C3, C8, C9**.
 |---|---|---|
 | 0-10 min | Présentations courtes (2 étudiant·es) de leur cas-fil de FP | Tour de table |
 | 10-15 min | **Cadrage éthique** de la séance | Exposé |
-| 15-45 min | **Sexualités handicapées et assistance sexuelle** [@brasseur2024] | Exposé |
+| 15-45 min | **Sexualités handicapées et assistance sexuelle** | Exposé |
 | 45-70 min | **Violences sexuelles et angles morts institutionnels** | Exposé |
 | 70-95 min | **Synthèse collective** : quelle posture professionnelle ai-je construite ? | Travail collectif |
 | 95-110 min | Cadrage du travail final et des 3 controverses à mobiliser | Exposé |
@@ -48,67 +49,237 @@ Compétences PEC20 ciblées : **C1, C2, C3, C8, C9**.
 
 ## Cadre théorique
 
-### Sexualités handicapées et assistance sexuelle
+### Le tabou et son histoire
 
-Pierre Brasseur [@brasseur2024] enquête sur l'émergence et l'institutionnalisation de l'**assistance sexuelle** en Europe francophone (Suisse, Belgique, France). L'assistance sexuelle se situe à la frontière du travail du care, du travail du sexe et des politiques du handicap.
-
-Trois tensions analysées :
-
-| Tension | Position A | Position B |
-|---|---|---|
-| **Droit à la sexualité** | Reconnaître l'autodétermination sexuelle | Risque de marchandisation |
-| **Statut professionnel** | Travail du care féminisé | Travail du sexe stigmatisé |
-| **Cadre légal** | CDPH art. 22 (vie privée) | Cadre pénal sur la prostitution |
-
-En Suisse, l'**association SEHP** forme des assistant·es sexuel·les. Un éducateur en institution genevoise peut être sollicité pour informer un résident de cette possibilité : posture professionnelle complexe entre droit à la sexualité, cadres institutionnels et convictions personnelles.
-
-::: {.callout-important appearance="simple"}
-## Question vive
-L'assistance sexuelle reconduit-elle des rapports de genre et de classe dans le travail du care ? [@brasseur2024] problématise sans trancher. C'est précisément la position qu'un cours universitaire doit modeler : poser les termes du débat sans imposer une conclusion.
+::: {.column-margin}
+La sexualité des personnes en situation de handicap a été massivement **niée** ou **pathologisée** dans l'histoire des institutions occidentales. Les stérilisations forcées (Suisse compris jusqu'aux années 1980), la ségrégation des sexes en institution, l'interdiction de fait de la vie affective ont constitué une violation systémique des droits.
 :::
 
-### Violences sexuelles et angles morts institutionnels
+La sexualité des personnes en situation de handicap a longtemps été constituée comme **tabou institutionnel** dans les sociétés occidentales. Trois figures historiques :
 
-Brasseur, Robert et Garré (R1 acceptée, *Social Science and Medicine*, 2026) documentent les angles morts institutionnels dans la prise en charge des violences sexuelles subies par les enfants en situation de handicap.
+- **Le déni** — la personne handicapée serait *« asexuée »*, sans désir, sans vie érotique
+- **La pathologisation** — quand un désir s'exprime, il est lu comme *« symptôme »* à canaliser, voire à réprimer
+- **La menace** — la sexualité des personnes handicapées (notamment avec déficience intellectuelle ou troubles psychiques) serait *« dangereuse »* pour elles-mêmes ou les autres, justifiant la surveillance
 
-Trois angles morts récurrents :
+Ces figures n'ont pas disparu. Elles persistent sous des formes adoucies dans de nombreuses institutions contemporaines, malgré les évolutions normatives (CDPH 2006, recommandations HAS, jurisprudences).
 
-1. **Sous-signalement** : les violences sont moins reconnues et moins signalées dans le champ du handicap
-2. **Parcours de soin défaillants** : les services généralistes (police, justice, médecine légale) sont peu adaptés aux personnes handicapées
-3. **Prévention insuffisante** : les programmes de prévention sont rarement adaptés en FALC, peu déployés en institution
+### Le tournant du droit (CDPH 2006)
 
-### Articulation CDPH des droits
+La CDPH 2006 articule **deux droits** qui structurent le champ.
 
-| Article CDPH | Objet | Tension avec l'autre article |
+#### Article 22 — Respect de la vie privée
+
+> *« Aucune personne handicapée, quel que soit son lieu de résidence ou son milieu de vie, ne sera l'objet d'immixtions arbitraires ou illégales dans sa vie privée, sa famille, son domicile, sa correspondance ou tout autre type de communication, ni d'atteintes illégales à son honneur et à sa réputation. »* [@cdph2006, art. 22]
+
+L'article 22 reconnaît le **droit à la vie privée**, qui inclut implicitement la vie affective, sexuelle, conjugale.
+
+#### Article 23 — Respect du domicile et de la famille
+
+> *« Les États Parties prennent des mesures efficaces et appropriées pour éliminer la discrimination à l'égard des personnes handicapées dans tout ce qui a trait au mariage, à la famille, à la fonction parentale et aux relations personnelles, sur la base de l'égalité avec les autres. »* [@cdph2006, art. 23]
+
+L'article 23 va plus loin : il pose le **droit à la conjugalité** et à la **parentalité**, sur la base de l'égalité.
+
+#### Article 16 — Protection contre l'exploitation, la violence et la maltraitance
+
+> *« Les États Parties prennent toutes mesures législatives, administratives, sociales, éducatives et autres appropriées pour protéger les personnes handicapées, à leur domicile comme à l'extérieur, contre toutes formes d'exploitation, de violence et de maltraitance, y compris leurs aspects fondés sur le sexe. »* [@cdph2006, art. 16]
+
+L'article 16 pose le **droit à la protection** — mais une protection qui doit s'articuler aux articles 22 et 23, et **non** se substituer à eux.
+
+::: {.callout-important appearance="simple"}
+## La tension constitutive
+
+Pour le TS, l'articulation **art. 22 / art. 16** est constitutive du métier dans ce champ. Trop d'attention au droit à l'intimité (art. 22) sans vigilance sur les violences (art. 16) laisse des personnes vulnérables sans recours. Trop d'attention à la protection (art. 16) sans respect de l'intimité (art. 22) verse dans la surveillance et la dépossession.
+
+La posture professionnelle consiste à **tenir les deux** sans les opposer.
+:::
+
+### L'assistance sexuelle en Europe francophone
+
+::: {.column-margin}
+**Pierre Brasseur** publie en 2024 chez PUF *Sociologie de l'assistance sexuelle*. L'ouvrage repose sur une enquête de plusieurs années en Suisse, Belgique et France, avec entretiens auprès d'assistant·es sexuel·les, de personnes accompagnées, de formateurs et de responsables associatifs.
+:::
+
+L'**assistance sexuelle** désigne une pratique d'accompagnement professionnalisé qui permet à des personnes en situation de handicap d'avoir accès à des relations corporelles, sexuelles ou sensuelles dans un cadre négocié. Émergence dans les années 1980 aux Pays-Bas et au Danemark, diffusion en Allemagne et en Suisse à partir des années 2000.
+
+Le travail de Pierre Brasseur [@brasseur2024] propose une **sociologie** de cette pratique en Europe francophone.
+
+#### Le positionnement frontière
+
+L'assistance sexuelle se situe à la frontière de trois mondes :
+
+| Monde | Logique | Tension avec l'assistance sexuelle |
 |---|---|---|
-| **Art. 16** | Protection contre l'exploitation, la violence et la maltraitance | Avec l'art. 22 : ne pas surveiller au nom de la protection |
-| **Art. 22** | Respect de la vie privée | Avec l'art. 16 : ne pas laisser sans recours au nom de l'intimité |
+| **Travail du care** | Accompagnement gratuit ou subventionné | L'assistance sexuelle est rémunérée |
+| **Travail du sexe** | Échange économique de prestations sexuelles | L'assistance sexuelle est un *« accompagnement »* non un *« commerce »* |
+| **Politiques du handicap** | Compensation des inégalités | L'État finance peu, voire pas |
 
-Le TS doit naviguer ces deux exigences sans les opposer.
+Cette position **frontière** explique les controverses et les ambiguïtés du dispositif.
+
+#### Trois tensions
+
+L'ouvrage de Brasseur analyse trois tensions structurantes.
+
+**Tension 1 — Droit à la sexualité vs marchandisation.** Reconnaître l'autodétermination sexuelle des personnes handicapées est-il compatible avec le **paiement** d'une prestation corporelle ? Les positions sont contrastées : les organisations féministes abolitionnistes y voient une marchandisation problématique ; les organisations de personnes handicapées défendent la reconnaissance d'un droit.
+
+**Tension 2 — Statut professionnel : care féminisé vs sexe stigmatisé.** Les assistant·es sexuel·les sont majoritairement des femmes. Elles oscillent entre une identification au **care** (travail relationnel valorisé) et une stigmatisation par le **sexe** (assimilation à la prostitution). Cette ambiguïté structure leur expérience professionnelle.
+
+**Tension 3 — Cadre légal : droit à l'intimité vs cadre pénal.** L'article 22 CDPH soutient le droit à la vie privée. Mais le cadre pénal suisse (art. 191-193 CP) prohibe certaines formes d'échange. La position juridique de l'assistance sexuelle reste **ambiguë**.
+
+#### Le cas suisse : SEHP
+
+En Suisse, l'**Association suisse d'éducation à la santé personnelle (SEHP)** forme des assistant·es sexuel·les. Le dispositif :
+
+- Formation organisée en plusieurs modules sur plusieurs mois
+- Encadrement par des formateur·trices, psychologues, sexologues
+- Conditions d'accès strictes (sélection, supervision)
+- Tarification encadrée
+- Pas de reconnaissance comme **profession** au sens légal — d'où des ambiguïtés juridiques persistantes
+
+Un éducateur en institution genevoise peut être sollicité par un résident ou ses proches pour informer sur cette possibilité. Posture professionnelle complexe entre :
+
+- Droit à l'information de la personne
+- Cadre institutionnel (le règlement permet-il ?)
+- Convictions personnelles du professionnel
+- Position des proches
+
+::: {.callout-warning appearance="simple"}
+## Posture professionnelle
+
+L'enjeu n'est pas que le TS soit *« pour »* ou *« contre »* l'assistance sexuelle. C'est qu'il **informe** sans imposer, qu'il **respecte le choix** de la personne, qu'il **interroge** son propre rapport à la question, et qu'il **soutienne** l'effectivité du choix dans le cadre légal.
+:::
+
+### Les violences sexuelles dans les institutions
+
+::: {.column-margin}
+**Pierre Brasseur, Lucile Robert et Bertrand Garré** ont soumis en 2026 un article à *Social Science and Medicine* sur les violences sexuelles subies par les enfants en situation de handicap. L'article (R1 acceptée) repose sur une enquête multi-méthode : analyse de cas, entretiens auprès de professionnels, revue systématique.
+:::
+
+#### Les chiffres
+
+Les enquêtes internationales sur les violences sexuelles subies par les enfants en situation de handicap convergent vers des estimations alarmantes :
+
+- Risque **2 à 4 fois supérieur** à celui des enfants sans handicap
+- Sous-déclaration massive
+- Auteurs souvent dans l'**entourage** (familial, professionnel, institutionnel)
+- Conséquences à long terme aggravées par la **non-prise en charge**
+
+Ces chiffres font consensus dans la littérature internationale (OMS, UNICEF, EUROCHILD). Ils sont moins connus dans le grand public et même dans une partie des professionnels de la protection de l'enfance.
+
+#### Les trois angles morts institutionnels
+
+L'article de Brasseur, Robert et Garré (R1 acceptée 2026) identifie **trois angles morts** récurrents dans la prise en charge institutionnelle.
+
+**Angle mort 1 — Sous-signalement.** Les violences subies par les enfants en situation de handicap sont moins signalées, pour plusieurs raisons :
+
+- Difficultés de communication (verbal, expression émotionnelle)
+- Non-crédibilité présumée du témoignage
+- Peur du retrait des services institutionnels
+- Dépendance vis-à-vis du milieu où la violence est commise
+
+**Angle mort 2 — Parcours de soin défaillants.** Les services généralistes (police, justice, médecine légale, soins psychologiques) sont peu adaptés aux personnes handicapées :
+
+- Examens médico-légaux peu adaptés à des corps spécifiques
+- Auditions judiciaires sans aménagement (FALC, temps, accompagnement)
+- Prise en charge psychothérapeutique difficile pour certaines déficiences
+- Coordination inter-services défaillante
+
+**Angle mort 3 — Prévention insuffisante.** Les programmes de prévention des violences sexuelles sont rarement adaptés :
+
+- Matériel pédagogique non FALC
+- Pas de prise en compte des spécificités (communication non verbale, déficience auditive)
+- Faible déploiement en milieu institutionnel résidentiel
+- Formation des professionnels lacunaire
+
+#### Pour le travail social
+
+::: {.callout-important appearance="simple"}
+## Quatre responsabilités
+
+Le TS dans le champ du handicap a quatre responsabilités spécifiques en matière de violences :
+
+1. **Connaître** les chiffres et les trois angles morts
+2. **Reconnaître** les signes (communication, comportement, somatique) sans surinterpréter
+3. **Articuler** les articles 16 et 22 CDPH : protéger sans surveiller, respecter sans abandonner
+4. **Travailler** en réseau (centres LAVI, médecine légale, police, services spécialisés)
+:::
+
+#### Articulation avec la loi suisse
+
+En Suisse, le cadre légal mobilisable :
+
+- **Code pénal** — art. 187-200 (infractions contre l'intégrité sexuelle)
+- **Loi sur l'aide aux victimes (LAVI)** — droit à l'aide, indemnisation
+- **Code civil** — protection de l'adulte (art. 388 ss)
+- **Convention de Lanzarote** (Conseil de l'Europe, 2007) — sur la protection des enfants contre l'exploitation et les abus sexuels, ratifiée par la Suisse
+- **CDPH art. 16** — droit à la protection
+
+À Genève, les **centres LAVI** offrent une prise en charge spécialisée. La **Fondation Lépoldine** propose des accompagnements adaptés aux enfants avec déficiences.
 
 ### Synthèse collective
 
 Question structurante : *« Quelle posture professionnelle ai-je construite au fil des 8 séances ? »*
 
-Trois axes pour la réponse :
+#### Trois axes pour la réponse
 
-1. **Mes outils théoriques** : quels modèles je mobilise spontanément ?
-2. **Mes vigilances** : quelles asymétries je m'oblige à interroger ?
-3. **Mes lieux d'action** : quelles marges je vais mobiliser en FP ?
+**Axe 1 — Mes outils théoriques.** Quels modèles je mobilise spontanément ? Quels concepts me viennent quand j'analyse une situation ?
 
-### Trois controverses (à mobiliser dans le travail final)
+**Axe 2 — Mes vigilances.** Quelles asymétries je m'oblige à interroger ? Quels angles morts je m'efforce de repérer ?
+
+**Axe 3 — Mes lieux d'action.** Quelles marges je vais mobiliser en FP ? Sur quels leviers institutionnels puis-je peser ?
+
+#### Une posture argumentée
+
+La séance ne demande pas une **position** sur les questions du champ. Elle demande une **posture argumentée** — c'est-à-dire :
+
+- Capable de **nommer** les concepts mobilisés
+- Capable de **justifier** ses choix par référence à des cadres théoriques
+- Capable de **reconnaître** les limites et controverses de ces choix
+- Capable de **rester ouverte** à l'interrogation et à l'évolution
+
+### Les trois controverses
+
+Le travail final demandera de prendre position sur **l'une** des trois controverses suivantes, préparées dans les séances 4, 5 et 6.
 
 | Controverse | Position A | Position B |
 |---|---|---|
-| Désinstitutionnalisation | Horizon réaliste à viser sans délai | Risque sans investissement préalable |
-| *Cash-for-care* | Vecteur d'autodétermination effective | Familialisme par le marché |
-| Participation | Avancée démocratique majeure | Nouvelle injonction sans transformation des rapports de pouvoir |
+| **Désinstitutionnalisation** (s4) | Horizon réaliste à viser sans délai | Risque de transinstitutionnalisation sans investissement préalable |
+| ***Cash-for-care*** (s6) | Vecteur d'autodétermination effective | Familialisme par le marché et précarisation des care workers |
+| **Participation** (s5) | Avancée démocratique majeure | Nouvelle injonction sans transformation des rapports de pouvoir |
 
-Chaque controverse a été préparée dans une séance précédente :
+La prise de position dans le travail final n'est **pas** un choix binaire entre A et B. C'est une **argumentation située** qui mobilise les outils du cours pour articuler les enjeux d'une situation précise.
 
-- **Désinstitutionnalisation** : séance 4 (Mansell-Beadle-Brown, ONU 2022)
-- ***Cash-for-care*** : séance 6 (Le Bihan et al., Glendinning, OFAS 2020)
-- **Participation** : séance 5 (Charlton, Brasseur-Rodriguez)
+## Exemples genevois
+
+### L'association ASPASIE
+
+L'association genevoise **ASPASIE** s'occupe des questions de prostitution et de droit au travail du sexe. Elle a développé une position sur l'assistance sexuelle qui éclaire les tensions analysées par Brasseur :
+
+- Soutien à la reconnaissance professionnelle des assistant·es sexuel·les
+- Vigilance sur les conditions de travail
+- Refus de l'assimilation pure et simple à la prostitution
+
+L'association est mobilisable en intervention dans la formation HETS.
+
+### La Fondation Cap Loisirs
+
+La **Fondation Cap Loisirs** (Genève) accompagne des personnes en situation de handicap dans leurs loisirs. Elle a développé un travail spécifique sur la vie affective et la sexualité :
+
+- Formation des accompagnant·es
+- Soutien à la vie affective des bénéficiaires
+- Médiation entre personnes accompagnées, familles, équipes
+
+C'est un acteur opérationnel à connaître.
+
+### Les Centres LAVI
+
+À Genève, le **Centre de consultation pour les victimes d'infractions (LAVI)** est rattaché au pouvoir judiciaire. Il offre :
+
+- Conseil juridique
+- Aide psychologique
+- Aide matérielle
+- Indemnisation possible
+
+La cellule LAVI a développé des **adaptations** pour les personnes en situation de handicap, mais l'effectivité de ces adaptations reste **inégale** selon les déficiences et les situations.
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -118,15 +289,33 @@ Chaque controverse a été préparée dans une séance précédente :
 
 [@brasseur2024], **introduction et chapitre 5** (40 pages).
 
+**Questions guides** :
+
+- Quel est le positionnement **frontière** de l'assistance sexuelle ?
+- Quelles sont les **trois tensions** structurantes du dispositif ?
+- Comment la situation suisse (SEHP) se distingue-t-elle des autres ?
+
 ### Groupe B — Violences institutionnelles
 
-Brasseur, Robert & Garré (R1 acceptée 2026), *Sexual violence against children with disabilities*, *Social Science and Medicine* (25 pages, manuscrit complet anonymisé, compagnon FR).
+Brasseur, Robert & Garré (R1 acceptée 2026). *Sexual violence against children with disabilities*, *Social Science and Medicine* (25 pages, manuscrit complet anonymisé, compagnon FR).
+
+**Questions guides** :
+
+- Quels sont les **trois angles morts** identifiés ?
+- Quel rôle peut jouer le TS sur chacun d'entre eux ?
+- Comment articuler les articles 16 et 22 CDPH dans la pratique ?
 
 ### Groupe C — Cadre éthique et droits
 
-[@onu2022], **sections sur articles 16 et 22** (10 pages).
+[@onu2022], **sections sur articles 16, 22 et 23** (10 pages).
 
 HAS (2024), *Vie affective et sexuelle des personnes accompagnées*, **synthèse** (15 pages).
+
+**Questions guides** :
+
+- Quelles critiques le Comité ONU formule-t-il à la Suisse sur les violences ?
+- Quelles recommandations la HAS formule-t-elle sur la vie affective et sexuelle ?
+- Comment ces deux cadres se complètent-ils ?
 
 :::
 
@@ -142,14 +331,14 @@ Analyser une situation rencontrée en formation pratique (ou un dispositif obser
 
 L'analyse doit :
 
-1. **Décrire** la situation et son contexte institutionnel (1 page)
-2. **Identifier** au moins 2 modèles du handicap à l'œuvre (2 pages)
-3. **Mobiliser** le cadre normatif suisse pertinent (1,5 page)
-4. **Analyser** une tension de posture rencontrée par les professionnel·les (2 pages)
-5. **Prendre position** sur l'une des trois controverses du cours (1,5 page)
-6. **Proposer** une transformation argumentée (1,5 page)
-7. **Réflexivité** sur votre propre position d'apprentissage (1 page)
-8. **Bibliographie** d'au moins 8 références du cours (1,5 page)
+1. **Décrire** la situation et son contexte institutionnel (≈ 1 page)
+2. **Identifier** au moins 2 modèles du handicap à l'œuvre (≈ 2 pages)
+3. **Mobiliser** le cadre normatif suisse pertinent (≈ 1,5 page)
+4. **Analyser** une tension de posture rencontrée par les professionnel·les (≈ 2 pages)
+5. **Prendre position** sur l'une des trois controverses du cours (≈ 1,5 page)
+6. **Proposer** une transformation argumentée (≈ 1,5 page)
+7. **Réflexivité** sur votre propre position d'apprentissage (≈ 1 page)
+8. **Bibliographie** d'au moins 8 références du cours (≈ 1,5 page)
 
 ### Critères d'évaluation
 
@@ -163,11 +352,21 @@ L'analyse doit :
 | Qualité de la réflexivité sur sa position | 10 % |
 | Qualité rédactionnelle et bibliographique | 10 % |
 
+## Pour aller plus loin
+
+**Pour les violences sexuelles dans le champ du handicap** : Westcott, H. & Jones, D. (1999). *Annotation: the abuse of disabled children* (*Journal of Child Psychology and Psychiatry*) — texte classique de la littérature internationale.
+
+**Pour la sexualité en institution** : Giami, A. (2005). *La sexualité des personnes handicapées : revue bibliographique* (INSERM) — synthèse francophone de référence.
+
+**Pour la critique féministe de l'assistance sexuelle** : Falaise, L. & Tabin, J.-P. (2019). *Discussions sur l'assistance sexuelle* (CCSS Lausanne) — actes d'une journée d'étude romande.
+
+**Pour le cadre LAVI** : Centres LAVI Suisse (2023). *Rapport d'activité* — vue d'ensemble des prises en charge.
+
 ## Bibliographie complète de la séance
 
 Voir Annexe C. Citations principales : @brasseur2024, @brasseurrodriguez2019.
 
-**Compléments** : Comité ONU CDPH (2022), articles 16 et 22. HAS (2024). Stiker, Puig & Huet (2014).
+**Compléments** : Comité ONU CDPH (2022), articles 16, 22, 23. Giami (2005), *La sexualité des personnes handicapées*. HAS (2024). Stiker, Puig & Huet (2014), *Handicap et accompagnement*. Westcott & Jones (1999).
 
 ## Slides
 
