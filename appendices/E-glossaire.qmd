@@ -1,0 +1,211 @@
+# Glossaire conceptuel {.unnumbered}
+
+::: {.callout-tip appearance="simple"}
+## Mode d'emploi
+
+Ce glossaire rassemble les concepts mobilisés dans le cours, avec leur définition courte, leur ou leurs auteur·rices de référence et la séance où ils sont travaillés. Il complète les fiches de lecture détaillées (annexe D) et la bibliographie (annexe C). Conçu comme outil de révision et comme aide-mémoire pour le travail final.
+:::
+
+## A
+
+**Accessibilité** — Caractère d'un environnement (bâti, communicationnel, numérique, attitudinal) qui n'oppose pas de barrières aux personnes en situation de handicap. La LHand suisse [@biglerschob2016] et la CDPH art. 9 [@cdph2006] en posent le cadre normatif. Séances 2 et 4.
+
+**Active support** — Approche d'accompagnement professionnel qui maximise l'engagement de la personne plutôt que son contrôle [@mansell2007 ; @bigby2018]. Condition de qualité IASSIDD pour l'habitat communautaire. Séance 4.
+
+**Activité empêchée** — Ce que le ou la professionnel·le ne peut pas faire malgré sa volonté de bien faire [@clot2008 ; @clot2010]. Concept central de la clinique de l'activité. Séance 7.
+
+**Aidant·es informel·les** — Personnes (famille, proches) qui assurent un soutien quotidien à une personne en situation de handicap, sans statut professionnel ni rémunération équivalente. Au cœur du familialisme [@knijn1997 ; @lewis2001]. Séance 6.
+
+**Aménagement raisonnable** — Modification d'un environnement (lieu de travail, école, service) pour permettre à une personne handicapée d'exercer ses droits [@cdph2006, art. 2 et 5 ; @bantekas2018]. Concept central de la CDPH. Séance 3.
+
+**Approche par les capabilités** — Cadre normatif développé par Sen [@sen1985 ; @sen1992] et Nussbaum [@nussbaum2006 ; @nussbaum2011], qui pose comme critère de justice non la possession de ressources mais la capabilité réelle de la personne. Séance 3.
+
+**Assistance personnelle** — Service permettant à une personne handicapée d'employer elle-même les personnes qui l'assistent [@ratzka2003]. Concept central du mouvement *Independent Living*. Séances 5 et 6.
+
+**Assistance sexuelle** — Pratique d'accompagnement professionnalisé permettant à des personnes handicapées d'avoir accès à des relations corporelles, sexuelles ou sensuelles dans un cadre négocié [@brasseur2024 ; @couvert2019]. Séance 8.
+
+**Autodétermination** — Capacité d'agir comme l'agent causal principal de sa propre vie [@wehmeyer1996], soutenue par la satisfaction de trois besoins psychologiques fondamentaux (autonomie, compétence, appartenance) [@ryandeci2017]. Séance 5.
+
+**Autoconfrontation** — Méthode de la clinique de l'activité (Clot) consistant à confronter le ou la professionnel·le à sa propre activité filmée pour en élaborer le réel [@clot2008]. Séance 7.
+
+## C
+
+**Capabilité** — Ce que la personne peut effectivement faire et être, compte tenu de ses ressources personnelles et des supports environnementaux [@sen1985 ; @nussbaum2006]. À distinguer du *fonctionnement* (ce qui est effectivement réalisé). Séance 3.
+
+**Capacité juridique** — Reconnaissance de la personne comme sujet de droit pouvant accomplir des actes juridiques. L'art. 12 CDPH [@cdph_og1] pose le principe d'une capacité juridique universelle des personnes handicapées, contre le paradigme tutélaire suisse [@maitre2021 ; @eyraud2016]. Séances 3 et 7.
+
+**Care** — Activité générique qui inclut tout ce que nous faisons pour maintenir, perpétuer et réparer notre monde [@fisher1990]. Quatre phases pour Tronto [@tronto1993 ; @tronto2009] : *caring about*, *taking care of*, *care giving*, *care receiving*. Séance 7.
+
+**Cash-for-care** — Politique de financement qui transfère une allocation à la personne handicapée plutôt qu'au service [@lebihan2019 ; @ungerson2004 ; @glendinning2008]. La contribution d'assistance AI suisse en est un exemple. Séance 6.
+
+**Catégorisation administrative** — Opération par laquelle des dispositifs publics produisent la catégorie « personne handicapée » et trient les personnes qui en relèvent ou non [@villefillion2020 ; @buton2007 ; @hassenteufel2008]. Séance 1.
+
+**Causal Agency Theory** — Évolution écosystémique du modèle de Wehmeyer formalisée par Shogren [@shogren2015] et déclinée en francophonie par Lachapelle [@lachapelle2022]. L'autodétermination est un produit relationnel, pas seulement un trait individuel. Séance 5.
+
+**Contribution d'assistance AI** — Prestation introduite en Suisse en 2012 par la 6ᵉ révision LAI [@ofas2020]. La personne reçoit une allocation pour engager elle-même ses assistant·es. Séance 6.
+
+**Critical disability studies** — Héritières du modèle social, mais articulées avec les études postcoloniales, de genre, queer, et l'intersectionnalité [@goodley2017 ; @davis2017 ; @mcruer2006]. Séance 2.
+
+**Curatelle de portée générale** — Mesure de protection suisse (CC art. 398) qui suspend la capacité civile de la personne. Critiquée comme contraire à l'art. 12 CDPH [@maitre2021 ; @onu2022]. Séances 3 et 7.
+
+## D
+
+**Deep acting** — Travail émotionnel par lequel le ou la professionnel·le induit en soi-même l'émotion attendue par le rôle [@hochschild1983]. À distinguer du *surface acting* (afficher sans ressentir). Séance 7.
+
+**Désinstitutionnalisation** — Processus de transformation des dispositifs résidentiels collectifs en services de proximité individualisés [@mansell2010 ; @cdph_og5]. Concept central de l'article 19 CDPH. Séance 4.
+
+**Dignité du risque** — Reconnaissance que toute personne, y compris avec déficience intellectuelle, a droit à prendre des risques ordinaires [@perske1972]. Concept fondateur du mouvement de désinstitutionnalisation. Séance 7.
+
+**Direct payments** — Politique anglaise (1996) de versement direct aux personnes éligibles aux services sociaux [@glendinning2008]. Préfigure les *individual budgets*. Séance 6.
+
+**Disability** — Handicap social produit par les barrières environnementales, à distinguer de l'*impairment* (déficience corporelle) [@upias1976 ; @oliver1990]. Rupture conceptuelle fondatrice du modèle social britannique. Séance 2.
+
+**Discrédité / discréditable** — Distinction goffmanienne entre le stigmate visible (discrédité) et le stigmate dissimulable (discréditable) [@goffman1975]. Structure deux familles de stratégies identitaires. Séance 1.
+
+**Droits vulnérables** — Concept d'Anne Revillard [@revillard2020] désignant les droits sociaux dont l'existence formelle ne garantit pas l'effectivité. Trois mécanismes de vulnérabilité : informationnel, procédural, relationnel. Séances 1 et 6.
+
+## E
+
+**Écosystémique (approche)** — Lecture des phénomènes humains qui mobilise l'interaction entre la personne et son environnement [@fougeyrollas2010 ; @lachapelle2022]. Présente dans le MDH-PPH et dans la *Causal Agency Theory*. Séances 3 et 5.
+
+**Effet de seuil** — Conséquence d'une catégorisation administrative : un score (par exemple le taux d'invalidité AI) ouvre ou ferme des droits [@villefillion2020 ; @buton2007]. Séance 1.
+
+**Empowerment** — Processus par lequel une personne ou un groupe acquiert pouvoir, compétences et reconnaissance pour agir sur sa propre vie [@charlton1998 ; @wehmeyer1996]. Séance 5.
+
+**Éthique du care** — Approche philosophique et politique qui pose la vulnérabilité comme condition humaine partagée et redistribue la responsabilité du care [@tronto1993 ; @paperman2011 ; @laugier2010 ; @gilligan1982]. Séance 7.
+
+## F
+
+**Facteurs environnementaux** — Élément du MDH-PPH désignant l'ensemble des conditions extérieures à la personne (politiques sociales, bâti, technologies, attitudes, famille) [@fougeyrollas2010]. Métaphore de la toile. Séance 3.
+
+**Facteurs personnels** — Élément du MDH-PPH désignant systèmes organiques et facteurs identitaires de la personne [@fougeyrollas2010]. Métaphore du funambule. Séance 3.
+
+**FAKT** — Instrument suisse d'évaluation des besoins horaires pour la contribution d'assistance AI [@ofas2020]. Critiqué pour sa rigidité. Séance 6.
+
+**FALC (Facile à Lire et à Comprendre)** — Méthode de rédaction adaptée aux personnes ayant des difficultés de lecture, notamment avec déficience intellectuelle. Mobilisée pour l'accessibilité informationnelle. Séances 1, 6, 8.
+
+**Familialisme** — Configuration des politiques sociales qui présuppose ou impose la prise en charge familiale du soin [@anttonen1996 ; @knijn1997 ; @lewis2001]. Trois variantes selon Esping-Andersen [@esping1990]. Séance 6.
+
+**Familialisme optionnel par le marché** — Concept de Le Bihan, Da Roit et Sopadzhiyan [@lebihan2019] désignant les politiques *cash-for-care* qui maintiennent la responsabilité familiale tout en permettant le recours au marché du care. Séance 6.
+
+## G
+
+**Genre professionnel** — Manières de faire propres à un métier, déposées dans le collectif de travail [@clot1999 ; @clot2008]. À distinguer du *style* (manière personnelle de mobiliser le genre). Séance 7.
+
+## H
+
+**Habitudes de vie** — Élément du MDH-PPH désignant les activités courantes et les rôles sociaux valorisés que la personne souhaite réaliser [@fougeyrollas2010]. Métaphore du fil. Mesurées par la MHAVIE. Séance 3.
+
+## I
+
+**IASSIDD** — *International Association for the Scientific Study of Intellectual Disabilities*. Sa position officielle sur la désinstitutionnalisation [@mansell2010 ; @bigby2018] fait référence. Séance 4.
+
+**Impairment** — Déficience corporelle, à distinguer de la *disability* (handicap social produit par les barrières) [@upias1976 ; @oliver1990]. Séance 2.
+
+**Inclusion** — Modèle d'organisation sociale qui prévoit a priori la diversité des corps et des fonctionnements, à distinguer de l'*intégration* (insertion a posteriori dans un cadre conçu sans la personne) [@ebersold2017 ; @gardou2012]. Séances 2 et 4.
+
+**Independent Living** — Mouvement international des personnes en situation de handicap exigeant le contrôle de leur propre vie, dont l'assistance personnelle [@ratzka2003 ; @charlton1998]. Séances 4, 5 et 6.
+
+**Individual budgets** — Dispositif anglais (2003) de budget personnalisé couvrant plusieurs sources de financement [@glendinning2008]. Séance 6.
+
+**Initié·e (the wise)** — Position sociale goffmanienne de la personne non stigmatisée qui a une familiarité avec l'univers du stigmate (proches, professionnel·les) [@goffman1975]. Position du ou de la TS. Séance 1.
+
+**Intersectionnalité** — Approche qui pense les positions sociales comme produits de plusieurs axes d'oppression articulés (genre, race, classe, handicap) [@goodley2017 ; @masson2013 ; @pierart2013]. Séances 2 et 4.
+
+## L
+
+**LAI (Loi sur l'assurance-invalidité)** — Loi fédérale suisse régissant l'AI. La 6ᵉ révision (2012) a introduit la contribution d'assistance [@ofas2020]. Séances 1, 6.
+
+**LAVI (Loi sur l'aide aux victimes)** — Loi suisse organisant l'aide aux victimes d'infractions, dont les violences sexuelles [@lavi2023]. Séance 8.
+
+**LED-H** — Avant-projet de Loi sur l'égalité et les droits des personnes handicapées du canton de Genève, en consultation depuis juin 2024 [@ledh2024]. Séance 4.
+
+**LHand** — Loi fédérale suisse sur l'élimination des inégalités frappant les personnes handicapées, en vigueur depuis 2004 [@biglerschob2016]. Cadre de l'accessibilité. Séance 2.
+
+**LIPPI** — Loi fédérale sur les institutions destinées à promouvoir l'intégration des personnes invalides [@lipphvers2020]. Cadre du financement des EPH. Séances 1 et 4.
+
+## M
+
+**MDH-PPH** — Modèle de Développement Humain – Processus de Production du Handicap. Modèle francophone d'analyse du handicap comme situation interactive [@fougeyrollas2010 ; @ripph2018]. Séance 3.
+
+**MHAVIE** — Mesure des habitudes de vie. Instrument d'évaluation associé au MDH-PPH [@masse2018 ; @ripph2018]. Séances 3 et 4.
+
+**Modèle médical** — Modèle qui conçoit le handicap comme déficience individuelle à corriger [@stiker2013]. Critiqué par le modèle social. Séances 1 et 3.
+
+**Modèle social** — Modèle qui conçoit le handicap comme barrière environnementale produite par l'organisation sociale [@upias1976 ; @oliver1990]. Séance 2.
+
+## N
+
+**Non-recours** — Situation dans laquelle une personne éligible à une prestation ou à un droit ne le mobilise pas [@revillard2020 ; @spire2008]. Trois sources : information, procédure, relation. Séances 1, 4 et 6.
+
+**Normalisation** — Principe développé par Nirje [@nirje1969] et Wolfensberger [@wolfensberger1972 ; @wolfensberger1983] visant à offrir aux personnes avec déficience intellectuelle des conditions de vie aussi proches que possible des normes ordinaires de leur société. Séance 4.
+
+**Nothing about us without us** — Slogan emprunté au mouvement antiapartheid sud-africain et tchèque par Charlton [@charlton1998]. Épistémologie politique du mouvement international des droits du handicap. Séances 5 et 7.
+
+## O
+
+**Observation générale (OG)** — Document du Comité ONU CDPH interprétant un article de la Convention. L'OG n° 1 [@cdph_og1] porte sur l'art. 12 (capacité juridique), l'OG n° 5 [@cdph_og5] sur l'art. 19 (vie autonome). Séances 3 et 4.
+
+## P
+
+**Pair-aidance** — Pratique d'accompagnement reposant sur le partage d'expérience entre personnes ayant traversé une situation similaire [@jouet2010 ; @souesme2024 ; @mead2003]. Séance 5.
+
+**Paradigme du soutien à la décision** — Modèle alternatif à la substitution de décision, où la personne reste titulaire de la décision et reçoit un soutien adapté [@cdph_og1 ; @maitre2021 ; @eyraud2016]. Séance 7.
+
+**Pas de côté** — Concept de Lenzi et Moine [@lenzimoine2025] désignant les micro-déviations de la prescription qui permettent au ou à la TS de maintenir le sens du métier. Séance 7.
+
+**Pouvoir d'agir** — Possibilité effective d'agir sur son milieu et sur soi-même [@clot2008]. Concept central de la clinique de l'activité. Séance 7.
+
+**Praticien réflexif** — Praticien·ne qui mobilise une *reflection-in-action* et une *reflection-on-action* pour ajuster son intervention à des situations singulières [@schon1994]. Séance 7.
+
+## Q
+
+**Qualité de vie** — Construit multidimensionnel mobilisé pour évaluer l'effet des services [@schalock2007 ; @verdugo2005 ; @bigby2018]. Séance 4.
+
+## R
+
+**Réadaptation** — Paradigme moderne d'intervention sur la personne handicapée pour la ramener à la norme. Stiker [@stiker2013] en montre le paradoxe : ramener à l'identique désigne comme différent. Séance 1.
+
+**Réel de l'activité** — Niveau de la clinique de l'activité incluant l'activité réalisée mais aussi ce qui n'est pas fait, ce qui est empêché, ce qui aurait pu être fait [@clot2008]. Séance 7.
+
+**Recovery** — Mouvement et concept de santé mentale désignant la reconstruction d'une vie significative malgré le trouble [@anthony1993 ; @slade2009 ; @davidson2009]. Séance 5.
+
+## S
+
+**Self-Determination Theory (SDT)** — Théorie de la motivation humaine développée par Ryan et Deci [@ryandeci2017 ; @deci1985] sur trois besoins psychologiques universels. Séance 5.
+
+**Situation de handicap** — Concept central du MDH-PPH : le handicap n'est pas un état mais une situation produite par l'interaction entre facteurs personnels, habitudes de vie et facteurs environnementaux [@fougeyrollas2010]. Séance 3.
+
+**Stigmate** — Attribut socialement disqualifiant qui transforme dans l'interaction une personne « normale » en personne « entachée » [@goffman1975]. Séance 1.
+
+**Street-level bureaucracy** — Concept de Lipsky [@lipsky2010] désignant les agent·es de terrain qui appliquent les politiques publiques au contact des usager·es et exercent ainsi une autonomie discrétionnaire considérable. Séance 7.
+
+**Substitution de décision** — Modèle juridique tutélaire dans lequel une tierce personne (tuteur, curateur) prend les décisions à la place de la personne sous mesure. Critiqué par l'art. 12 CDPH [@cdph_og1]. Séance 7.
+
+**Supported decision-making** — Voir *Paradigme du soutien à la décision*.
+
+**Surface acting** — Travail émotionnel par lequel le ou la professionnel·le affiche une émotion sans la ressentir [@hochschild1983]. Séance 7.
+
+## T
+
+**Tiers-savoir** — Articulation du savoir médical et du savoir expérientiel par la personne concernée, qui devient capable de traduire entre les deux univers [@jouet2010 ; @flora2015]. Séance 5.
+
+**Travail émotionnel** — Travail par lequel le ou la professionnel·le produit des émotions ajustées au rôle attendu, indépendamment de ce qu'il ou elle ressent [@hochschild1983 ; @bolton2005]. Séance 7.
+
+**Travail prescrit / activité réalisée / réel de l'activité** — Trois niveaux distingués par la clinique de l'activité [@clot1999 ; @clot2008]. Séance 7.
+
+**Transinstitutionnalisation** — Déplacement d'une institution à une autre (foyer vers hôpital, foyer collectif vers mini-foyer reproduisant les routines institutionnelles) sans réel changement de logique [@power2013]. Risque de la désinstitutionnalisation mal conduite. Séance 4.
+
+## V
+
+**Vulnérabilité** — Condition universelle de la condition humaine selon l'éthique du care [@tronto1993 ; @paperman2011], à redistribuer plutôt qu'à concentrer sur des groupes spécifiques. Concept central de la séance 7.
+
+**Vulnérabilité (droits)** — Voir *Droits vulnérables*.
+
+------------------------------------------------------------------------
+
+::: {.callout-tip appearance="simple"}
+## Pour aller plus loin
+
+Pour une introduction encyclopédique au champ du handicap, on consultera Watson et Vehmas [@watson2019] *Routledge Handbook of Disability Studies*, et pour la francophonie Ville, Fillion et Ravaud [@villefillion2020] *Introduction à la sociologie du handicap* (De Boeck). Pour les concepts du care, Paperman et Laugier [@paperman2011] et Laugier [@laugier2010]. Pour les concepts de la clinique du travail, Clot [@clot1999 ; @clot2008 ; @clot2010]. Pour les concepts juridiques de la CDPH, Bantekas, Stein et Anastasiou [@bantekas2018].
+:::
