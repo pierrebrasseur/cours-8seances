@@ -5,3 +5,5 @@ _book/
 slides/*.html
 .DS_Store
 quarto
+
+/.quarto/

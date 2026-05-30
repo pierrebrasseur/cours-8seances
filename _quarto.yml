@@ -4,19 +4,23 @@ project:
 
 book:
   title: "Handicap, autonomie et travail social"
-  subtitle: "Cours intensif en 8 séances — Bachelor TS · HETS Genève"
+  subtitle: "Huit séances pour penser les défis d'une posture professionnelle"
   author:
     - name: "Pierre Brasseur"
-      affiliation: "HETS Genève · HES-SO"
+      affiliation:
+        - name: "HETS Genève · HES-SO"
+          city: "Genève"
+          country: "Suisse"
       email: "pierre.brasseur@hetsge.ch"
   date: "2026-06-05"
   date-format: "DD MMMM YYYY"
   description: |
-    Cours intensif en 8 séances de 2h, version condensée du module
-    Bachelor TS *Handicap, autonomie et travail social*. Architecture
-    pédagogique diagnostic → cartographie → application, ancrée dans
-    le contexte suisse et genevois. Chaque séance comporte un chapitre
-    développé et un jeu de slides reveal.js.
+    Cours intensif Bachelor TS, version condensée du module
+    *Handicap, autonomie et travail social*. Huit séances de
+    deux heures · trois ECTS · architecture diagnostic →
+    cartographie → application. Chaque séance comporte un
+    chapitre développé et un jeu de slides reveal.js.
+  cover-image: images/cover.png
   site-url: https://pierrebrasseur.github.io/cours-8seances/
   repo-url: https://github.com/pierrebrasseur/cours-8seances
   repo-branch: main
@@ -71,15 +75,22 @@ format:
     theme:
       light: [cosmo, theme-light.scss]
       dark: [cosmo, theme-dark.scss]
-    fontsize: 1.05em
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    fontsize: 1.05rem
     linestretch: 1.7
-    mainfont: "Inter"
+    mainfont: "Source Serif 4"
     monofont: "JetBrains Mono"
     code-copy: true
     toc: true
     toc-depth: 3
     toc-location: right
+    toc-title: "Dans cette séance"
     number-sections: true
+    number-depth: 2
     fig-cap-location: bottom
     tbl-cap-location: top
     smooth-scroll: true
@@ -89,6 +100,7 @@ format:
     crossrefs-hover: true
     callout-appearance: simple
     callout-icon: true
+    df-print: kable
 
   pdf:
     documentclass: scrreprt
@@ -110,6 +122,7 @@ format:
   epub:
     toc: true
     number-sections: true
+    cover-image: images/cover.png
 
 execute:
   echo: false

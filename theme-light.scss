@@ -1,92 +1,219 @@
 /*-- scss:defaults --*/
 
+// Typography — academic book style
+$font-family-sans-serif: "Inter", system-ui, -apple-system, sans-serif !default;
+$font-family-serif: "Source Serif 4", "Source Serif Pro", Charter, Georgia, "Times New Roman", serif !default;
+$font-family-monospace: "JetBrains Mono", "SF Mono", Monaco, Consolas, monospace !default;
+
+// Body uses serif for academic feel
+$font-family-base: $font-family-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+$font-size-base: 1.05rem !default;
+$line-height-base: 1.7 !default;
+
+// Headings
+$headings-font-weight: 700 !default;
+$h1-font-size: 2.4rem !default;
+$h2-font-size: 1.65rem !default;
+$h3-font-size: 1.3rem !default;
+$h4-font-size: 1.1rem !default;
+$headings-line-height: 1.25 !default;
+
+// Colors — restrained Quarto palette with HETS accent
 $primary: #5e2ca5;
 $body-bg: #ffffff;
 $body-color: #1a1a2e;
 $link-color: #5e2ca5;
 $link-hover-color: #c9690e;
 $code-color: #c9690e;
-$blockquote-border-color: #f6b40e;
-$font-size-base: 1rem;
+
+// Sidebar
+$sidebar-bg: #fafafa;
+$sidebar-fg: #1a1a2e;
 
 /*-- scss:rules --*/
 
+// Typography fine-tuning
 body {
-  font-feature-settings: "ss01", "cv11";
+  font-feature-settings: "kern", "liga", "calt", "onum";
+  font-variant-numeric: oldstyle-nums;
+  hyphens: auto;
 }
 
-h1, h2, h3, h4 {
-  font-weight: 650;
-  letter-spacing: -0.005em;
-  color: #1a1a2e;
+main h1, main h2, main h3, main h4, main h5 {
+  font-feature-settings: "kern", "liga", "calt", "lnum";
+  font-variant-numeric: lining-nums;
+  letter-spacing: -0.01em;
 }
 
-h1.title {
+main h1.title {
   font-weight: 800;
-  letter-spacing: -0.015em;
+  letter-spacing: -0.022em;
+  line-height: 1.15;
 }
 
+main h2 {
+  margin-top: 2.4em;
+  padding-top: 0.4em;
+  border-top: 1px solid #e8e8e8;
+}
+
+// Title banner — academic book cover style
 .quarto-title-banner {
   background: linear-gradient(135deg, #5e2ca5 0%, #8b3fc7 100%);
+  padding: 4rem 0 3rem;
   color: white;
+  margin-bottom: 0;
 }
 
-.quarto-title-banner h1.title,
-.quarto-title-banner .subtitle {
+.quarto-title-banner h1.title {
   color: white !important;
+  font-weight: 800;
+  letter-spacing: -0.02em;
 }
 
+.quarto-title-banner .subtitle {
+  color: rgba(255, 255, 255, 0.92) !important;
+  font-style: italic;
+  font-weight: 400;
+}
+
+// Blockquotes — academic emphasis
 blockquote {
-  background: #f7f5fb;
+  background: #fdfaf2;
   border-left: 4px solid #f6b40e;
-  padding: 0.8em 1.2em;
+  padding: 1rem 1.4rem;
   border-radius: 0 6px 6px 0;
   font-style: italic;
+  color: #2a2a3e;
+  margin: 1.4em 0;
 }
 
+blockquote p {
+  margin-bottom: 0.4rem;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+  font-size: 0.92em;
+  font-style: normal;
+  color: #5e2ca5;
+}
+
+// Callouts — restrained academic style
 .callout {
-  border-radius: 8px;
+  border-radius: 6px;
+  border-width: 1px;
 }
 
 .callout.callout-style-simple {
   border-left-width: 4px;
+  background: transparent;
 }
 
+.callout-title {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+}
+
+// Tables — academic style
 table {
+  font-family: $font-family-sans-serif;
   font-size: 0.92em;
+  font-variant-numeric: tabular-nums lining-nums;
 }
 
 table thead th {
   background: #f7f5fb;
   border-bottom: 2px solid #5e2ca5;
   color: #1a1a2e;
+  font-weight: 600;
 }
 
-.sidebar-title {
+// Sidebar
+.sidebar .sidebar-title {
   color: #5e2ca5;
   font-weight: 700;
+  letter-spacing: -0.005em;
 }
 
 .sidebar .chapter-title {
   font-weight: 600;
+  font-family: $font-family-sans-serif;
 }
 
-#TOC h2 {
+.sidebar nav .part {
+  margin-top: 1.2em;
+  text-transform: uppercase;
+  font-size: 0.78em;
+  letter-spacing: 0.07em;
+  color: #5e2ca5;
+  font-weight: 700;
+}
+
+// TOC
+#TOC h2,
+.toc-active {
   color: #5e2ca5;
 }
 
+#TOC ul a:hover,
+#TOC ul a.active {
+  border-left-color: #f6b40e;
+  color: #5e2ca5;
+}
+
+// Footnotes
 .footnote-back {
   color: #5e2ca5;
+  text-decoration: none;
 }
 
 a.cite, a.footnote-ref {
   text-decoration: none;
+  font-weight: 600;
+  color: #5e2ca5;
+}
+
+// Asides
+.aside, .column-margin {
+  font-family: $font-family-sans-serif;
+  font-size: 0.85em;
+  color: #555;
+  border-left: 2px solid #f6b40e;
+  padding-left: 0.8em;
+}
+
+// Buttons
+.btn-primary {
+  background-color: #5e2ca5;
+  border-color: #5e2ca5;
+  font-family: $font-family-sans-serif;
   font-weight: 500;
 }
 
-.aside {
-  background: #f7f5fb;
-  padding: 1rem;
-  border-radius: 8px;
-  border-left: 3px solid #f6b40e;
+.btn-primary:hover {
+  background-color: #4a1f82;
+  border-color: #4a1f82;
+}
+
+// Figure captions
+figcaption {
+  font-family: $font-family-sans-serif;
+  font-size: 0.85em;
+  font-style: italic;
+  color: #666;
+  text-align: center;
+  margin-top: 0.6em;
+}
+
+// Code
+code {
+  font-feature-settings: "kern", "liga", "calt";
+  font-size: 0.9em;
+}
+
+// Header navigation
+.navbar {
+  font-family: $font-family-sans-serif;
 }

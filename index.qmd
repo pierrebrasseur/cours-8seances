@@ -1,17 +1,41 @@
-# Bienvenue {.unnumbered}
+---
+title: "Préface"
+---
 
-::: {.callout-note appearance="simple"}
-## En bref
-Cours intensif Bachelor TS en **8 séances de 2 heures**, version condensée du module *Handicap, autonomie et travail social*. **3 ECTS** · 16 h présentiel + 60 h travail personnel · 18-30 étudiant·es.
+::: {.callout-tip appearance="simple"}
+## Au lecteur
+Cet ouvrage rassemble le matériel pédagogique d'un cours intensif Bachelor en travail social, version condensée du module *Handicap, autonomie et travail social* de la HETS Genève. Il est destiné aux étudiant·es du semestre 4, aux collègues de la HETS, aux jurys d'audition, et à toute personne intéressée par les transformations contemporaines du champ du handicap.
 :::
+
+## Pourquoi cet ouvrage
+
+Le champ du handicap est traversé depuis vingt ans par des transformations majeures : adoption de la Convention relative aux droits des personnes handicapées par l'ONU en 2006 [@cdph2006], ratification suisse en 2014, observations finales critiques du Comité ONU CDPH en 2022 [@onu2022], introduction de la contribution d'assistance AI en 2012 [@ofas2020], dépôt de l'initiative populaire fédérale *Pour l'inclusion* en septembre 2024.
+
+Ces transformations placent les futur·es travailleur·euses sociaux·ales devant **trois défis structurels** :
+
+- **Protection / Autonomie** — comment soutenir l'autodétermination sans laisser sans recours ?
+- **Expertise / Savoir expérientiel** — comment articuler les savoirs sans reproduire l'asymétrie ?
+- **Travail prescrit / Travail réel** — comment habiter les marges du métier ?
+
+L'ouvrage propose une grille pour penser ces défis. Il s'appuie sur **64 fiches de lecture** structurées (thèse, concepts, citations, exemple, limite) couvrant la littérature internationale (Oliver, Charlton, Mansell, Wehmeyer) et francophone (Stiker, Fougeyrollas, Tronto, Clot, Revillard, Lenzi). Il est ancré dans le contexte suisse romand, mobilise les recherches HETS [@masse2018 ; @brasseurrodriguez2019 ; @souesme2024 ; @lenzimoine2025] et le cadre normatif genevois (plan cantonal CDPH 2023, avant-projet LED-H 2024).
 
 ## Architecture
 
-Le cours suit une progression **diagnostic → cartographie → application**.
+Le cours suit une progression en trois mouvements.
+
+**Diagnostic** *(séance 1)* — comment en sommes-nous arrivés là ?
+
+**Cartographie** *(séances 2 à 7)* — quelles ressources théoriques, politiques, professionnelles ?
+
+**Application** *(séance 8)* — quels défis pour la formation pratique et les premiers postes ?
+
+```{=html}
+<div class="quarto-figure-center" style="margin: 2em 0;">
+```
 
 | Séance | Titre | Mouvement |
-|---|---|---|
-| 1 | Histoires et grammaires du handicap | Diagnostic historique |
+|:------:|:------|:----------|
+| 1 | Histoires et grammaires du handicap | Diagnostic |
 | 2 | Modèle social et *disability studies* | Cartographie théorique I |
 | 3 | MDH-PPH et capabilités | Cartographie théorique II |
 | 4 | Désinstitutionnalisation | Cartographie politique I |
@@ -20,57 +44,102 @@ Le cours suit une progression **diagnostic → cartographie → application**.
 | 7 | Posture professionnelle : trois défis | Cartographie professionnelle |
 | 8 | Sexualité, violences, synthèse | Application |
 
+```{=html}
+</div>
+```
+
 ## Pour chaque séance
 
-::: {.callout-tip appearance="simple"}
+::: {.callout-note appearance="simple"}
 ## Une matrice constante
 
-- **Objectifs d'apprentissage** alignés PEC20
-- **Plan minuté** de 2 h
-- **Cadre théorique** synthétisé avec citations situées
-- **3 lectures préparatoires** distribuées en *jigsaw* (un texte par sous-groupe)
-- **Bibliographie complète** (≈ 8-12 références citées dans le texte)
-- **Exemples d'application** en formation pratique
-- **Auto-évaluation** de fin de séance (1 exercice court)
-- **Slides reveal.js** téléchargeables
+Chaque chapitre comporte :
+
+- des **objectifs d'apprentissage** alignés sur les compétences PEC20 ;
+- un **plan minuté** de deux heures ;
+- un **cadre théorique** avec citations situées ;
+- trois **lectures préparatoires** distribuées en *jigsaw* ;
+- une **bibliographie complète** ;
+- des **exemples d'application** en formation pratique ;
+- une **auto-évaluation** avec exercice à réponse pliable ;
+- un jeu de **slides reveal.js** téléchargeables.
 :::
 
-## Téléchargements
+## Comment lire ce livre
 
-::: {.callout-important appearance="simple"}
-## Trois formats disponibles
-- :material-file-pdf-box: **PDF** — version imprimable, mise en page académique
-- :material-book: **EPUB** — pour liseuse ou lecture sur tablette
-- :material-presentation: **Slides reveal.js** — un jeu par séance, HTML interactif + PDF
+L'ouvrage peut être lu de plusieurs manières.
 
-Les téléchargements sont accessibles depuis le sidebar (bouton **Download**).
-:::
+**Linéairement** — comme un cours, séance après séance. C'est la lecture recommandée pour un·e étudiant·e qui suit le module.
 
-## Modalités d'évaluation
+**Par thème** — en mobilisant la table des matières ou la recherche en haut de page. Utile pour préparer une intervention ciblée ou approfondir un concept.
 
-| Modalité | Pondération | Échéance |
-|---|---|---|
-| Participation aux *jigsaws* (≥ 1 restitution) | 20 % | Continu |
-| Carnet de bord (3 entrées d'1 page) | 30 % | Continu |
-| Travail final (analyse de FP, 12 pages, ≥ 8 références) | 50 % | 4 sem. après s8 |
+**Par référence** — en cliquant sur les citations qui ouvrent une carte de prévisualisation, puis sur le nom de la référence pour atteindre la bibliographie complète (Annexe C).
+
+**Par téléchargement** — le bouton *Download* du sidebar propose les formats PDF (impression) et EPUB (liseuse).
 
 ## Méthode pédagogique
 
-Trois temps par séance :
+Trois temps composent chaque séance.
 
-1. **Exposé cadré** (≈ 45 min) — l'enseignant pose concepts, controverses, jalons
-2. ***Jigsaw* sur lectures préparatoires** (≈ 45 min) — 3 lectures distribuées en amont, chaque sous-groupe restitue à plénière
-3. **Synthèse et ouverture** (≈ 30 min) — articulation, ouverture, lecture pour la séance suivante
+L'**exposé cadré** (environ 45 minutes) pose les concepts, les controverses, les jalons. L'enseignant assume la responsabilité d'une mise en perspective synthétique.
+
+Le ***jigsaw*** (environ 45 minutes) distribue trois lectures préparatoires en sous-groupes. Chaque sous-groupe restitue à plénière, ce qui démultiplie la lecture sans alourdir la charge individuelle.
+
+La **synthèse et l'ouverture** (environ 30 minutes) articule, ouvre, et annonce la lecture pour la séance suivante.
+
+## Modalités d'évaluation
+
+L'évaluation articule trois modalités complémentaires.
+
+| Modalité | Pondération | Échéance |
+|----------|:-----------:|----------|
+| Participation aux *jigsaws* (≥ 1 restitution) | 20 % | Continu |
+| Carnet de bord (3 entrées d'une page) | 30 % | Continu |
+| Travail final (analyse de FP, 12 pages, ≥ 8 références) | 50 % | 4 semaines après séance 8 |
+
+Détail complet en [Annexe A](appendices/A-evaluation.qmd).
 
 ## Cadre éthique
 
-- Situations de FP partagées en séance : **anonymisées** (sans noms, sans lieu identifiable)
-- Séance 8 (sexualité, violences) : **cadre spécifique**, possibilité de se retirer
-- Pluralité des positions respectée, controverses internes présentées comme telles
-- Aucune référence présentée comme dogme
+::: {.callout-warning appearance="simple"}
+## Précautions
 
-## Liens
+- Les situations de formation pratique partagées en séance sont **anonymisées** (sans noms, sans lieu identifiable).
+- La séance 8 (sexualité, violences) fait l'objet d'un **cadre spécifique** : présentation préalable, possibilité de se retirer sans justification, possibilité de demander un entretien individuel.
+- La **pluralité des positions** est respectée. Les controverses internes au champ sont présentées comme telles.
+- Aucune référence n'est présentée comme dogme.
+:::
 
-- 🌐 **Site cours MkDocs** : [pierrebrasseur.github.io/cours-handicap-ts](https://pierrebrasseur.github.io/cours-handicap-ts/)
-- 📖 **Livre Quarto de la leçon probatoire** : [pierrebrasseur.github.io/handicap-autonomie-ts](https://pierrebrasseur.github.io/handicap-autonomie-ts/)
-- 📑 **Carnet de recherche** : [pierrebrasseur.github.io/blog-recherche](https://pierrebrasseur.github.io/blog-recherche/)
+## Remerciements
+
+Cet ouvrage doit beaucoup aux collègues romand·es dont les travaux structurent le module : Manon Masse, Catherine Lenzi, Chloé Souesme, Yves Delessert, Geneviève Piérart, Barbara Lucas. Il doit beaucoup aussi aux personnes concernées rencontrées en formation pratique et en recherche, dont les questions ont façonné les miennes — et aux étudiant·es des promotions passées, à l'Université de Lille puis à l'Université libre de Bruxelles, dont les objections ont raffiné les arguments.
+
+## Comment citer cet ouvrage
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Citation suggérée
+
+> Brasseur, P. (2026). *Handicap, autonomie et travail social. Huit séances pour penser les défis d'une posture professionnelle.* Genève : HETS · HES-SO. <https://pierrebrasseur.github.io/cours-8seances/>
+
+```bibtex
+@book{brasseur2026cours,
+  title = {Handicap, autonomie et travail social. Huit séances pour penser les défis d'une posture professionnelle},
+  author = {Brasseur, Pierre},
+  year = {2026},
+  publisher = {HETS Genève · HES-SO},
+  url = {https://pierrebrasseur.github.io/cours-8seances/}
+}
+```
+:::
+
+## Liens externes
+
+| Ressource | URL |
+|-----------|-----|
+| Site cours MkDocs (synthèse) | <https://pierrebrasseur.github.io/cours-handicap-ts/> |
+| Livre Quarto de la leçon probatoire | <https://pierrebrasseur.github.io/handicap-autonomie-ts/> |
+| Carnet de recherche | <https://pierrebrasseur.github.io/blog-recherche/> |
+
+------------------------------------------------------------------------
+
+*Pierre Brasseur · HETS Genève · CC BY-NC-SA 4.0*
