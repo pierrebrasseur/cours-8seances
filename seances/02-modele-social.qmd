@@ -4,213 +4,102 @@ subtitle: "Cartographie théorique I"
 ---
 
 ::: {.callout-tip icon=false appearance="default"}
-## Au programme de cette séance
+## Au programme
 
-**Mouvement** · Cartographie théorique I
-**Question structurante** · Qu'est-ce qui « handicape » — le corps ou l'organisation sociale ?
-**Durée** · 2 heures
-**Lecture estimée** · 30 minutes
+Mouvement · Cartographie théorique I
+Question structurante · Qu'est-ce qui « handicape » — le corps ou l'organisation sociale ?
+Durée · 2 heures
+Lecture estimée · 30 minutes
 
-La séance retrace la rupture conceptuelle opérée par UPIAS en 1976 et systématisée par Oliver en 1990, puis confronte ce modèle social à ses critiques internes (Crow, French, Shakespeare, Goodley).
+La séance retrace la rupture conceptuelle opérée par UPIAS [@upias1976] en 1976 et systématisée par Oliver [@oliver1990] en 1990, puis confronte ce modèle social à ses critiques internes — Crow [@crow1996], French [@french1993], Shakespeare [@shakespeare2014], Goodley [@goodley2017].
 
-À la fin, vous saurez **distinguer impairment et disability**, **mesurer la portée politique** de cette distinction, **mobiliser les critiques féministes et *crip*** du modèle social.
+À la fin, vous saurez distinguer *impairment* et *disability*, mesurer la portée politique de cette distinction, mobiliser les critiques féministes et *crip* du modèle social.
 
-**Slides** · [reveal.js de la séance 2](../slides/02-slides.qmd)
+Slides · [reveal.js de la séance 2](../slides/02-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage
 
-À l'issue de cette séance, l'étudiant·e sera capable de :
+À l'issue de cette séance, l'étudiant·e sera capable de distinguer *impairment* (déficience) et *disability* (handicap social) et d'en mesurer la portée politique [@upias1976 ; @oliver1990 ; @barnes2010] ; d'identifier la rupture conceptuelle opérée par UPIAS 1976 et systématisée par Oliver 1990 [@finkelstein1980 ; @hunt1966 ; @campbell1996] ; de mobiliser les critiques internes du modèle social, féministes [@crow1996 ; @morris1991 ; @wendell1996], crip [@mcruer2006 ; @davis2017] et postcoloniales [@goodley2017] ; et de reconnaître les conséquences pour la posture professionnelle.
 
-1. Distinguer ***impairment*** (déficience) et ***disability*** (handicap social) et en mesurer la portée politique
-2. Identifier la **rupture conceptuelle** opérée par UPIAS 1976 et systématisée par Oliver 1990
-3. Mobiliser les **critiques internes** du modèle social (féministes, *crip*, postcoloniales)
-4. Reconnaître les **conséquences pour la posture professionnelle**
+Compétences PEC20 ciblées : C1, C2, C7, C8.
 
-Compétences PEC20 ciblées : **C1, C2, C7, C8**.
-
-## Plan minuté (2 h)
+## Plan minuté
 
 | Temps | Contenu | Activité |
 |---|---|---|
 | 0-15 min | Restitution des analyses de FP (séance 1) | Tour de table |
-| 15-40 min | **UPIAS 1976 et la rupture conceptuelle** | Exposé |
-| 40-55 min | **Oliver 1990 et la politisation du handicap** | Exposé |
-| 55-75 min | **Critiques internes** : Crow, French, Shakespeare | Exposé |
-| 75-110 min | ***Jigsaw*** : 3 textes / 3 sous-groupes | Travail collectif |
+| 15-40 min | UPIAS 1976 et la rupture conceptuelle | Exposé |
+| 40-55 min | Oliver 1990 et la politisation du handicap | Exposé |
+| 55-75 min | Critiques internes : Crow, French, Shakespeare | Exposé |
+| 75-110 min | *Jigsaw* : 3 textes, 3 sous-groupes | Travail collectif |
 | 110-120 min | Synthèse : le modèle social fait-il encore sens en 2026 ? | Discussion |
 
-## Cadre théorique
-
-### Le contexte d'émergence d'UPIAS (1972-1976)
+## Le contexte d'émergence d'UPIAS
 
 ::: {.column-margin}
-**UPIAS** — *Union of the Physically Impaired Against Segregation*. Fondée en 1972 par Paul Hunt après une correspondance publique dans *The Guardian*. Premier secrétaire : Vic Finkelstein, sociologue sud-africain anti-apartheid réfugié au Royaume-Uni.
+UPIAS — *Union of the Physically Impaired Against Segregation*. Fondée en 1972 par Paul Hunt après une correspondance publique dans *The Guardian*. Premier secrétaire : Vic Finkelstein, sociologue sud-africain anti-apartheid réfugié au Royaume-Uni.
 :::
 
-L'*Union of the Physically Impaired Against Segregation* (UPIAS) n'est pas un groupe de chercheurs. C'est une **organisation militante** de personnes en situation de handicap, fondée au Royaume-Uni en 1972 dans le sillage des grandes luttes des années 1960 (mouvement des droits civiques aux États-Unis, féminisme deuxième vague, mouvement antipsychiatrique en Italie).
+L'*Union of the Physically Impaired Against Segregation* (UPIAS) n'est pas un groupe de chercheurs. C'est une organisation militante de personnes en situation de handicap, fondée au Royaume-Uni en 1972 dans le sillage des grandes luttes des années 1960 — mouvement des droits civiques aux États-Unis, féminisme deuxième vague, mouvement antipsychiatrique italien. Sa singularité tient à son principe organisationnel : seules les personnes handicapées peuvent en être membres (*self-organisation*) [@upias1976 ; @campbell1996]. Ce principe institue d'emblée une épistémologie politique : les personnes concernées sont les premières productrices de l'analyse de leur situation.
 
-Sa singularité tient à son **principe organisationnel** : seules les personnes handicapées peuvent en être membres (*self-organisation*). Ce principe institue d'emblée une **épistémologie politique** : les personnes concernées sont les premières productrices de l'analyse de leur situation.
+L'antécédent direct est Paul Hunt [@hunt1966], lui-même paraplégique, qui dans *Stigma. The Experience of Disability* (1966) avait formulé une critique pionnière des institutions résidentielles britanniques. La correspondance qu'il publie en 1971 dans *The Guardian* conduit à la fondation d'UPIAS l'année suivante. Vic Finkelstein, secrétaire fondateur, mobilise dans *Attitudes and Disabled People* [@finkelstein1980] une lecture matérialiste qui prépare le terrain pour Oliver.
 
-Le document fondateur *Fundamental Principles of Disability* [@upias1976] résulte d'une discussion avec la *Disability Alliance* dirigée par Peter Townsend. UPIAS y formule la rupture conceptuelle qui structurera tout le mouvement britannique des droits du handicap.
+Le document fondateur *Fundamental Principles of Disability* [@upias1976] résulte d'une discussion avec la *Disability Alliance* dirigée par le sociologue Peter Townsend, dont les positions étaient considérées comme trop charitables par UPIAS. Le texte court, 12 pages, formule la rupture conceptuelle qui structurera tout le mouvement britannique [@barnes1991 ; @barnes2010].
 
-### La rupture conceptuelle
+## La rupture conceptuelle
 
 > *« Disability is something imposed on top of our impairments by the way we are unnecessarily isolated and excluded from full participation in society. »* [@upias1976]
 
-La phrase opère **trois déplacements** simultanés.
+La phrase opère trois déplacements simultanés. Premier déplacement, de la déficience au handicap : UPIAS distingue radicalement l'*impairment* (déficience), condition corporelle — lésion médullaire, déficience visuelle, trisomie —, et la *disability* (handicap), exclusion sociale produite par l'organisation de la société à l'égard des corps déficients. La déficience est un état corporel ; le handicap est un rapport social. Cette distinction politique avant d'être conceptuelle change l'attribution de la responsabilité — le handicap n'est plus l'affaire de la personne, c'est l'affaire de la collectivité [@oliver1990 ; @barnes2010 ; @brisenden1986].
 
-#### Déplacement 1 — De la déficience au handicap
+Deuxième déplacement, de la responsabilité individuelle à la responsabilité sociale : si le handicap est produit par l'organisation sociale, alors la responsabilité du handicap n'est plus du côté de la personne déficiente. Elle est du côté de la société qui organise l'exclusion. Conséquence éthique : la personne en situation de handicap n'a pas à se réadapter à un environnement qu'elle ne peut pas changer ; c'est l'environnement qui doit être transformé [@finkelstein1980 ; @barnes1991]. Troisième déplacement, de l'objet de soin au sujet politique : la personne en situation de handicap n'est plus un objet de bienveillance professionnelle. Elle est un sujet politique en lutte. UPIAS rapproche explicitement le mouvement du handicap des autres luttes émancipatrices — féminisme, antiracisme, mouvement ouvrier [@charlton1998].
 
-UPIAS distingue radicalement :
-
-- ***Impairment*** (déficience) — la condition corporelle : lésion médullaire, déficience visuelle, trisomie, etc.
-- ***Disability*** (handicap) — l'exclusion sociale produite par l'organisation de la société à l'égard des corps déficients
-
-La déficience est un état corporel ; le handicap est un **rapport social**. C'est une distinction politique avant d'être conceptuelle : le handicap n'est plus l'affaire de la personne, c'est l'affaire de la collectivité.
-
-#### Déplacement 2 — De la responsabilité individuelle à la responsabilité sociale
-
-Si le handicap est produit par l'organisation sociale, alors la **responsabilité du handicap** n'est plus du côté de la personne déficiente. Elle est du côté de la société qui organise l'exclusion. Conséquence éthique : la personne en situation de handicap n'a pas à se réadapter à un environnement qu'elle ne peut pas changer ; c'est l'environnement qui doit être transformé.
-
-#### Déplacement 3 — De l'objet de soin au sujet politique
-
-La personne en situation de handicap n'est plus un objet de bienveillance professionnelle. Elle est un **sujet politique** en lutte. UPIAS rapproche explicitement le mouvement du handicap des autres luttes émancipatrices : féminisme, antiracisme, mouvement ouvrier.
-
-### Tableau de synthèse
-
-| Avant le modèle social | Après le modèle social |
-|---|---|
-| Handicap = déficience individuelle | Handicap = barrière sociale |
-| Intervention sur la personne | Intervention sur l'environnement |
-| Personne objet de soins | Personne sujet politique |
-| Responsabilité individuelle | Responsabilité collective |
-| Adaptation à la norme | Transformation de la norme |
-
-### Michael Oliver : la systématisation théorique (1990)
+## La systématisation théorique d'Oliver
 
 ::: {.column-margin}
-**Michael Oliver** (1945-2019) est sociologue, professeur à l'Université de Greenwich. Tétraplégique suite à un accident de plongeon à 17 ans, il est l'un des fondateurs des *disability studies* britanniques. Ses ouvrages *Social Work With Disabled People* (1983), *The Politics of Disablement* (1990), *Understanding Disability* (1996) ont structuré le champ.
+Michael Oliver (1945-2019) est sociologue, professeur à l'Université de Greenwich. Tétraplégique suite à un accident de plongeon à 17 ans, il est l'un des fondateurs des *disability studies* britanniques. Ses ouvrages *Social Work With Disabled People* (1983), *The Politics of Disablement* (1990), *Understanding Disability* (1996) ont structuré le champ.
 :::
 
-Michael Oliver systématise et politise le modèle social britannique dans *The Politics of Disablement* (1990) [@oliver1990]. Trois apports majeurs.
+Michael Oliver systématise et politise le modèle social britannique dans *The Politics of Disablement* (1990) [@oliver1990]. Trois apports majeurs. Premier apport, une analyse matérialiste : Oliver inscrit le handicap dans une analyse matérialiste d'inspiration marxisante. Sa thèse est que le handicap tel que nous le connaissons est un produit historique du capitalisme industriel. L'argument se déroule ainsi : dans les sociétés pré-industrielles, le travail s'organise au rythme du corps, dans des unités familiales et villageoises qui intègrent une grande diversité de capacités ; l'industrialisation impose une standardisation des corps (horloges, cadences, productivité, séparation espace public et espace privé) ; les corps « différents » sont alors exclus du salariat et enfermés dans des institutions (hospices, ateliers protégés, écoles spécialisées) [@oliver1990 ; @williams2001 ; @stiker2013]. Le handicap n'est donc pas une donnée transhistorique mais une catégorie produite par un mode de production. Cette analyse rejoint celle de Stiker [@stiker2013] sur la « grande renfermement » mais l'inscrit dans une économie politique.
 
-#### Apport 1 — Une analyse matérialiste
+Deuxième apport, une terminologie politique. Oliver propose une terminologie qui circule encore dans le mouvement britannique : *disabling society* — société handicapante, qui produit du handicap ; *disablism* — handicap-isme, système d'oppression spécifique aux personnes handicapées, analogue au racisme et au sexisme ; *disabled people* plutôt que *people with disabilities* — l'inversion sémantique souligne que les personnes sont *« handicapées par »* la société, pas *« porteuses de »* handicap [@oliver1990 ; @goodley2017]. La traduction française est complexe — *people with disabilities* (français « personnes handicapées » ou « personnes en situation de handicap ») est la formulation onusienne [@cdph2006], *disabled people* est la formulation militante britannique — le choix n'est pas neutre politiquement.
 
-Oliver inscrit le handicap dans une analyse **matérialiste** d'inspiration marxisante. Sa thèse : le handicap tel que nous le connaissons est un **produit historique du capitalisme industriel**.
+Troisième apport, un rapprochement avec d'autres luttes. Oliver inscrit explicitement le mouvement du handicap dans la généalogie des mouvements sociaux émancipatoires (féminisme, antiracisme, mouvement ouvrier). Les personnes handicapées sont une classe sociale opprimée au sens fort, et leur émancipation doit se faire par elles-mêmes (*self-organisation*) [@oliver1990 ; @campbell1996 ; @charlton1998]. Cette dimension explique pourquoi UPIAS et le mouvement britannique ont refusé pendant trente ans toute collaboration avec les organisations professionnelles caritatives (RNIB, RNID, Mencap) qu'elles considéraient comme paternalistes.
 
-L'argument se déroule ainsi. Dans les sociétés pré-industrielles, le travail s'organise au rythme du corps, dans des unités familiales et villageoises qui intègrent une grande diversité de capacités. L'industrialisation impose une **standardisation** des corps : horloges, cadences, productivité, séparation espace public / espace privé. Les corps « différents » sont alors **exclus du salariat** et **enfermés dans des institutions** (hospices, ateliers protégés, écoles spécialisées).
+## Les critiques internes du modèle social
 
-Le handicap n'est donc pas une donnée transhistorique. C'est une **catégorie produite par un mode de production**. Cette analyse rejoint celle de Stiker (séance 1) sur la « grande renfermement » mais l'inscrit dans une économie politique.
+Le modèle social britannique n'a pas seulement été critiqué de l'extérieur (médecine, sociologie classique). Il a été critiqué de l'intérieur, par des chercheur·euses et militant·es qui partagent ses présupposés émancipatoires mais en contestent certaines limites. Quatre lignes critiques sont à connaître.
 
-#### Apport 2 — Une terminologie politique
-
-Oliver propose une terminologie qui circule encore dans le mouvement britannique :
-
-- ***Disabling society*** — société handicapante (qui produit du handicap)
-- ***Disablism*** — handicap-isme (système d'oppression spécifique aux personnes handicapées, analogue au racisme et au sexisme)
-- ***Disabled people*** plutôt que *people with disabilities* — l'inversion sémantique souligne que les personnes sont *« handicapées par »* la société, pas *« porteuses de »* handicap
-
-::: {.column-margin}
-La traduction française est complexe. *People with disabilities* (français : « personnes handicapées » ou « personnes en situation de handicap ») est la formulation onusienne (CDPH 2006). *Disabled people* (« les handicapé·es » ou « les personnes handicapées par la société ») est la formulation militante britannique. Le choix n'est pas neutre politiquement.
-:::
-
-#### Apport 3 — Un rapprochement avec d'autres luttes
-
-Oliver inscrit explicitement le mouvement du handicap dans la généalogie des **mouvements sociaux émancipatoires** : féminisme, antiracisme, mouvement ouvrier. Les personnes handicapées sont une **classe sociale opprimée** au sens fort, et leur émancipation doit se faire **par elles-mêmes** (*self-organisation*).
-
-Cette dimension est essentielle pour comprendre pourquoi UPIAS et le mouvement britannique ont refusé pendant trente ans toute collaboration avec les organisations professionnelles caritatives (RNIB, RNID, Mencap) qu'elles considéraient comme paternalistes.
-
-### Les critiques internes du modèle social
-
-Le modèle social britannique n'a pas seulement été critiqué de l'extérieur (médecine, sociologie classique). Il a été critiqué **de l'intérieur**, par des chercheur·euses et militant·es qui partagent ses présupposés émancipatoires mais en contestent certaines limites.
-
-#### Critique 1 — Liz Crow et la souffrance corporelle
-
-Liz Crow, militante et universitaire britannique, publie en 1996 *« Including all of our lives »* — texte court mais décisif [@upias1976]. Son argument :
-
-Le modèle social a permis aux personnes handicapées de **politiser** leur condition et de cesser de s'auto-accuser de leur exclusion. C'est un acquis majeur.
-
-Mais en évacuant la **déficience** au profit du seul **handicap social**, le modèle a aussi produit un **silence** sur l'expérience corporelle. Une femme handicapée vivant avec une douleur chronique, une fatigue invalidante, une incertitude pronostique ne peut pas dire que sa souffrance est *« seulement sociale »*. Elle est aussi **corporelle**.
-
-Crow appelle à une **réinclusion de la déficience** dans la théorie, sans abandonner la politique du modèle social. La déficience n'est pas l'opposé du modèle social ; elle est ce que le modèle social doit reprendre à son compte sans le réduire à une pathologie individuelle.
+La critique féministe d'abord. Liz Crow [@crow1996], militante et universitaire britannique, publie en 1996 *« Including all of our lives »* — texte court mais décisif. Son argument : le modèle social a permis aux personnes handicapées de politiser leur condition et de cesser de s'auto-accuser de leur exclusion, ce qui est un acquis majeur. Mais en évacuant la déficience au profit du seul handicap social, le modèle a aussi produit un silence sur l'expérience corporelle. Une femme handicapée vivant avec une douleur chronique, une fatigue invalidante, une incertitude pronostique ne peut pas dire que sa souffrance est *« seulement sociale »*. Elle est aussi corporelle. Crow appelle à une réinclusion de la déficience dans la théorie, sans abandonner la politique du modèle social. Cette position est partagée par Jenny Morris [@morris1991], Susan Wendell [@wendell1996] et Dominique Masson [@masson2013] dans le champ francophone.
 
 ::: {.callout-note appearance="simple"}
 ## Pour la pratique du TS
 
-La critique de Crow est utile au quotidien. Une personne accompagnée peut **avoir mal**, **avoir peur**, **être épuisée** — sans que cette souffrance soit réductible à une mauvaise organisation sociale. Le TS qui ne fait qu'« interroger l'environnement » risque de **manquer** la dimension corporelle de l'expérience.
-
-Tenir ensemble les deux : la critique politique de l'environnement **et** la reconnaissance de la souffrance corporelle. C'est ce que Tronto (séance 7) appelle l'éthique du care.
+La critique de Crow est utile au quotidien. Une personne accompagnée peut avoir mal, avoir peur, être épuisée — sans que cette souffrance soit réductible à une mauvaise organisation sociale. Le TS qui ne fait qu'interroger l'environnement risque de manquer la dimension corporelle de l'expérience. Tenir ensemble les deux : la critique politique de l'environnement et la reconnaissance de la souffrance corporelle. C'est ce que Tronto [@tronto1993 ; @tronto2009] (séance 7) appelle l'éthique du care.
 :::
 
-#### Critique 2 — Sally French et le continuum
+La critique du continuum ensuite. Sally French [@french1993], elle-même malvoyante, publie en 1993 *« Disability, impairment or something in between? »* qui complète la critique de Crow. Pour certaines déficiences (visuelles légères, surdité partielle, troubles de la coordination), il est impossible de séparer ce qui relève de la déficience corporelle et ce qui relève de l'environnement social. Le continuum est tel que la frontière entre *impairment* et *disability* devient floue. French propose de penser un gradient plutôt qu'une dichotomie. Cette intuition est reprise par Hughes et Paterson [@hughes1997] dans une perspective phénoménologique appelant à une sociologie de la déficience.
 
-Sally French (1993), elle-même malvoyante, publie *« Disability, impairment or something in between? »* qui complète la critique de Crow. Son point :
+La critique de la co-construction par Tom Shakespeare [@shakespeare2014] publie en 2006 (réédité 2014) la critique la plus systématique du modèle social britannique de l'intérieur. Son argument central : le binarisme *impairment* / *disability* rejoue un dualisme problématique entre corps et société. Or les sciences sociales contemporaines (depuis Bourdieu, Butler, Latour) ont précisément déconstruit ce dualisme. La déficience elle-même est socialement construite — le diagnostic médical, l'expérience de la déficience, son intelligibilité culturelle sont des phénomènes sociaux. Shakespeare propose une co-construction : *impairment* et *disability* sont produits simultanément dans une interaction socio-corporelle. Cette position le rapproche du MDH-PPH (séance 3) [@fougeyrollas2010] et de la sociologie pragmatique de Myriam Winance [@winance2007]. La critique de Shakespeare a suscité des débats houleux dans le mouvement britannique. Michael Oliver l'a vivement attaquée comme un retour à la médicalisation [@oliver1990]. La controverse n'est pas seulement académique : elle engage la stratégie politique du mouvement.
 
-Pour certaines déficiences (visuelles légères, surdité partielle, troubles de la coordination), il est impossible de **séparer** ce qui relève de la déficience corporelle et ce qui relève de l'environnement social. Le continuum est tel que la frontière entre *impairment* et *disability* devient floue.
+La critique intersectionnelle enfin. Dan Goodley [@goodley2017] publie en 2017 la deuxième édition de *Disability Studies*. Il y développe les *critical disability studies* (CDS), héritières du modèle social mais articulées avec les études postcoloniales, les études de genre, les études queer et l'intersectionnalité. Trois angles morts du modèle social britannique selon Goodley. Le genre : l'expérience d'une femme handicapée n'est pas la même que celle d'un homme handicapé. Les violences sexuelles, le double standard de l'autonomie, l'invisibilisation de la sexualité des femmes handicapées appellent une lecture féministe [@masson2013 ; @wendell1996 ; @garland2017]. La racisation : l'expérience d'une personne handicapée noire dans une société raciste cumule deux systèmes d'oppression — le mouvement britannique du handicap reste majoritairement blanc [@goodley2017]. La classe : les conditions matérielles d'accès aux droits varient massivement selon la classe sociale [@piketty2019]. L'apport opérationnel des CDS est de penser systématiquement les intersections, comme le fait Geneviève Piérart à la HETS Fribourg sur l'intersection handicap-migration [@pierart2013] (séance 4).
 
-French propose de penser un **gradient** plutôt qu'une dichotomie. Conséquence pratique : la posture du TS ne peut pas être uniforme. Selon la situation, il faut tantôt agir sur l'environnement (modèle social), tantôt accompagner la personne dans la gestion de sa déficience (modèle médical réflexif), tantôt les deux.
+## Conséquences pour la posture professionnelle
 
-#### Critique 3 — Tom Shakespeare et la co-construction
-
-Tom Shakespeare, sociologue britannique et lui-même atteint d'achondroplasie, publie en 2006 *Disability Rights and Wrongs* (réédité 2014 sous le titre *Disability Rights and Wrongs Revisited*). C'est la critique la plus systématique du modèle social britannique de l'intérieur.
-
-Son argument central :
-
-Le binarisme **impairment / disability** rejoue un dualisme problématique entre **corps** et **société**. Or les sciences sociales contemporaines (depuis Bourdieu, Butler, Latour) ont précisément déconstruit ce dualisme. La déficience elle-même est **socialement construite** : le diagnostic médical, l'expérience de la déficience, son intelligibilité culturelle sont des phénomènes sociaux.
-
-Shakespeare propose une **co-construction** : *impairment* et *disability* sont produits simultanément dans une **interaction socio-corporelle**. Cette position le rapproche du MDH-PPH (séance 3) et de la sociologie pragmatique de Myriam Winance.
-
-::: {.column-margin}
-La critique de Shakespeare a suscité des débats houleux dans le mouvement britannique. Michael Oliver l'a vivement attaquée comme un *« retour à la médicalisation »*. La controverse n'est pas seulement académique : elle engage la stratégie politique du mouvement.
-:::
-
-#### Critique 4 — Goodley et les *critical disability studies*
-
-Dan Goodley (Université de Sheffield) publie en 2017 la 2ᵉ édition de *Disability Studies* [@oliver1990]. Il y développe les ***critical disability studies*** (CDS), héritières du modèle social mais articulées avec les **études postcoloniales**, les **études de genre**, les **études queer** et l'***intersectionnalité***.
-
-Trois angles morts du modèle social britannique selon Goodley :
-
-- **Genre** — l'expérience d'une femme handicapée n'est pas la même que celle d'un homme handicapé. Les violences sexuelles, le double standard de l'autonomie, l'invisibilisation de la sexualité des femmes handicapées appellent une lecture féministe.
-- **Racisation** — l'expérience d'une personne handicapée noire dans une société raciste cumule deux systèmes d'oppression. Le mouvement britannique du handicap reste majoritairement blanc.
-- **Classe** — les conditions matérielles d'accès aux droits varient massivement selon la classe sociale. Une personne handicapée aisée mobilise des ressources (avocat, médecin privé, accompagnant) que la personne précaire n'a pas.
-
-L'apport opérationnel des CDS : penser systématiquement les **intersections**, comme le fait Geneviève Piérart à la HETS Fribourg sur l'intersection handicap-migration [@pierart2013] (séance 4).
-
-### Conséquences pour la posture professionnelle
-
-| Posture du TS | Action concrète | Outils mobilisables |
-|---|---|---|
-| **Acteur du changement environnemental** | Faire évoluer le bâti, la signalétique, les règlements | LHand, audits accessibilité, art. 9 CDPH |
-| **Médiateur·trice politique** | Soutenir l'auto-représentation des usager·es | AGILE.CH, Cap-Contact, conseils d'usager·es |
-| **Traducteur·trice institutionnel·le** | Faire reconnaître les besoins aux instances | Plan cantonal CDPH, rapports d'évaluation |
-| **Allié·e des luttes** | Soutenir sans se substituer | « Nothing about us without us » (Charlton) |
+Le modèle social et ses prolongements transforment la posture professionnelle du TS. Quatre postures possibles, articulables. Le TS comme acteur du changement environnemental : il agit sur le bâti, la signalétique, les règlements ; la LHand (RS 151.3) [@cdph2006 ; @biglerschob2016] est mobilisable. Le TS comme médiateur·trice politique : il soutient l'auto-représentation des usager·es ; AGILE.CH [@agile2023], Cap-Contact, les conseils d'usager·es sont des partenaires [@inclusionhandicap2022]. Le TS comme traducteur·trice institutionnel·le : il fait reconnaître les besoins aux instances ; les rapports d'évaluation, le plan cantonal CDPH [@plancantonal2023] sont des outils. Le TS comme allié·e des luttes : il soutient sans se substituer ; *« Nothing about us without us »* [@charlton1998] (séance 5) est le principe.
 
 ## Exemples genevois
 
-### L'application de la LHand à Genève
+L'application de la LHand à Genève. La Loi fédérale sur l'élimination des inégalités frappant les personnes handicapées (LHand) est entrée en vigueur le 1ᵉʳ janvier 2004 [@biglerschob2016]. Elle impose des obligations d'accessibilité aux bâtiments publics, aux transports, aux télécommunications. À Genève, son application a été inégale. Les TPG ont fait de l'accessibilité totale des arrêts de tram un objectif des années 2000-2020 — toutes les nouvelles infrastructures sont accessibles, le rétro-aménagement est progressif. Les bâtiments publics cantonaux ont fait l'objet d'un programme « Genève accessible » qui a permis de cartographier les obstacles ; beaucoup de bâtiments anciens (école, hôpital, administration) restent partiellement accessibles malgré la LHand. La Fondation Cap-Contact et l'association id-Geo ont conduit des audits citoyens d'accessibilité [@agile2023]. Cette application différentielle illustre la thèse d'Oliver : le handicap est produit ou réduit par des choix d'organisation collective. Le rythme d'aménagement reflète les rapports de force entre groupes intéressés.
 
-La **Loi fédérale sur l'élimination des inégalités frappant les personnes handicapées (LHand)** est entrée en vigueur le 1ᵉʳ janvier 2004. Elle impose des obligations d'accessibilité aux bâtiments publics, aux transports, aux télécommunications.
+::: {.callout-note appearance="simple"}
+## La pétition de l'Association Suisse des Paraplégiques (2020)
 
-À Genève, son application a été inégale. Quelques exemples vérifiables :
+Un exemple récent. En 2020, l'Association Suisse des Paraplégiques a déposé une pétition fédérale demandant l'inscription de l'accessibilité numérique comme obligation contraignante. La pétition s'inscrivait dans la logique du modèle social : exiger que la société numérique s'organise pour ne pas produire de handicap. C'est exactement ce qu'Oliver [@oliver1990] appelait une *« politicization of disability »* : une exigence collective formulée par les concerné·es, qui ne demande pas d'aménagement caritatif mais une transformation structurelle de l'environnement.
+:::
 
-- **TPG (Transports publics genevois)** : l'accessibilité totale des arrêts de tram a été un objectif des années 2000-2020. Toutes les nouvelles infrastructures sont accessibles ; le rétro-aménagement est progressif.
-- **Bâtiments publics cantonaux** : le programme « Genève accessible » a permis de cartographier les obstacles. Beaucoup de bâtiments anciens (école, hôpital, administration) restent partiellement accessibles malgré la LHand.
-- **Initiatives privées** : la **Fondation Cap-Contact** et l'association **id-Geo** ont conduit des audits citoyens d'accessibilité.
-
-Cette application différentielle illustre la thèse d'Oliver : le handicap est produit (ou réduit) par des **choix d'organisation collective**. Le rythme d'aménagement reflète les **rapports de force** entre groupes intéressés.
-
-### La pétition de l'Association Suisse des Paraplégiques (2020)
-
-Un exemple récent. En 2020, l'Association Suisse des Paraplégiques a déposé une pétition fédérale demandant l'**inscription de l'accessibilité numérique** comme obligation contraignante. La pétition s'inscrivait dans la logique du modèle social : exiger que la **société numérique** s'organise pour ne pas produire de handicap.
-
-C'est exactement ce qu'Oliver appelle une *« politicization of disability »* : une exigence collective formulée par les concerné·es, qui ne demande pas d'aménagement caritatif mais une **transformation structurelle** de l'environnement.
-
-### Sureaux et la matérialité du modèle social
-
-Le projet **Sureaux** (Chêne-Bougeries, 2021, voir séance 3) illustre concrètement le modèle social. Au lieu de « réadapter » des personnes avec déficience intellectuelle à un cadre institutionnel, le projet a **transformé l'organisation matérielle** de l'habitat (immeuble coopératif ordinaire, voisinage mixte, gouvernance partagée) pour permettre de nouvelles habitudes de vie.
-
-C'est l'opposé d'un placement en EPH. C'est une **inscription dans la communauté ordinaire**, soutenue par des aménagements ciblés.
+Le projet Sureaux et la matérialité du modèle social. Le projet Sureaux (Chêne-Bougeries, emménagement 2021) illustre concrètement le modèle social. Au lieu de réadapter des personnes avec déficience intellectuelle à un cadre institutionnel, le projet a transformé l'organisation matérielle de l'habitat — immeuble coopératif ordinaire, voisinage mixte, gouvernance partagée — pour permettre de nouvelles habitudes de vie. C'est l'opposé d'un placement en EPH. C'est une inscription dans la communauté ordinaire, soutenue par des aménagements ciblés [@plancantonal2023].
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -218,103 +107,81 @@ C'est l'opposé d'un placement en EPH. C'est une **inscription dans la communaut
 
 ### Groupe A — Le texte fondateur
 
-[@upias1976] + [@oliver1990], **chapitre 1** (20 + 12 pages, version traduite distribuée).
+[@upias1976] et [@oliver1990], chapitre 1 (20 + 12 pages, version traduite distribuée). Compagnon de lecture en français fourni : résumé structuré, citations traduites, glossaire.
 
-**Compagnon de lecture en français** fourni : résumé structuré + citations traduites + glossaire.
+Quelle définition du handicap propose UPIAS ? Quels sont les trois déplacements opérés par cette définition ? Comment Oliver inscrit-il le handicap dans une analyse matérialiste ?
 
-**Questions guides** :
-
-- Quelle définition du handicap propose UPIAS ?
-- Quels sont les trois **déplacements** opérés par cette définition ?
-- Comment Oliver inscrit-il le handicap dans une analyse matérialiste ?
+Compléments éventuels : Finkelstein [@finkelstein1980], Hunt [@hunt1966], Barnes [@barnes1991 ; @barnes2010].
 
 ### Groupe B — Les critiques féministes
 
-Crow, L. (1996). *Including all of our lives*. Shakespeare, T. (2014). *Disability Rights and Wrongs Revisited*, chap. 2 (25 + 15 pages, compagnon FR).
+Crow [@crow1996], Shakespeare [@shakespeare2014] chap. 2 (25 + 15 pages, compagnon FR).
 
-**Questions guides** :
+Pourquoi Crow critique-t-elle le modèle social britannique ? Comment Shakespeare propose-t-il de dépasser le binarisme *impairment* / *disability* ? Que reste-t-il du modèle social après ces critiques ?
 
-- Pourquoi Crow critique-t-elle le modèle social britannique ?
-- Comment Shakespeare propose-t-il de dépasser le binarisme **impairment / disability** ?
-- Que reste-t-il du modèle social après ces critiques ?
+Compléments éventuels : Morris [@morris1991], Wendell [@wendell1996], Hughes & Paterson [@hughes1997], Masson [@masson2013].
 
 ### Groupe C — Les *critical disability studies*
 
-Goodley, D. (2017). *Disability Studies*, chap. 1 (25 pages, compagnon FR).
+Goodley [@goodley2017], chap. 1 (25 pages, compagnon FR).
 
-**Questions guides** :
+Qu'est-ce qui distingue les *critical disability studies* du modèle social britannique classique ? Quels sont les trois angles morts identifiés par Goodley ? Comment articuler ces apports avec votre pratique de FP ?
 
-- Qu'est-ce qui distingue les *critical disability studies* du modèle social britannique classique ?
-- Quels sont les **trois angles morts** identifiés par Goodley ?
-- Comment articuler ces apports avec votre pratique de FP ?
+Compléments éventuels : McRuer [@mcruer2006], Davis [@davis2017], Garland-Thomson [@garland2017], Mitchell & Snyder [@mitchellsnyder2000].
 
 :::
 
 ## Pour aller plus loin
 
-**Pour l'histoire du mouvement britannique** : Campbell, J. & Oliver, M. (1996). *Disability Politics: Understanding Our Past, Changing Our Future* (Routledge) — l'histoire du mouvement britannique racontée par deux militant·es-chercheur·es.
-
-**Pour la *crip theory*** : McRuer, R. (2006). *Crip Theory. Cultural Signs of Queerness and Disability* (NYU Press) — articulation entre théories queer et *disability studies*.
-
-**Pour la sociologie française du handicap** : Winance, M. (2007). *Being normally different? Changes to normalization processes* (*Disability & Society*, 22(6), 625-638) — autre lecture critique du modèle social, depuis le terrain français.
-
-**Pour le contexte suisse** : Probst, I. & Tabin, J.-P. (2017). *De la justice à l'arbitraire: la mise en œuvre de l'AI en Suisse* (*Revue française des affaires sociales*) — application du modèle social aux pratiques de l'AI suisse.
+Pour l'histoire du mouvement britannique, Campbell et Oliver [@campbell1996] proposent une histoire du mouvement britannique racontée par deux militant·es-chercheur·es. Pour la *crip theory*, McRuer [@mcruer2006] articule théories queer et *disability studies*, prolongé par les textes du *Disability Studies Reader* [@davis2017]. Pour la sociologie française du handicap, Winance [@winance2007] propose une autre lecture critique du modèle social depuis le terrain français. Pour le contexte suisse, Probst et Tabin [@probst2017] analysent l'application du modèle social aux pratiques de l'AI suisse, prolongé par Tabin et collègues [@tabin2019] et Piecek et collègues [@piecek2017]. Pour les enjeux de représentation et de discours, Mitchell et Snyder [@mitchellsnyder2000] proposent leur concept de *narrative prosthesis*. Pour le manuel de référence international, voir Watson et Vehmas [@watson2019]. Pour les enjeux théoriques contemporains, Thomas [@thomas2007] propose une synthèse en sociologie médicale et disability studies, et Tregaskis [@tregaskis2004] sur les constructions du handicap.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice 1 : impairment ou disability ?
+## Exercice 1 — *impairment* ou *disability* ?
 
 Une étudiante en FP rapporte : *« Mon résident en fauteuil n'arrive jamais à temps au repas parce que le couloir est trop étroit pour qu'on puisse y croiser une autre personne en fauteuil. »* Où se situe le handicap dans cette situation ?
 
 ### Réponse
 
-Le **fauteuil** et la difficulté motrice relèvent de l'***impairment***.
+Le fauteuil et la difficulté motrice relèvent de l'*impairment*. Le fait d'arriver en retard au repas relève de la *disability*. Cause : la largeur du couloir, donc l'environnement bâti.
 
-Le fait d'arriver en retard au repas relève de la ***disability***.
+> *« It is society which disables physically impaired people. »* — UPIAS 1976 [@upias1976]
 
-Cause : la largeur du couloir, donc l'**environnement bâti**.
-
-> *« It is society which disables physically impaired people. »* — UPIAS 1976
-
-Pour le TS : l'intervention pertinente n'est pas (seulement) sur la personne mais sur le bâti. La LHand fédérale (RS 151.3) impose justement des obligations d'accessibilité, y compris dans les institutions médico-sociales.
-
-Action concrète : signaler l'obstacle à la direction, demander un audit accessibilité, mobiliser éventuellement Pro Infirmis ou Cap-Contact pour un soutien à la demande.
+Pour le TS : l'intervention pertinente n'est pas (seulement) sur la personne mais sur le bâti. La LHand fédérale (RS 151.3) [@biglerschob2016] impose justement des obligations d'accessibilité, y compris dans les institutions médico-sociales. Action concrète : signaler l'obstacle à la direction, demander un audit accessibilité, mobiliser éventuellement Pro Infirmis ou Cap-Contact pour un soutien à la demande [@agile2023].
 :::
 
 ::: {.callout-tip collapse="true"}
-## Exercice 2 : appliquer Crow et Shakespeare
+## Exercice 2 — appliquer Crow et Shakespeare
 
-Une personne accompagnée vit avec une **maladie chronique évolutive** (fibromyalgie). Elle dit : *« Je voudrais qu'on me croie quand je dis que j'ai mal. Tout le monde me dit que c'est dans ma tête. »* Comment articuler le modèle social et ses critiques internes ?
+Une personne accompagnée vit avec une maladie chronique évolutive (fibromyalgie). Elle dit : *« Je voudrais qu'on me croie quand je dis que j'ai mal. Tout le monde me dit que c'est dans ma tête. »* Comment articuler le modèle social et ses critiques internes ?
 
 ### Réponse
 
-**Lecture modèle social** : la souffrance n'est pas crue → produit d'une **disabling society** qui ne reconnaît pas les douleurs invisibles. Action : transformer les pratiques médicales et sociales de reconnaissance de la douleur, mobiliser les recommandations HAS sur les maladies chroniques.
+Lecture modèle social : la souffrance n'est pas crue, produit d'une *disabling society* qui ne reconnaît pas les douleurs invisibles [@oliver1990]. Action : transformer les pratiques médicales et sociales de reconnaissance de la douleur, mobiliser les recommandations HAS sur les maladies chroniques [@has2022].
 
-**Lecture Crow** : la souffrance corporelle est **réelle** et ne se réduit pas à une mauvaise organisation sociale. La fibromyalgie produit une fatigue, une douleur, une incertitude qui sont **propres à la condition**. Action : reconnaître cette dimension, ne pas la nier au nom de la politique.
+Lecture Crow [@crow1996] : la souffrance corporelle est réelle et ne se réduit pas à une mauvaise organisation sociale. La fibromyalgie produit une fatigue, une douleur, une incertitude qui sont propres à la condition [@wendell1996]. Action : reconnaître cette dimension, ne pas la nier au nom de la politique.
 
-**Lecture Shakespeare** : *impairment* et *disability* sont **co-construits**. La fibromyalgie est aussi un produit du regard médical (longtemps niée, désormais reconnue par l'OMS). Action : penser ensemble la transformation des pratiques (modèle social) et l'accompagnement de la souffrance vécue (modèle médical réflexif).
+Lecture Shakespeare [@shakespeare2014] : *impairment* et *disability* sont co-construits. La fibromyalgie est aussi un produit du regard médical, longtemps niée, désormais reconnue [@conrad2007]. Action : penser ensemble la transformation des pratiques (modèle social) et l'accompagnement de la souffrance vécue (modèle médical réflexif).
 
 La posture intégrative est celle qui peut tenir les trois lectures sans les hiérarchiser.
 :::
 
 ## Travail attendu pour la séance 3
 
-Choisir un **règlement institutionnel** (foyer, école, service social) accessible. Identifier les éléments relevant d'une **logique d'accessibilité environnementale** versus ceux relevant d'une **logique de transformation individuelle**. Préparer 5 lignes d'analyse à partager.
+Choisir un règlement institutionnel (foyer, école, service social) accessible. Identifier les éléments relevant d'une logique d'accessibilité environnementale et ceux relevant d'une logique de transformation individuelle. Préparer 5 lignes d'analyse à partager.
 
 ## Bibliographie complète de la séance
 
-Voir Annexe C. Citations principales : @oliver1990, @upias1976.
+Voir Annexe C. Citations principales : @crow1996, @french1993, @goodley2017, @hunt1966, @oliver1990, @shakespeare2014, @upias1976.
 
-**Compléments** : Campbell & Oliver (1996), *Disability Politics*. Crow (1996), *Including all of our lives*. French (1993), *Disability, impairment or something in between?*. Goodley (2017), *Disability Studies*. McRuer (2006), *Crip Theory*. Probst & Tabin (2017), *De la justice à l'arbitraire*. Shakespeare (2014), *Disability Rights and Wrongs Revisited*. Winance (2007), *Being normally different?*.
+Compléments mobilisés dans la séance : Barnes [@barnes1991 ; @barnes2010], Bigler-Schöb & Gächter [@biglerschob2016], Brisenden [@brisenden1986], Campbell & Oliver [@campbell1996], Charlton [@charlton1998], CDPH [@cdph2006], Davis [@davis2017], Finkelstein [@finkelstein1980], Garland-Thomson [@garland2017], HAS [@has2022], Hughes & Paterson [@hughes1997], Inclusion Handicap [@inclusionhandicap2022], Masson [@masson2013], McRuer [@mcruer2006], Mitchell & Snyder [@mitchellsnyder2000], Morris [@morris1991], Piecek et al. [@piecek2017], Piketty [@piketty2019], Plan cantonal [@plancantonal2023], Probst & Tabin [@probst2017], Stiker [@stiker2013], Tabin et al. [@tabin2019], Thomas [@thomas2007], Tregaskis [@tregaskis2004], Tronto [@tronto1993 ; @tronto2009], Watson & Vehmas [@watson2019], Wendell [@wendell1996], Williams [@williams2001], Winance [@winance2007].
 
 ## Fiches de lecture détaillées
 
-Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+Cette séance mobilise les auteurs suivants, traités en détail dans l'Annexe D :
 
 > Oliver · UPIAS · Shakespeare
-
-Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
 
 [:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
 
