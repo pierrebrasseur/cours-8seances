@@ -140,6 +140,20 @@ Cet ouvrage doit beaucoup aux collègues romand·es dont les travaux structurent
 | Livre Quarto de la leçon probatoire | <https://pierrebrasseur.github.io/handicap-autonomie-ts/> |
 | Carnet de recherche | <https://pierrebrasseur.github.io/blog-recherche/> |
 
+## L'auteur
+
+::: {.callout-note appearance="minimal"}
+**Pierre Brasseur** est sociologue. Ses recherches portent sur le handicap, l'autonomie, le travail du care, les politiques sociales et les violences sexuelles dans les institutions. Il est candidat au poste de Professeur HES associé à 80 % (réf. 309) à la HETS Genève — *« Modes d'intervention auprès des personnes en situation de handicap et en perte d'autonomie »*.
+
+**Travaux récents** :
+
+- *Sociologie de l'assistance sexuelle. Travail du care, travail sexuel et politiques du handicap* (PUF, 2024)
+- « Les handicapés témoins, les valides experts » (avec J. Rodriguez), *Participations*, 22(3), 2019
+- « Sexual violence against children with disabilities » (avec L. Robert et B. Garré, R1 acceptée 2026), *Social Science and Medicine*
+
+**Contact** : [pierre.brasseur@hetsge.ch](mailto:pierre.brasseur@hetsge.ch)
+:::
+
 ------------------------------------------------------------------------
 
 *Pierre Brasseur · HETS Genève · CC BY-NC-SA 4.0*

@@ -3,9 +3,19 @@ title: "Séance 2 — Modèle social et *disability studies*"
 subtitle: "Cartographie théorique I"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Cartographie théorique. **Question structurante** : *Qu'est-ce qui « handicape » — le corps ou l'organisation sociale ?* **Slides** : [voir](../slides/02-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Cartographie théorique I
+**Question structurante** · Qu'est-ce qui « handicape » — le corps ou l'organisation sociale ?
+**Durée** · 2 heures
+**Lecture estimée** · 30 minutes
+
+La séance retrace la rupture conceptuelle opérée par UPIAS en 1976 et systématisée par Oliver en 1990, puis confronte ce modèle social à ses critiques internes (Crow, French, Shakespeare, Goodley).
+
+À la fin, vous saurez **distinguer impairment et disability**, **mesurer la portée politique** de cette distinction, **mobiliser les critiques féministes et *crip*** du modèle social.
+
+**Slides** · [reveal.js de la séance 2](../slides/02-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage

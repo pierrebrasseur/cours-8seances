@@ -3,9 +3,19 @@ title: "Séance 5 — Autodétermination et pair-aidance"
 subtitle: "Cartographie politique II"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Cartographie politique. **Question structurante** : *Comment soutenir l'autodétermination sans la transformer en injonction ?* **Slides** : [voir](../slides/05-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Cartographie politique II
+**Question structurante** · Comment soutenir l'autodétermination sans la transformer en injonction ?
+**Durée** · 2 heures
+**Lecture estimée** · 35 minutes
+
+La théorie de l'autodétermination de Ryan-Deci, le modèle fonctionnel de Wehmeyer, la pair-aidance en francophonie (Jouet, Souesme), et la vigilance épistémique sur la division témoin/expert.
+
+À la fin, vous saurez **distinguer autodétermination comme trait et comme produit relationnel**, **identifier les quatre conditions** d'une pair-aidance non extractive.
+
+**Slides** · [reveal.js de la séance 5](../slides/05-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage

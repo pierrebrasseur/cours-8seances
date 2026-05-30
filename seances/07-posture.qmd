@@ -3,9 +3,19 @@ title: "Séance 7 — Posture professionnelle : trois défis"
 subtitle: "Cartographie professionnelle"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Cartographie professionnelle. **Question structurante** : *Quels défis structurels traversent la pratique du TS ?* **Slides** : [voir](../slides/07-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Cartographie professionnelle
+**Question structurante** · Quels défis structurels traversent la pratique du TS ?
+**Durée** · 2 heures
+**Lecture estimée** · 40 minutes
+
+Les trois défis structurels de la posture : protection/autonomie (Perske, Tronto), expertise/savoir expérientiel (Charlton, Brasseur-Rodriguez), travail prescrit/réel (Clot, Lipsky, Lenzi-Moine). Plus le travail émotionnel de Hochschild et le praticien réflexif de Schön.
+
+À la fin, vous saurez **nommer les trois défis**, **mobiliser la clinique de l'activité** et la *street-level bureaucracy*, **reconnaître le travail émotionnel**.
+
+**Slides** · [reveal.js de la séance 7](../slides/07-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage
@@ -61,6 +71,10 @@ Brasseur et Rodriguez [@brasseurrodriguez2019] :
 
 ### Défi 3 — Travail prescrit / Travail réel
 
+::: {.column-margin}
+**Yves Clot** dirige le pôle Clinique du travail au CNAM. La clinique de l'activité est mobilisée depuis les années 2000 dans les recherches HETS sur les métiers du social.
+:::
+
 Yves Clot [@clot1999 ; @clot2008] : la **clinique de l'activité**.
 
 Distinction centrale :
@@ -82,6 +96,10 @@ Michael Lipsky [@lipsky2010] : la *street-level bureaucracy*.
 > --- @lipsky2010, p. xii
 
 Vincent Dubois [@dubois2010] en a tiré une ethnographie de référence du guichet.
+
+::: {.column-margin}
+**Catherine Lenzi** est professeure associée à la HETS Genève et anime le réseau de compétences *« Autonomie-Handicap-Dépendance »*. Si elle accepte la proposition, elle co-anime cette séance.
+:::
 
 Catherine Lenzi et Alexandre Moine [@lenzimoine2025] : les marges du métier comme lieu d'invention professionnelle.
 

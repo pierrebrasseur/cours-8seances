@@ -3,9 +3,19 @@ title: "Séance 8 — Sexualité, violences, synthèse"
 subtitle: "Application"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Application. **Question structurante** : *Comment articuler droits à l'intimité et droits à la protection ?* **Slides** : [voir](../slides/08-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Application
+**Question structurante** · Comment articuler droits à l'intimité et droits à la protection ?
+**Durée** · 2 heures
+**Lecture estimée** · 30 minutes
+
+Sexualités handicapées et assistance sexuelle (Brasseur 2024), violences sexuelles institutionnelles (Brasseur-Robert-Garré 2026), synthèse collective des acquis du cours, cadrage du travail final.
+
+À la fin, vous saurez **articuler CDPH art. 16 et 22**, **identifier les angles morts institutionnels**, **construire une posture argumentée** pour la suite de votre formation.
+
+**Slides** · [reveal.js de la séance 8](../slides/08-slides.qmd)
 :::
 
 ::: {.callout-warning appearance="simple"}

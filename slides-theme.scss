@@ -5,11 +5,20 @@ $link-color: #5e2ca5;
 $selection-bg: #f6b40e;
 $presentation-heading-color: #5e2ca5;
 $presentation-heading-font-weight: 700;
-$presentation-heading-line-height: 1.2;
+$presentation-heading-line-height: 1.15;
+$presentation-heading-letter-spacing: -0.01em;
 $code-color: #c9690e;
 
 /*-- scss:rules --*/
-.reveal h1, .reveal h2, .reveal h3 {
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap");
+
+.reveal {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-feature-settings: "kern", "liga";
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
   font-family: "Inter", system-ui, sans-serif;
   letter-spacing: -0.01em;
 }
@@ -19,7 +28,7 @@ $code-color: #c9690e;
 .reveal h3 { font-size: 1.2em; color: #1a1a2e; }
 
 .reveal blockquote {
-  background: rgba(94, 44, 165, 0.06);
+  background: #fdfaf2;
   border-left: 6px solid #f6b40e;
   padding: 0.8em 1.2em;
   border-radius: 0 8px 8px 0;
@@ -29,12 +38,14 @@ $code-color: #c9690e;
   margin: 0.8em auto;
 }
 
-.reveal .footer { color: #888; font-size: 0.5em; }
+.reveal .footer { color: #888; font-size: 0.5em; font-family: "Inter", sans-serif; }
 
-.reveal .slide-number { color: #5e2ca5; font-weight: 600; }
+.reveal .slide-number { color: #5e2ca5; font-weight: 600; font-family: "Inter", sans-serif; }
 
 .reveal table {
+  font-family: "Inter", sans-serif;
   font-size: 0.7em;
+  font-variant-numeric: tabular-nums lining-nums;
   border-collapse: collapse;
 }
 
@@ -42,6 +53,7 @@ $code-color: #c9690e;
   background: #5e2ca5;
   color: white;
   padding: 0.4em 0.8em;
+  font-weight: 600;
 }
 
 .reveal table td {
@@ -49,7 +61,7 @@ $code-color: #c9690e;
   border-bottom: 1px solid rgba(94, 44, 165, 0.15);
 }
 
-.reveal .small { font-size: 0.7em; color: #666; }
+.reveal .small { font-size: 0.7em; color: #666; font-family: "Inter", sans-serif; }
 
 .reveal .accent { color: #5e2ca5; font-weight: 700; }
 
@@ -62,9 +74,55 @@ $code-color: #c9690e;
 
 .reveal section.title-slide h1,
 .reveal section.title-slide h2,
-.reveal section.title-slide .subtitle {
+.reveal section.title-slide .subtitle,
+.reveal section.title-slide .author,
+.reveal section.title-slide .date {
   color: white !important;
 }
 
-.reveal section.title-slide .author { color: rgba(255,255,255,0.9); font-size: 0.8em; }
-.reveal section.title-slide .date { color: rgba(255,255,255,0.85); font-size: 0.6em; }
+.reveal section.title-slide h1.title {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.reveal section.title-slide .subtitle {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.reveal .callout {
+  border-radius: 8px;
+}
+
+.reveal .callout-warning {
+  background: rgba(246, 180, 14, 0.15);
+  border-left: 4px solid #f6b40e;
+  padding: 0.6em 1em;
+}
+
+.reveal .callout-tip {
+  background: rgba(94, 44, 165, 0.08);
+  border-left: 4px solid #5e2ca5;
+  padding: 0.6em 1em;
+}
+
+.reveal a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.reveal a:hover {
+  color: #c9690e;
+}
+
+/* Aside (column-margin equivalent in slides) */
+.reveal .aside {
+  font-family: "Inter", sans-serif;
+  font-size: 0.65em;
+  color: #555;
+  border-left: 2px solid #f6b40e;
+  padding-left: 0.6em;
+  margin-top: 0.6em;
+}

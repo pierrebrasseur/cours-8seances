@@ -3,9 +3,19 @@ title: "Séance 1 — Histoires et grammaires du handicap"
 subtitle: "Diagnostic historique"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Diagnostic. **Question structurante** : *Comment en sommes-nous arrivés là ?* **Slides reveal.js** : [voir](../slides/01-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Diagnostic historique
+**Question structurante** · Comment en sommes-nous arrivés là ?
+**Durée** · 2 heures
+**Lecture estimée** · 35 minutes
+
+Quatre auteurs encadrent la séance : Stiker (anthropologie historique), Goffman (sociologie du stigmate), Ville-Fillion-Ravaud (sociologie du handicap comme catégorie), Revillard (droits vulnérables).
+
+À la fin, vous saurez **distinguer le handicap construit et l'expérience corporelle**, **identifier les figures historiques** (protégé, déficient, inadapté, sujet de droits), **reconnaître la dimension politique** des catégorisations administratives.
+
+**Slides** · [reveal.js de la séance 1](../slides/01-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage
@@ -34,6 +44,10 @@ Compétences PEC20 ciblées : **C1, C2, C7**.
 
 ### La modernité comme paradigme de la réadaptation
 
+::: {.column-margin}
+**Stiker** est l'un des théoriciens francophones les plus mobilisés du champ. Son livre, publié en 1982 et réédité en 2013, reste la référence en anthropologie historique du handicap. Disponible à la bibliothèque HETS.
+:::
+
 Henri-Jacques Stiker propose une anthropologie historique du handicap [@stiker2013]. Chaque société construit un rapport spécifique à l'infirmité. La modernité produit le paradigme de la **réadaptation** : ramener à la norme, à l'identique.
 
 > *« Réadapter, c'est ramener à la norme, à l'identique, et c'est par là même désigner comme différent. »*
@@ -55,6 +69,10 @@ Les figures **se superposent** dans les institutions concrètes. Aucune n'a disp
 :::
 
 ### Le stigmate comme processus relationnel
+
+::: {.column-margin}
+*Stigmate* est le titre français de *Stigma. Notes on the Management of Spoiled Identity* (Prentice-Hall, 1963). La traduction Minuit (1975) est la plus diffusée en France et en Suisse romande.
+:::
 
 Erving Goffman analyse le stigmate comme un **attribut socialement disqualifiant** qui transforme, dans l'interaction, une personne « normale » en personne « entachée » [@goffman1975].
 

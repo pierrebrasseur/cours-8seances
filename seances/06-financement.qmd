@@ -3,9 +3,19 @@ title: "Séance 6 — Financement orienté personne"
 subtitle: "Cartographie politique III"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Cartographie politique. **Question structurante** : *Le cash-for-care libère ou précarise ?* **Slides** : [voir](../slides/06-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Cartographie politique III
+**Question structurante** · Le *cash-for-care* libère ou précarise ?
+**Durée** · 2 heures
+**Lecture estimée** · 35 minutes
+
+La logique *cash-for-care* (Le Bihan et al.), la contribution d'assistance AI suisse (OFAS 2020), la comparaison avec les *direct payments* anglais (Glendinning), et le retour à Léa pour activer concrètement le dispositif.
+
+À la fin, vous saurez **mobiliser les chiffres clés** de la contribution d'assistance, **comparer les politiques** européennes, **accompagner concrètement** une demande.
+
+**Slides** · [reveal.js de la séance 6](../slides/06-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage

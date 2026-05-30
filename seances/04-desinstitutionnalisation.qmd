@@ -3,9 +3,19 @@ title: "Séance 4 — Désinstitutionnalisation"
 subtitle: "Cartographie politique I"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Cartographie politique. **Question structurante** : *Désinstitutionnaliser — pour qui, comment, à quelles conditions ?* **Slides** : [voir](../slides/04-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Cartographie politique I
+**Question structurante** · Désinstitutionnaliser — pour qui, comment, à quelles conditions ?
+**Durée** · 2 heures
+**Lecture estimée** · 35 minutes
+
+L'article 19 CDPH, sa lecture stricte par le Comité ONU, la position IASSIDD de Mansell-Beadle-Brown, les jalons suisses 2014-2026, et un angle mort essentiel : l'intersection handicap-migration.
+
+À la fin, vous saurez **identifier les conditions de qualité** de la désinstitutionnalisation, **cartographier les jalons suisses**, **reconnaître les risques** de transinstitutionnalisation.
+
+**Slides** · [reveal.js de la séance 4](../slides/04-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage

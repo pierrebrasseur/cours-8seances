@@ -3,9 +3,19 @@ title: "Séance 3 — MDH-PPH et capabilités"
 subtitle: "Cartographie théorique II"
 ---
 
-::: {.callout-note appearance="simple"}
-## En bref
-**Mouvement** : Cartographie théorique. **Question structurante** : *Comment articuler personne et environnement dans une grille opérationnelle ?* **Slides** : [voir](../slides/03-slides.qmd).
+::: {.callout-tip icon=false appearance="default"}
+## Au programme de cette séance
+
+**Mouvement** · Cartographie théorique II
+**Question structurante** · Comment articuler personne et environnement dans une grille opérationnelle ?
+**Durée** · 2 heures
+**Lecture estimée** · 35 minutes
+
+Trois cadres convergents : le MDH-PPH québécois de Fougeyrollas, l'approche par les capabilités de Sen et Nussbaum, la CDPH ONU 2006. Application finale à la vignette de Léa avec les quatre modèles.
+
+À la fin, vous saurez **mobiliser le MDH-PPH** sur une situation concrète, **identifier les dix capabilités centrales**, **articuler la CDPH** avec la pratique du TS.
+
+**Slides** · [reveal.js de la séance 3](../slides/03-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage
