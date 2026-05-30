@@ -1,0 +1,23 @@
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    show-slide-number: all
+    width: 1280
+    height: 720
+    margin: 0.08
+    fontsize: 1.6em
+    mainfont: "Inter"
+    monofont: "JetBrains Mono"
+    code-overflow: wrap
+    incremental: false
+    smaller: false
+    transition: fade
+    background-transition: fade
+    chalkboard: false
+    menu: true
+    history: false
+    auto-stretch: true
+    footer: "Pierre Brasseur · HETS Genève · 2026"
+    logo: ../images/timeline-2006-2026.svg
+    embed-resources: true

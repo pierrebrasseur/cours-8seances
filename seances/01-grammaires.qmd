@@ -1,0 +1,189 @@
+---
+title: "Séance 1 — Histoires et grammaires du handicap"
+subtitle: "Diagnostic historique"
+---
+
+::: {.callout-note appearance="simple"}
+## En bref
+**Mouvement** : Diagnostic. **Question structurante** : *Comment en sommes-nous arrivés là ?* **Slides reveal.js** : [voir](../slides/01-slides.qmd).
+:::
+
+## Objectifs d'apprentissage
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. Distinguer le **handicap comme catégorie construite** et le handicap comme expérience corporelle
+2. Identifier les **figures historiques** successives de la personne handicapée — protégé, déficient, inadapté, sujet de droits
+3. Reconnaître la **dimension politique** des catégorisations administratives
+4. Mobiliser le concept de **droits vulnérables** [@revillard2020] pour penser l'écart entre droit proclamé et droit effectif
+
+Compétences PEC20 ciblées : **C1, C2, C7**.
+
+## Plan minuté (2 h)
+
+| Temps | Contenu | Activité |
+|---|---|---|
+| 0-10 min | Introduction au cours, contrat pédagogique, vignette de Léa | Exposé |
+| 10-30 min | **Anthropologie historique du handicap** : la modernité comme paradigme de la réadaptation | Exposé |
+| 30-50 min | **Sociologie du stigmate** : Goffman, discrédité/discréditable, *passing* | Exposé + discussion |
+| 50-65 min | **Sociologie du handicap comme catégorie d'action publique** | Exposé |
+| 65-110 min | ***Jigsaw*** : 4 sous-groupes / 4 textes | Travail collectif |
+| 110-120 min | Synthèse + introduction séance 2 | Discussion |
+
+## Cadre théorique
+
+### La modernité comme paradigme de la réadaptation
+
+Henri-Jacques Stiker propose une anthropologie historique du handicap [@stiker2013]. Chaque société construit un rapport spécifique à l'infirmité. La modernité produit le paradigme de la **réadaptation** : ramener à la norme, à l'identique.
+
+> *« Réadapter, c'est ramener à la norme, à l'identique, et c'est par là même désigner comme différent. »*
+>
+> --- @stiker2013
+
+Le paradoxe : l'opération même qui prétend effacer la différence la **désigne**. Trois figures historiques successives en France :
+
+| Période | Figure dominante | Logique d'intervention |
+|---|---|---|
+| Avant XIXᵉ s. | Le mendiant infirme, le pauvre | Charité, hôpital général |
+| XIXᵉ — milieu XXᵉ s. | L'invalide (de guerre, du travail) | Compensation, pension |
+| Après 1945 | L'inadapté à réadapter | Centres spécialisés, rééducation |
+| Depuis 1990s | Le sujet de droits | Inclusion, capabilités |
+
+::: {.callout-warning appearance="simple"}
+## Précision
+Les figures **se superposent** dans les institutions concrètes. Aucune n'a disparu. Un foyer genevois contemporain peut activer simultanément la logique de la charité (donations), de la compensation (financement AI), de la réadaptation (atelier) et du sujet de droits (CDPH).
+:::
+
+### Le stigmate comme processus relationnel
+
+Erving Goffman analyse le stigmate comme un **attribut socialement disqualifiant** qui transforme, dans l'interaction, une personne « normale » en personne « entachée » [@goffman1975].
+
+> *« Par définition, nous pensons qu'une personne ayant un stigmate n'est pas tout à fait humaine. »*
+>
+> --- @goffman1975
+
+Trois types de stigmate :
+
+- **Corporel** (déficiences visibles)
+- **De caractère** (suspicion de moralité, troubles psychiques)
+- **Tribal** (appartenance à un groupe disqualifié)
+
+Trois positions sociales :
+
+- **Normaux**
+- **Stigmatisés**
+- ***Initiés / sages*** (proches, professionnel·les)
+
+::: {.aside}
+La position d'**initié·e** (*the wise*) est centrale pour penser la posture du TS : ni stigmatisé·e, ni « normal·e neutre », mais professionnel·le familier·ère de l'univers stigmatisé.
+:::
+
+#### Concepts opérationnels pour le TS
+
+| Concept | Définition | Conséquence en FP |
+|---|---|---|
+| **Discrédité** | Stigmate visible | La gestion concerne l'interaction face-à-face |
+| **Discréditable** | Stigmate dissimulable | La gestion concerne l'information à révéler |
+| ***Passing*** | Dissimuler son stigmate | Coût identitaire élevé pour la personne |
+| ***Covering*** | Minimiser l'impact d'un stigmate non dissimulable | Adaptation continue |
+
+### Le handicap comme catégorie d'action publique
+
+Isabelle Ville, Emmanuelle Fillion et Jean-François Ravaud synthétisent un demi-siècle de sociologie du handicap [@villefillion2020] : le handicap n'est pas un donné mais un construit historique, social et politique.
+
+> *« Le handicap n'est pas un donné mais un construit historique, social et politique. »*
+>
+> --- @villefillion2020
+
+La **catégorisation administrative** (l'AI, la MDPH, le taux d'invalidité) ne décrit pas une réalité préexistante : elle **produit** ce qu'elle prétend décrire. Trois effets :
+
+1. **Effet de seuil** : le score d'invalidité ouvre ou ferme des droits
+2. **Effet d'identité** : la personne se reconnaît (ou résiste) dans la catégorie qui lui est imposée
+3. **Effet de pratique** : les professionnel·les construisent leurs interventions en fonction de la catégorie
+
+### Le concept de droits vulnérables
+
+Anne Revillard [@revillard2020] propose un concept opérationnel pour penser l'écart entre droits proclamés et droits effectifs.
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
+>
+> --- @revillard2020
+
+::: {.callout-tip appearance="simple"}
+## Pour la pratique du TS
+Le TS est un **opérateur de l'effectivité** des droits. Sa fonction n'est pas seulement de connaître le droit, mais de le **rendre actionnable** pour la personne accompagnée — par l'information, l'accompagnement administratif, le soutien à la mobilisation des recours, la médiation institutionnelle.
+:::
+
+## Lectures préparatoires (*jigsaw*)
+
+::: panel-tabset
+
+### Groupe A — Stiker
+
+[@stiker2013], **chapitre III** (la réadaptation comme paradigme moderne, 30 pages).
+
+**Questions guides** :
+
+- Qu'est-ce que le paradigme de la réadaptation selon Stiker ?
+- Pourquoi ce paradigme *« désigne comme différent »* ce qu'il prétend normaliser ?
+- Quel exemple contemporain illustre ce paradoxe ?
+
+### Groupe B — Goffman
+
+[@goffman1975], **introduction et chapitre 1** (40 pages).
+
+**Questions guides** :
+
+- Quelle est la définition goffmanienne du stigmate ?
+- Quelle distinction entre discrédité et discréditable ?
+- Quelles conséquences pour la posture du TS face à un usager qui « cache » sa situation administrative ?
+
+### Groupe C — Ville-Fillion-Ravaud
+
+[@villefillion2020], **chapitre 1** *« Définir le handicap »* (25 pages).
+
+**Questions guides** :
+
+- Pourquoi les définitions du handicap varient-elles selon les époques et les contextes administratifs ?
+- Comment la catégorisation administrative « produit » du handicap ?
+- Quels effets sur les pratiques professionnelles ?
+
+### Groupe D — Revillard
+
+[@revillard2020], **introduction et chapitre 1** (40 pages).
+
+**Questions guides** :
+
+- Que désigne le concept de *droits vulnérables* ?
+- Quelle distinction entre droit proclamé et droit effectif ?
+- Comment le TS contribue-t-il à l'effectivité des droits ?
+
+:::
+
+## Auto-évaluation
+
+::: {.callout-tip collapse="true"}
+## Exercice : reconnaître les figures historiques
+
+Dans le règlement d'un foyer genevois, on lit : *« L'usager·ère doit démontrer sa capacité à respecter les règles communes avant tout passage en logement individuel. »* À quelle(s) figure(s) historique(s) du handicap ce règlement renvoie-t-il principalement ?
+
+### Réponse
+
+Principalement à la figure de **l'inadapté à réadapter** (réadaptation comportementale, mise à l'épreuve) et secondairement à celle du **protégé** (mise sous condition de l'autonomie). La figure du **sujet de droits** est, dans cette formulation, absente : Léa ne fait pas valoir un droit, elle doit *mériter* un passage.
+
+Le TS qui mobilise Revillard renversera la formulation : *« L'institution doit démontrer ce qu'elle met en place pour soutenir l'accès au logement individuel, sur la base de l'art. 19 CDPH. »*
+:::
+
+## Travail attendu pour la séance 2
+
+Identifier dans votre lieu de FP (actuel ou récent) **un dispositif** qui illustre l'un des paradigmes vus en séance. Préparer 5 lignes d'analyse à partager en début de séance 2.
+
+## Bibliographie complète de la séance
+
+Les références sont listées en fin de volume (Annexe C). Citations bibliographiques principales : @goffman1975, @revillard2020, @stiker2013, @villefillion2020.
+
+**Compléments** : Blanc (2012), *Sociologie du handicap*. Buton (2007), Les corps saisis par l'État. Calvez (2000), La sociologie du handicap.
+
+## Slides
+
+[:material-presentation: Slides reveal.js de la séance 1](../slides/01-slides.qmd){.btn .btn-primary target="_blank"}

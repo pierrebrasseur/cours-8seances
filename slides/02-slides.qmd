@@ -1,0 +1,103 @@
+---
+title: "Séance 2 — Modèle social et disability studies"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 2 · Cartographie théorique I"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-15 min · Restitution analyses FP
+- 15-40 min · UPIAS 1976 — rupture
+- 40-55 min · Oliver 1990 — politisation
+- 55-75 min · Critiques internes
+- 75-110 min · *Jigsaw*
+- 110-120 min · Synthèse
+
+## Trois objectifs
+
+1. Distinguer ***impairment*** et ***disability***
+2. Identifier la rupture **UPIAS 1976 / Oliver 1990**
+3. Mobiliser les **critiques internes** (féministes, *crip*)
+4. Reconnaître la posture **TS comme acteur du changement environnemental**
+
+## La rupture UPIAS
+
+> *« Disability is something imposed on top of our impairments by the way we are unnecessarily isolated and excluded from full participation in society. »*
+>
+> — UPIAS (1976)
+
+## Trois opérations
+
+| Avant | Après |
+|---|---|
+| Handicap = déficience | Handicap = barrière |
+| Intervention sur la personne | Intervention sur l'environnement |
+| Personne objet | Personne sujet politique |
+
+## Oliver et la politisation
+
+Le handicap = **produit du capitalisme industriel** qui exclut les corps non-productifs.
+
+Conséquences :
+
+- Question de **justice sociale**
+- Organisations **dirigées par les concerné·es**
+- Mouvement social analogue au féminisme, antiracisme
+
+## Trois critiques internes
+
+::: {.fragment}
+**Critique féministe (Crow, French)** : la souffrance corporelle est ignorée
+:::
+
+::: {.fragment}
+**Critique du binarisme (Shakespeare)** : *impairment* et *disability* sont co-construits
+:::
+
+::: {.fragment}
+**Critique intersectionnelle (Goodley)** : intégrer genre, classe, racisation, sexualité
+:::
+
+## Conséquences pour le TS
+
+| Posture | Action |
+|---|---|
+| Acteur du changement environnemental | Bâti, signalétique, règlements |
+| Médiateur politique | Soutenir l'auto-représentation |
+| Traducteur institutionnel | Faire reconnaître les besoins |
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | UPIAS (1976) + Oliver (1990) chap. 1 |
+| B | Crow (1996) + Shakespeare (2014) chap. 2 |
+| C | Goodley (2017), chap. 1 |
+
+::: {.small}
+Compagnon FR fourni pour les textes anglophones.
+:::
+
+## Travail pour la séance 3
+
+Choisir **un règlement institutionnel** accessible.
+
+Identifier les éléments relevant d'une **logique environnementale** vs d'une **logique de transformation individuelle**.
+
+## Pour aller plus loin
+
+- McRuer, *Crip Theory* (2006)
+- Winance, *Being normally different ?* (2007)
+- French, *Disability, impairment or something in between ?* (1993)

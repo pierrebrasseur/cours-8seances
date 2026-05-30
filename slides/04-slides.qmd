@@ -1,0 +1,114 @@
+---
+title: "Séance 4 — Désinstitutionnalisation"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 4 · Cartographie politique I"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-10 min · Retour carnets de bord
+- 10-25 min · Art. 19 CDPH + ONU 2022
+- 25-45 min · Mansell-Beadle-Brown
+- 45-60 min · Jalons suisses 2014-2026
+- 60-75 min · Intersection handicap-migration
+- 75-100 min · *Jigsaw*
+- 100-115 min · Étude de cas
+- 115-120 min · Synthèse
+
+## Trois objectifs
+
+1. Concept de **désinstitutionnalisation** et ses présupposés
+2. Position **IASSIDD** sur les conditions de qualité
+3. **Jalons suisses 2014-2026**
+4. Risques de **transinstitutionnalisation**
+5. **Angles morts** : handicap-migration
+
+## Art. 19 CDPH
+
+> *« Vivre dans la société, avec la même liberté de choix que les autres personnes. »*
+
+Trois éléments :
+
+- Choix du **lieu de vie**
+- Accès aux **services d'assistance**
+- Accès aux **services généraux**
+
+## ONU 2022 sur la Suisse
+
+> *« The Committee is concerned about the lack of a comprehensive deinstitutionalization strategy. »* (§ 41)
+
+> *« Adopt a deinstitutionalization strategy with a clear time frame. »* (§ 42)
+
+::: {.small}
+CRPD/C/CHE/CO/1 · 13 avril 2022 · 80+ recommandations
+:::
+
+## Mansell-Beadle-Brown (2010)
+
+> *« Community-based services are typically associated with better outcomes than institutional provision, but outcomes vary widely depending on how services are organised. »*
+
+::: {.callout-warning}
+La qualité ne dépend **pas** de la taille.
+:::
+
+## Risques sans investissement
+
+- **Transinstitutionnalisation**
+- **Non-recours aggravé**
+- **Charge accrue sur les familles**
+
+## Frise suisse 2014-2026
+
+![](../images/timeline-2006-2026.svg)
+
+## Initiative Pour l'inclusion
+
+- **5 septembre 2024**
+- **107 910 signatures** validées
+- Demandes : égalité, participation, autodétermination, droit à l'assistance personnelle
+
+## Qui reste invisible ?
+
+**Intersection handicap-migration** (Piérart 2013)
+
+- Sous-représentation dans les dispositifs d'aide précoce
+- Non-recours structurel
+- Représentations culturelles non thématisées
+
+## Étude de cas
+
+| Sureaux | Foyer EPI |
+|---|---|
+| Habitat coopératif | Structure historique |
+| 19 logements (3 Ensemble) | > 40 lieux, > 2000/an |
+| Inclusion communautaire | Accueil concentré |
+
+::: {.small}
+Sureaux : Codha + Fondation Ensemble · 1ᵉʳ prix Coopératives Habitat Suisse
+:::
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | Comité ONU CDPH (2017) Obs. gén. n° 5 + ONU (2022) |
+| B | Mansell & Beadle-Brown (2010) + Bigby & Beadle-Brown (2018) |
+| C | AGILE.CH + Inclusion Handicap + Piérart (2013) |
+
+## Travail pour la séance 5
+
+Identifier un dispositif d'habitat ou d'accompagnement de votre canton de FP.
+
+Analyser en 1 page : institutionnel, communautaire, intermédiaire ? Indicateurs IASSIDD ?

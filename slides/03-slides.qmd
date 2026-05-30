@@ -1,0 +1,119 @@
+---
+title: "Séance 3 — MDH-PPH et capabilités"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 3 · Cartographie théorique II"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-10 min · Restitution règlements
+- 10-35 min · MDH-PPH (Fougeyrollas)
+- 35-60 min · Capabilités (Nussbaum)
+- 60-80 min · CDPH ONU 2006
+- 80-110 min · Application à Léa
+- 110-120 min · Synthèse
+
+## Trois objectifs
+
+1. Mobiliser le **MDH-PPH** sur une situation concrète
+2. Identifier les **dix capabilités centrales**
+3. Articuler la **CDPH** avec la pratique quotidienne
+4. Appliquer les **quatre modèles** à la vignette de Léa
+
+## MDH-PPH (Fougeyrollas)
+
+> *« Le handicap n'est pas une caractéristique de la personne mais le résultat contextuel d'une interaction. »*
+>
+> — Fougeyrollas (2010)
+
+## La métaphore du funambule
+
+![](../images/mdh-pph.svg)
+
+::: {.small}
+Funambule (personne) · Fil (habitudes de vie) · Toile (environnement)
+:::
+
+## Les dix capabilités
+
+::: {.columns}
+::: {.column width="50%"}
+1. Vie
+2. Santé corporelle
+3. Intégrité corporelle
+4. Sens, imagination
+5. Émotions
+:::
+::: {.column width="50%"}
+6. Raison pratique
+7. **Affiliation**
+8. Autres espèces
+9. **Jeu**
+10. **Contrôle de l'environnement**
+:::
+:::
+
+::: {.aside}
+Nussbaum (2006), *Frontiers of Justice*
+:::
+
+## CDPH ONU 2006
+
+Trois articles structurants :
+
+| Article | Objet |
+|---|---|
+| **Art. 12** | Capacité juridique universelle |
+| **Art. 19** | Vie autonome dans la communauté |
+| **Art. 24** | Éducation inclusive |
+
+::: {.small}
+Suisse : ratifiée 15 avril 2014.
+:::
+
+## La vignette de Léa
+
+![](../images/vignette-lea.svg)
+
+## Les 4 modèles appliqués à Léa
+
+| Modèle | Lecture | Action |
+|---|---|---|
+| Médical | Diagnostic à évaluer | Bilan |
+| Social | Cadre inadapté | Transformer |
+| MDH-PPH | Habitudes compromises | Cartographier |
+| Droits + capabilités | Capabilités à soutenir | CDPH + contribution |
+
+## Aucune lecture n'est *fausse*
+
+::: {.callout-warning}
+Chaque modèle est **incomplet**.
+
+La posture professionnelle = mobiliser plusieurs grammaires simultanément.
+:::
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | Fougeyrollas (2010) chap. 2 et 4 + Masse et al. (2018) |
+| B | Nussbaum (2006) intro + chap. 2 + Bonvin & Farvaque (2008) |
+| C | CDPH art. 1, 3, 9, 12, 19, 24 + ONU CDPH (2022) |
+
+## Travail pour la séance 4
+
+**Première entrée du carnet de bord** (1 page) :
+
+Appliquer le MDH-PPH **ou** les dix capabilités à votre cas-fil de FP.

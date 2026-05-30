@@ -1,0 +1,147 @@
+---
+title: "Séance 8 — Sexualité, violences, synthèse"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 8 · Application"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Cadre éthique
+
+::: {.callout-warning}
+La séance touche des questions sensibles.
+
+**Avant le début** :
+
+- Présentation explicite du cadre
+- Possibilité de se retirer sans justification
+- Possibilité de demander un entretien individuel
+
+Aucune divulgation personnelle n'est demandée.
+:::
+
+## Plan de la séance
+
+- 0-10 min · Présentations cas-fils
+- 10-15 min · Cadrage éthique
+- 15-45 min · Sexualités handicapées
+- 45-70 min · Violences sexuelles
+- 70-95 min · Synthèse collective
+- 95-110 min · Travail final
+- 110-120 min · Clôture
+
+## Quatre objectifs
+
+1. Mobiliser **sexualité et violences** dans le champ du handicap
+2. Identifier les **angles morts institutionnels**
+3. Articuler les **acquis** du cours
+4. Construire une **posture argumentée**
+
+## Sexualités handicapées
+
+Pierre Brasseur (2024), *Sociologie de l'assistance sexuelle*.
+
+L'assistance sexuelle = **frontière** entre :
+
+- Travail du care
+- Travail du sexe
+- Politiques du handicap
+
+## Trois tensions analysées
+
+| Tension | Position A | Position B |
+|---|---|---|
+| Droit à la sexualité | Autodétermination | Marchandisation |
+| Statut professionnel | Care féminisé | Sexe stigmatisé |
+| Cadre légal | CDPH art. 22 | Cadre pénal |
+
+## Suisse : SEHP
+
+L'**association SEHP** forme des assistant·es sexuel·les en Suisse.
+
+Un éducateur en institution genevoise peut être sollicité pour informer un résident.
+
+Posture professionnelle complexe entre droit, cadres institutionnels et convictions personnelles.
+
+## Violences institutionnelles
+
+Brasseur, Robert & Garré (R1 acceptée 2026).
+
+Trois angles morts :
+
+- **Sous-signalement**
+- **Parcours de soin défaillants**
+- **Prévention insuffisante** (rarement en FALC)
+
+## Articulation des droits CDPH
+
+| Article | Objet |
+|---|---|
+| **Art. 16** | Protection contre exploitation, violence, maltraitance |
+| **Art. 22** | Respect de la vie privée |
+
+Tenir les deux sans les opposer.
+
+## Synthèse collective
+
+> **Quelle posture professionnelle ai-je construite au fil des 8 séances ?**
+
+Trois axes :
+
+- Mes **outils théoriques**
+- Mes **vigilances**
+- Mes **lieux d'action** en FP
+
+## Trois controverses (travail final)
+
+| Controverse | A | B |
+|---|---|---|
+| Désinstitutionnalisation | Horizon réaliste | Risque transinstitutionnalisation |
+| *Cash-for-care* | Autodétermination | Familialisme marchand |
+| Participation | Avancée démocratique | Nouvelle injonction |
+
+::: {.small}
+Prendre position dans le travail final (15 % de la note).
+:::
+
+## Travail final
+
+**12 pages · 4 semaines · 8 références minimum**
+
+8 sections :
+
+1. Description (1 p.)
+2. Modèles (2 p.)
+3. Cadre suisse (1,5 p.)
+4. Tension posture (2 p.)
+5. **Prise de position controverse** (1,5 p.)
+6. Transformation (1,5 p.)
+7. Réflexivité (1 p.)
+8. Bibliographie (1,5 p.)
+
+## Pour la suite
+
+- Formation pratique 2 (s5-s6)
+- MAP de spécialisation (Masse, Lenzi)
+- Carnet de recherche : [pierrebrasseur.github.io/blog-recherche](https://pierrebrasseur.github.io/blog-recherche/)
+- Contact : [pierre.brasseur@hetsge.ch](mailto:pierre.brasseur@hetsge.ch)
+
+## Merci
+
+::: {.callout-tip}
+Trois acquis à retenir :
+
+1. Les modèles **coexistent** — pas d'étapes
+2. Les **transformations suisses** ouvrent des marges concrètes
+3. La **posture** = travail réflexif quotidien sur trois défis
+:::

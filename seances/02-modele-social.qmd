@@ -1,0 +1,148 @@
+---
+title: "Séance 2 — Modèle social et *disability studies*"
+subtitle: "Cartographie théorique I"
+---
+
+::: {.callout-note appearance="simple"}
+## En bref
+**Mouvement** : Cartographie théorique. **Question structurante** : *Qu'est-ce qui « handicape » — le corps ou l'organisation sociale ?* **Slides** : [voir](../slides/02-slides.qmd).
+:::
+
+## Objectifs d'apprentissage
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. Distinguer ***impairment*** (déficience) et ***disability*** (handicap social) et en mesurer la portée politique
+2. Identifier la **rupture conceptuelle** opérée par UPIAS 1976 et systématisée par Oliver 1990
+3. Mobiliser les **critiques internes** du modèle social (féministes, *crip*, postcoloniales)
+4. Reconnaître les **conséquences pour la posture professionnelle** (TS comme acteur du changement environnemental)
+
+Compétences PEC20 ciblées : **C1, C2, C7, C8**.
+
+## Plan minuté (2 h)
+
+| Temps | Contenu | Activité |
+|---|---|---|
+| 0-15 min | Restitution des analyses de FP (séance 1) | Tour de table |
+| 15-40 min | **UPIAS 1976 et la rupture conceptuelle** | Exposé |
+| 40-55 min | **Oliver 1990 et la politisation du handicap** | Exposé |
+| 55-75 min | **Critiques internes** : Crow, French, Shakespeare | Exposé |
+| 75-110 min | ***Jigsaw*** : 3 textes / 3 sous-groupes | Travail collectif |
+| 110-120 min | Synthèse : le modèle social fait-il encore sens en 2026 ? | Discussion |
+
+## Cadre théorique
+
+### La rupture UPIAS 1976
+
+L'*Union of the Physically Impaired Against Segregation* (Royaume-Uni, 1976) opère une rupture conceptuelle : le handicap n'est pas dans le corps mais dans l'organisation sociale qui exclut les corps « *impaired* » [@upias1976].
+
+> *« Disability is something imposed on top of our impairments by the way we are unnecessarily isolated and excluded from full participation in society. »*
+>
+> --- @upias1976
+
+Trois opérations conceptuelles :
+
+| Avant le modèle social | Après le modèle social |
+|---|---|
+| Handicap = déficience individuelle | Handicap = barrière sociale |
+| Intervention sur la personne | Intervention sur l'environnement |
+| Personne objet de soins | Personne sujet politique |
+
+::: {.callout-tip appearance="simple"}
+## Conséquence pratique
+Le TS n'évalue plus seulement *la personne* (ses limitations, ses besoins). Il évalue **l'environnement** (ses barrières, ses facilitateurs, ses régimes de fonctionnement).
+
+Un test simple : devant une situation difficile, le TS « modèle social » se demande d'abord *« Que pourrait-on transformer dans l'environnement ? »* avant *« Que pourrait-on faire évoluer chez la personne ? »*
+:::
+
+### Michael Oliver et la politisation
+
+Michael Oliver [@oliver1990] systématise et politise le modèle social britannique. Il l'inscrit dans une analyse marxisante : le handicap est produit par le **capitalisme industriel** qui exclut les corps non-productifs.
+
+Conséquences :
+
+- Le handicap est une **question de justice sociale**, pas de soins
+- Les organisations de personnes handicapées doivent être **dirigées par elles-mêmes** (*self-directed*)
+- Le mouvement social du handicap est analogue à d'autres luttes : féminisme, antiracisme, syndicalisme
+
+### Critiques internes du modèle social
+
+Trois critiques majeures.
+
+#### Critique féministe : la souffrance corporelle ignorée
+
+Liz Crow et Sally French reprochent au modèle social de refuser de prendre au sérieux la souffrance corporelle et l'expérience subjective de la déficience.
+
+::: {.aside}
+Une féministe handicapée vivant avec une douleur chronique ne peut pas dire que sa douleur est seulement « sociale ». Elle est aussi corporelle.
+:::
+
+#### Critique du binarisme : impairment / disability
+
+Tom Shakespeare critique le binarisme *impairment* / *disability* qui rejoue un dualisme corps/société problématique. Pour Shakespeare, *impairment* et *disability* sont **co-construits** : la déficience est elle-même socialement façonnée (par la médecine, par l'expérience).
+
+#### Critique intersectionnelle : *critical disability studies*
+
+Dan Goodley appelle à intégrer les intersections de genre, classe, racisation, sexualité dans les *critical disability studies*. Le « handicap » abstrait masque des positions sociales très différentes selon ces axes.
+
+### Conséquences pour la posture professionnelle
+
+| Posture | Action concrète |
+|---|---|
+| TS comme **acteur du changement environnemental** | Faire évoluer la signalétique, le bâti, les règlements |
+| TS comme **médiateur·trice politique** | Soutenir l'auto-représentation des usager·es |
+| TS comme **traducteur·trice institutionnel·le** | Faire reconnaître les besoins d'accessibilité aux instances |
+
+## Lectures préparatoires (*jigsaw*)
+
+::: panel-tabset
+
+### Groupe A — Le texte fondateur
+
+[@upias1976] + [@oliver1990], **chapitre 1** (20 + 12 pages, version traduite distribuée).
+
+**Compagnon de lecture en français** fourni : résumé structuré + citations traduites + glossaire.
+
+### Groupe B — Les critiques féministes
+
+Crow (1996), *Including all of our lives*. Shakespeare (2014), *Disability Rights and Wrongs Revisited*, chap. 2 (25 + 15 pages, compagnon FR).
+
+### Groupe C — Les *critical disability studies*
+
+Goodley (2017), *Disability Studies*, chap. 1 (25 pages, compagnon FR).
+
+:::
+
+## Auto-évaluation
+
+::: {.callout-tip collapse="true"}
+## Exercice : impairment ou disability ?
+
+Une étudiante en FP rapporte : *« Mon résident en fauteuil n'arrive jamais à temps au repas parce que le couloir est trop étroit pour qu'on puisse y croiser une autre personne en fauteuil. »* Où se situe le handicap dans cette situation ?
+
+### Réponse
+
+Le **fauteuil** et la difficulté motrice relèvent de l'***impairment***.
+
+Le fait d'arriver en retard au repas relève de la ***disability***.
+
+Cause : la largeur du couloir, donc l'**environnement bâti**.
+
+> *« It is society which disables physically impaired people. »* — UPIAS 1976
+
+Pour le TS : l'intervention pertinente n'est pas (seulement) sur la personne mais sur le bâti. Note la convergence avec la LHand (RS 151.3) qui pose des obligations d'accessibilité.
+:::
+
+## Travail attendu pour la séance 3
+
+Choisir un **règlement institutionnel** (foyer, école, service social) accessible. Identifier les éléments relevant d'une **logique d'accessibilité environnementale** versus ceux relevant d'une **logique de transformation individuelle**.
+
+## Bibliographie complète de la séance
+
+Voir Annexe C. Citations principales : @oliver1990, @upias1976.
+
+**Compléments** : Crow (1996), Including all of our lives. French (1993), Disability, impairment or something in between ? Goodley (2017), *Disability Studies*. McRuer (2006), *Crip Theory*. Shakespeare (2014), *Disability Rights and Wrongs Revisited*. Winance (2007), Being normally different ?
+
+## Slides
+
+[:material-presentation: Slides reveal.js de la séance 2](../slides/02-slides.qmd){.btn .btn-primary target="_blank"}

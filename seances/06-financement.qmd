@@ -1,0 +1,154 @@
+---
+title: "Séance 6 — Financement orienté personne"
+subtitle: "Cartographie politique III"
+---
+
+::: {.callout-note appearance="simple"}
+## En bref
+**Mouvement** : Cartographie politique. **Question structurante** : *Le cash-for-care libère ou précarise ?* **Slides** : [voir](../slides/06-slides.qmd).
+:::
+
+## Objectifs d'apprentissage
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. Comprendre la logique ***cash-for-care*** et ses ressorts politiques
+2. Connaître les **chiffres clés** de la contribution d'assistance AI suisse [@ofas2020]
+3. Mobiliser une **perspective comparée** (France, Angleterre, Pays-Bas)
+4. Accompagner concrètement une personne dans la demande de contribution d'assistance
+
+Compétences PEC20 ciblées : **C2, C4, C5, C11**.
+
+## Plan minuté (2 h)
+
+| Temps | Contenu | Activité |
+|---|---|---|
+| 0-10 min | Retour sur les dispositifs d'autodétermination | Tour de table |
+| 10-30 min | **Logique *cash-for-care*** | Exposé |
+| 30-50 min | **Contribution d'assistance AI suisse** : OFAS 2020 | Exposé |
+| 50-70 min | **Perspective comparée** : *direct payments* anglais | Exposé |
+| 70-100 min | **Simulation d'accompagnement** : demande de contribution | Travail collectif |
+| 100-115 min | **Retour à Léa** : la contribution est-elle une solution ? | Discussion |
+| 115-120 min | Synthèse | Discussion |
+
+## Cadre théorique
+
+### La logique *cash-for-care*
+
+Le Bihan, Da Roit et Sopadzhiyan [@lebihan2019] analysent les politiques *cash-for-care* en France, Italie, Pays-Bas comme un *« familialisme optionnel par le marché »*. Les familles continuent à produire l'essentiel de l'aide mais peuvent acheter du soin sur un marché concurrentiel.
+
+Trois conséquences :
+
+| Conséquence | Bénéficiaire | Effet pervers |
+|---|---|---|
+| **Autonomie de choix accrue** | Personne / famille | Inégalités selon capacité à gérer |
+| **Précarisation des care workers** | Personnes accompagnantes (souvent migrantes) | Concurrence sur les salaires |
+| **Logique de marché** | État (économies de gestion) | Marchandisation du soin |
+
+### La contribution d'assistance AI suisse
+
+Introduite le **1ᵉʳ janvier 2012** par la 6ᵉ révision LAI. Logique : la personne reçoit l'argent et engage elle-même ses assistant·es comme employeur·euse.
+
+::: {.callout-note appearance="simple"}
+## Chiffres OFAS 2020
+- **~ 2 600 bénéficiaires** fin 2019 (cible initiale 3 000 dès 2012)
+- Durée moyenne d'engagement : **41 h/semaine**
+- Satisfaction : **81 %** de bénéficiaires satisfaits ou très satisfaits
+- Rares retours en home
+:::
+
+Critiques structurelles (Inclusion Handicap, AGILE.CH) :
+
+- **Barrières administratives** lourdes (formulaire, calcul des besoins, statut employeur-bénéficiaire)
+- **Pénurie d'assistant·es** disponibles
+- **Non-extension aux mineurs** et aux personnes en **curatelle de portée générale**
+
+### Le cas anglais : *direct payments* et *individual budgets*
+
+Caroline Glendinning [@glendinning2008] :
+
+> *« Personalisation marks a shift from the citizen-as-recipient to the citizen-as-purchaser of care. »*
+
+Tableau comparé :
+
+| Pays | Dispositif | Année | Critique principale |
+|---|---|---|---|
+| Suisse | Contribution d'assistance AI | 2012 | Diffusion limitée, complexité admin. |
+| France | PCH | 2005 | Familialisme par défaut |
+| Angleterre | *Direct payments / Individual budgets* | 1996 / 2003 | Inégalités de capacité à gérer |
+| Pays-Bas | Budget personnel (PGB) | 1995 | Précarisation des care workers |
+
+### Retour à Léa : la contribution est-elle une solution ?
+
+Léa **n'est pas** sous curatelle de portée générale → elle est **éligible**. Elle aurait à embaucher elle-même ses assistant·es.
+
+Mais : sait-elle qu'elle existe ? Sait-elle remplir le formulaire ? Connaît-elle ses droits de recours ?
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
+>
+> --- @revillard2020
+
+::: {.callout-tip appearance="simple"}
+## Le TS comme opérateur d'effectivité
+À Genève, trois acteurs clés :
+
+- **Pro Infirmis Genève** : consultation sociale, conseil spécialisé sur l'AI
+- **Cap-Contact** : association romande orientée droits, axe domicile
+- **Services sociaux institutionnels** : information et orientation des résident·es
+:::
+
+## Lectures préparatoires (*jigsaw*)
+
+::: panel-tabset
+
+### Groupe A — Le contexte suisse
+
+[@ofas2020], **synthèse et chapitres 3-4** (30 pages).
+
+Inclusion Handicap (2022), Position sur la contribution d'assistance (10 pages).
+
+### Groupe B — La perspective comparée
+
+[@lebihan2019] (17 pages).
+
+[@glendinning2008] (19 pages, compagnon FR).
+
+### Groupe C — Le terrain
+
+Fracheboud & Lehmann (2019), L'introduction de la contribution d'assistance en Suisse (18 pages).
+
+AGILE.CH (2023), *Vie autodéterminée*, chapitre assistance personnelle (15 pages).
+
+:::
+
+## Auto-évaluation
+
+::: {.callout-tip collapse="true"}
+## Exercice : décrypter une trajectoire de non-recours
+
+Une personne tétraplégique éligible à la contribution d'assistance ne fait pas la demande : sa famille s'oppose, son entourage doute de sa capacité à gérer, le formulaire lui semble incompréhensible. Comment le TS peut-il intervenir ?
+
+### Réponse
+
+Trois leviers articulés :
+
+1. **Levier informationnel** : expliquer clairement le dispositif, ses droits, ses obligations. Documents en langage clair, possibilité de FALC.
+2. **Levier relationnel** : travailler avec la famille sur ses craintes. Mobiliser l'éthique du care [@tronto2009] : la dépendance est universelle, redistribuer la responsabilité du care.
+3. **Levier institutionnel** : orienter vers Pro Infirmis Genève (conseil) et Cap-Contact (auto-organisation). Soutenir la demande sans s'y substituer.
+
+Concept central : **droits vulnérables** [@revillard2020]. Le droit existe mais reste virtuel sans intermédiation.
+:::
+
+## Travail attendu pour la séance 7
+
+**Deuxième entrée du carnet de bord** (1 page) : décrire une situation de FP où la mobilisation (ou non-mobilisation) d'un droit a transformé le déroulement de l'accompagnement.
+
+## Bibliographie complète de la séance
+
+Voir Annexe C. Citations principales : @glendinning2008, @lebihan2019, @ofas2020, @revillard2020.
+
+**Compléments** : AGILE.CH (2023), *Vie autodéterminée*. Da Roit & Le Bihan (2010). Fracheboud & Lehmann (2019). Inclusion Handicap (2022). Power (2013).
+
+## Slides
+
+[:material-presentation: Slides reveal.js de la séance 6](../slides/06-slides.qmd){.btn .btn-primary target="_blank"}

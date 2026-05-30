@@ -1,0 +1,164 @@
+---
+title: "Séance 8 — Sexualité, violences, synthèse"
+subtitle: "Application"
+---
+
+::: {.callout-note appearance="simple"}
+## En bref
+**Mouvement** : Application. **Question structurante** : *Comment articuler droits à l'intimité et droits à la protection ?* **Slides** : [voir](../slides/08-slides.qmd).
+:::
+
+::: {.callout-warning appearance="simple"}
+## Cadre éthique de cette séance
+La séance touche des questions sensibles. **Avant le début** : présentation explicite du cadre, possibilité de se retirer sans justification, possibilité de demander un entretien individuel. Aucune divulgation de situation personnelle n'est demandée. Les exemples mobilisés viennent de la littérature scientifique, anonymisés et désindividualisés.
+:::
+
+## Objectifs d'apprentissage
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. Mobiliser les **questions de sexualité et de violences** dans le champ du handicap [@brasseur2024]
+2. Identifier les **angles morts institutionnels** dans la prise en charge des violences subies par les enfants en situation de handicap
+3. Articuler les **acquis du cours** dans une analyse de situation de FP
+4. Construire une **posture argumentée** pour la suite de sa formation
+
+Compétences PEC20 ciblées : **C1, C2, C3, C8, C9**.
+
+## Plan minuté (2 h)
+
+| Temps | Contenu | Activité |
+|---|---|---|
+| 0-10 min | Présentations courtes (2 étudiant·es) de leur cas-fil de FP | Tour de table |
+| 10-15 min | **Cadrage éthique** de la séance | Exposé |
+| 15-45 min | **Sexualités handicapées et assistance sexuelle** [@brasseur2024] | Exposé |
+| 45-70 min | **Violences sexuelles et angles morts institutionnels** | Exposé |
+| 70-95 min | **Synthèse collective** : quelle posture professionnelle ai-je construite ? | Travail collectif |
+| 95-110 min | Cadrage du travail final et des 3 controverses à mobiliser | Exposé |
+| 110-120 min | Clôture | Discussion |
+
+## Cadre théorique
+
+### Sexualités handicapées et assistance sexuelle
+
+Pierre Brasseur [@brasseur2024] enquête sur l'émergence et l'institutionnalisation de l'**assistance sexuelle** en Europe francophone (Suisse, Belgique, France). L'assistance sexuelle se situe à la frontière du travail du care, du travail du sexe et des politiques du handicap.
+
+Trois tensions analysées :
+
+| Tension | Position A | Position B |
+|---|---|---|
+| **Droit à la sexualité** | Reconnaître l'autodétermination sexuelle | Risque de marchandisation |
+| **Statut professionnel** | Travail du care féminisé | Travail du sexe stigmatisé |
+| **Cadre légal** | CDPH art. 22 (vie privée) | Cadre pénal sur la prostitution |
+
+En Suisse, l'**association SEHP** forme des assistant·es sexuel·les. Un éducateur en institution genevoise peut être sollicité pour informer un résident de cette possibilité : posture professionnelle complexe entre droit à la sexualité, cadres institutionnels et convictions personnelles.
+
+::: {.callout-important appearance="simple"}
+## Question vive
+L'assistance sexuelle reconduit-elle des rapports de genre et de classe dans le travail du care ? [@brasseur2024] problématise sans trancher. C'est précisément la position qu'un cours universitaire doit modeler : poser les termes du débat sans imposer une conclusion.
+:::
+
+### Violences sexuelles et angles morts institutionnels
+
+Brasseur, Robert et Garré (R1 acceptée, *Social Science and Medicine*, 2026) documentent les angles morts institutionnels dans la prise en charge des violences sexuelles subies par les enfants en situation de handicap.
+
+Trois angles morts récurrents :
+
+1. **Sous-signalement** : les violences sont moins reconnues et moins signalées dans le champ du handicap
+2. **Parcours de soin défaillants** : les services généralistes (police, justice, médecine légale) sont peu adaptés aux personnes handicapées
+3. **Prévention insuffisante** : les programmes de prévention sont rarement adaptés en FALC, peu déployés en institution
+
+### Articulation CDPH des droits
+
+| Article CDPH | Objet | Tension avec l'autre article |
+|---|---|---|
+| **Art. 16** | Protection contre l'exploitation, la violence et la maltraitance | Avec l'art. 22 : ne pas surveiller au nom de la protection |
+| **Art. 22** | Respect de la vie privée | Avec l'art. 16 : ne pas laisser sans recours au nom de l'intimité |
+
+Le TS doit naviguer ces deux exigences sans les opposer.
+
+### Synthèse collective
+
+Question structurante : *« Quelle posture professionnelle ai-je construite au fil des 8 séances ? »*
+
+Trois axes pour la réponse :
+
+1. **Mes outils théoriques** : quels modèles je mobilise spontanément ?
+2. **Mes vigilances** : quelles asymétries je m'oblige à interroger ?
+3. **Mes lieux d'action** : quelles marges je vais mobiliser en FP ?
+
+### Trois controverses (à mobiliser dans le travail final)
+
+| Controverse | Position A | Position B |
+|---|---|---|
+| Désinstitutionnalisation | Horizon réaliste à viser sans délai | Risque sans investissement préalable |
+| *Cash-for-care* | Vecteur d'autodétermination effective | Familialisme par le marché |
+| Participation | Avancée démocratique majeure | Nouvelle injonction sans transformation des rapports de pouvoir |
+
+Chaque controverse a été préparée dans une séance précédente :
+
+- **Désinstitutionnalisation** : séance 4 (Mansell-Beadle-Brown, ONU 2022)
+- ***Cash-for-care*** : séance 6 (Le Bihan et al., Glendinning, OFAS 2020)
+- **Participation** : séance 5 (Charlton, Brasseur-Rodriguez)
+
+## Lectures préparatoires (*jigsaw*)
+
+::: panel-tabset
+
+### Groupe A — Sexualité, assistance sexuelle
+
+[@brasseur2024], **introduction et chapitre 5** (40 pages).
+
+### Groupe B — Violences institutionnelles
+
+Brasseur, Robert & Garré (R1 acceptée 2026), *Sexual violence against children with disabilities*, *Social Science and Medicine* (25 pages, manuscrit complet anonymisé, compagnon FR).
+
+### Groupe C — Cadre éthique et droits
+
+[@onu2022], **sections sur articles 16 et 22** (10 pages).
+
+HAS (2024), *Vie affective et sexuelle des personnes accompagnées*, **synthèse** (15 pages).
+
+:::
+
+## Travail final (rendu 4 semaines après la séance 8)
+
+### Format
+
+Document de **12 pages** (5 000-7 000 mots), bibliographie comprise.
+
+### Consignes
+
+Analyser une situation rencontrée en formation pratique (ou un dispositif observé), **anonymisée** (sans noms, sans lieu identifiable).
+
+L'analyse doit :
+
+1. **Décrire** la situation et son contexte institutionnel (1 page)
+2. **Identifier** au moins 2 modèles du handicap à l'œuvre (2 pages)
+3. **Mobiliser** le cadre normatif suisse pertinent (1,5 page)
+4. **Analyser** une tension de posture rencontrée par les professionnel·les (2 pages)
+5. **Prendre position** sur l'une des trois controverses du cours (1,5 page)
+6. **Proposer** une transformation argumentée (1,5 page)
+7. **Réflexivité** sur votre propre position d'apprentissage (1 page)
+8. **Bibliographie** d'au moins 8 références du cours (1,5 page)
+
+### Critères d'évaluation
+
+| Critère | Pondération |
+|---|---|
+| Rigueur de la mobilisation théorique | 20 % |
+| Précision du cadrage normatif suisse | 15 % |
+| Qualité de l'analyse de tension de posture | 15 % |
+| Qualité de la prise de position sur une controverse | 15 % |
+| Argumentation de la proposition de transformation | 15 % |
+| Qualité de la réflexivité sur sa position | 10 % |
+| Qualité rédactionnelle et bibliographique | 10 % |
+
+## Bibliographie complète de la séance
+
+Voir Annexe C. Citations principales : @brasseur2024, @brasseurrodriguez2019.
+
+**Compléments** : Comité ONU CDPH (2022), articles 16 et 22. HAS (2024). Stiker, Puig & Huet (2014).
+
+## Slides
+
+[:material-presentation: Slides reveal.js de la séance 8](../slides/08-slides.qmd){.btn .btn-primary target="_blank"}

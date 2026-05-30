@@ -1,0 +1,112 @@
+---
+title: "Séance 6 — Financement orienté personne"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 6 · Cartographie politique III"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-10 min · Retour sur dispositifs
+- 10-30 min · Logique *cash-for-care*
+- 30-50 min · Contribution d'assistance AI
+- 50-70 min · Perspective comparée
+- 70-100 min · Simulation accompagnement
+- 100-115 min · Retour à Léa
+- 115-120 min · Synthèse
+
+## Trois objectifs
+
+1. Logique ***cash-for-care*** et ses ressorts politiques
+2. **Chiffres clés** de la contribution d'assistance AI
+3. **Perspective comparée** (FR, UK, NL)
+4. Accompagner concrètement une demande
+
+## Logique cash-for-care
+
+> *« Familialisme optionnel par le marché. »*
+>
+> — Le Bihan, Da Roit & Sopadzhiyan (2019)
+
+Trois conséquences :
+
+- **Autonomie de choix** accrue
+- **Précarisation** des care workers
+- **Logique de marché** dans le soin
+
+## Contribution d'assistance AI
+
+Introduite **1ᵉʳ janvier 2012** · 6ᵉ révision LAI.
+
+::: {.callout-note}
+**Chiffres OFAS 2020**
+
+- ~ 2 600 bénéficiaires fin 2019
+- 41 h/semaine moyenne
+- **81 % satisfaction**
+- Rares retours en home
+:::
+
+## Critiques structurelles
+
+- **Barrières administratives** lourdes
+- **Pénurie** d'assistant·es
+- **Non-extension** aux mineurs et aux curatelles de portée générale
+
+## Glendinning 2008
+
+> *« Personalisation marks a shift from the citizen-as-recipient to the citizen-as-purchaser of care. »*
+
+Déplacement **non neutre**.
+
+## Comparaison internationale
+
+| Pays | Dispositif | Année |
+|---|---|---|
+| Suisse | Contribution AI | 2012 |
+| France | PCH | 2005 |
+| Angleterre | *Direct payments* | 1996 |
+| Pays-Bas | PGB | 1995 |
+
+## Retour à Léa
+
+Léa **pas** sous curatelle de portée générale → **éligible**.
+
+Mais : sait-elle ? Sait-elle remplir ? Connaît-elle ses recours ?
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
+>
+> — Revillard (2020)
+
+## Trois acteurs genevois clés
+
+| Acteur | Rôle |
+|---|---|
+| Pro Infirmis Genève | Consultation sociale |
+| Cap-Contact | Auto-organisation |
+| Services sociaux institutionnels | Information |
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | OFAS (2020) + Inclusion Handicap (2022) |
+| B | Le Bihan et al. (2019) + Glendinning (2008) |
+| C | Fracheboud & Lehmann (2019) + AGILE.CH (2023) |
+
+## Travail pour la séance 7
+
+**Deuxième entrée du carnet de bord** (1 page) :
+
+Situation de FP où la mobilisation (ou non) d'un droit a transformé l'accompagnement.

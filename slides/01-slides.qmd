@@ -1,0 +1,118 @@
+---
+title: "Séance 1 — Histoires et grammaires du handicap"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 1 · Diagnostic historique"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-10 min · Introduction + vignette
+- 10-30 min · Anthropologie historique (Stiker)
+- 30-50 min · Sociologie du stigmate (Goffman)
+- 50-65 min · Catégorisation administrative
+- 65-110 min · *Jigsaw*
+- 110-120 min · Synthèse
+
+## Trois objectifs
+
+1. Distinguer **handicap construit** et **expérience corporelle**
+2. Identifier les **figures historiques** : protégé, déficient, inadapté, sujet de droits
+3. Reconnaître la **dimension politique** des catégorisations
+
+::: {.small}
+Compétences PEC20 : C1, C2, C7
+:::
+
+## La modernité comme paradigme
+
+> *« Réadapter, c'est ramener à la norme, à l'identique, et c'est par là même désigner comme différent. »*
+>
+> — Stiker (1982/2013)
+
+Le **paradoxe de la réadaptation** : l'opération même qui prétend effacer la différence la désigne.
+
+## Quatre figures historiques
+
+| Période | Figure | Logique |
+|---|---|---|
+| Avant XIXᵉ | Mendiant infirme | Charité, hôpital général |
+| XIXᵉ - mi-XXᵉ | Invalide | Compensation, pension |
+| Après 1945 | Inadapté | Réadaptation, rééducation |
+| Depuis 1990s | Sujet de droits | Inclusion, capabilités |
+
+::: {.callout-warning .small}
+Les figures **se superposent** dans les institutions concrètes. Aucune n'a disparu.
+:::
+
+## Goffman : le stigmate
+
+> *« Par définition, nous pensons qu'une personne ayant un stigmate n'est pas tout à fait humaine. »*
+>
+> — Goffman (1963/1975)
+
+Trois types : **corporel** · **de caractère** · **tribal**
+
+Trois positions : **normaux** · **stigmatisés** · ***initiés*** (les *wise*)
+
+## Concepts opérationnels
+
+- **Discrédité** (stigmate visible)
+- **Discréditable** (stigmate dissimulable)
+- ***Passing*** — dissimuler son stigmate (coût identitaire)
+- ***Covering*** — minimiser l'impact
+
+::: {.aside}
+Le TS occupe la position d'***initié·e*** : ni stigmatisé·e, ni « normal·e neutre ».
+:::
+
+## Ville-Fillion-Ravaud
+
+> *« Le handicap n'est pas un donné mais un construit historique, social et politique. »*
+
+La **catégorisation administrative** (AI, taux d'invalidité) ne décrit pas — elle **produit** ce qu'elle prétend décrire.
+
+Trois effets : **seuil** · **identité** · **pratique**.
+
+## Revillard : droits vulnérables
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
+>
+> — Revillard (2020)
+
+::: {.callout-tip}
+Le TS est un **opérateur d'effectivité** des droits.
+:::
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | Stiker (2013), chap. III |
+| B | Goffman (1975), intro + chap. 1 |
+| C | Ville-Fillion-Ravaud (2020), chap. 1 |
+| D | Revillard (2020), intro + chap. 1 |
+
+## Travail pour la séance 2
+
+Identifier **un dispositif** de FP qui illustre une figure historique vue en séance.
+
+5 lignes d'analyse à partager.
+
+## Pour aller plus loin
+
+- Blanc, *Sociologie du handicap* (2012)
+- Buton, *Les corps saisis par l'État* (2007)
+- Calvez, *La sociologie du handicap* (2000)
+- Brasseur, [carnet de recherche](https://pierrebrasseur.github.io/blog-recherche/)

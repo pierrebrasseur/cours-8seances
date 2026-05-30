@@ -1,0 +1,175 @@
+---
+title: "Séance 7 — Posture professionnelle : trois défis"
+subtitle: "Cartographie professionnelle"
+---
+
+::: {.callout-note appearance="simple"}
+## En bref
+**Mouvement** : Cartographie professionnelle. **Question structurante** : *Quels défis structurels traversent la pratique du TS ?* **Slides** : [voir](../slides/07-slides.qmd).
+:::
+
+## Objectifs d'apprentissage
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. Nommer les **trois défis structurels** (tensions) de la posture du TS
+2. Mobiliser la **clinique de l'activité** [@clot2008] et la *street-level bureaucracy* [@lipsky2010]
+3. Comprendre l'apport de l'**éthique du care** [@tronto2009] pour penser la vulnérabilité
+4. Reconnaître la dimension de **travail émotionnel** [@hochschild1983] du métier
+
+Compétences PEC20 ciblées : **C2, C7, C8, C9, C11**.
+
+## Plan minuté (2 h)
+
+| Temps | Contenu | Activité |
+|---|---|---|
+| 0-10 min | Partage de carnets de bord (2-3 situations) | Tour de table |
+| 10-30 min | **Défi 1 — Protection / Autonomie** | Exposé |
+| 30-50 min | **Défi 2 — Expertise / Savoir expérientiel** | Exposé |
+| 50-75 min | **Défi 3 — Travail prescrit / Travail réel** | Exposé |
+| 75-95 min | **Travail émotionnel** | Exposé |
+| 95-115 min | **Auto-confrontation** par binôme | Travail collectif |
+| 115-120 min | Synthèse | Discussion |
+
+## Cadre théorique
+
+![Trois défis structurels — protection/autonomie · expertise/expérientiel · prescrit/réel](../images/3-tensions.svg)
+
+### Défi 1 — Protection / Autonomie
+
+Robert Perske formule en 1972 l'une des phrases les plus citées du champ :
+
+> *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »*
+
+La **dignité du risque** signifie que les personnes ayant une déficience intellectuelle ont droit à prendre des risques ordinaires. Surprotéger nie l'humanité de la personne.
+
+L'**article 12 CDPH** opère le déplacement juridique : du paradigme tutélaire au paradigme du **soutien à la décision**.
+
+Joan Tronto [@tronto2009] déplace le care de l'éthique privée vers la philosophie politique :
+
+> *« Nous sommes tous des êtres vulnérables et dépendants. Il s'agit de redistribuer la responsabilité du care, non de la concentrer sur les plus faibles. »*
+
+Patricia Paperman et Sandra Laugier [@paperman2011] introduisent les *care ethics* en francophonie.
+
+### Défi 2 — Expertise / Savoir expérientiel
+
+James Charlton [@charlton1998] : *« Nothing about us without us. »* Plus qu'un slogan : une **épistémologie politique**.
+
+Brasseur et Rodriguez [@brasseurrodriguez2019] :
+
+> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. »*
+
+### Défi 3 — Travail prescrit / Travail réel
+
+Yves Clot [@clot1999 ; @clot2008] : la **clinique de l'activité**.
+
+Distinction centrale :
+
+| Niveau | Définition |
+|---|---|
+| **Travail prescrit** | Référentiels, procédures, contraintes du financement |
+| **Activité réalisée** | Ce qui est effectivement fait |
+| **Réel de l'activité** | Inclut aussi ce qui n'est pas fait, ce qui aurait pu être fait, ce qui est **empêché** |
+
+> *« Ce qui rend malade au travail, ce n'est pas le conflit, c'est l'impossibilité du conflit. »*
+>
+> --- @clot2008
+
+Michael Lipsky [@lipsky2010] : la *street-level bureaucracy*.
+
+> *« The decisions of street-level bureaucrats, the routines they establish, and the devices they invent to cope with uncertainties and work pressures effectively become the public policies they carry out. »*
+>
+> --- @lipsky2010, p. xii
+
+Vincent Dubois [@dubois2010] en a tiré une ethnographie de référence du guichet.
+
+Catherine Lenzi et Alexandre Moine [@lenzimoine2025] : les marges du métier comme lieu d'invention professionnelle.
+
+### Le travail émotionnel
+
+Arlie Hochschild [@hochschild1983] :
+
+> *« This labor requires one to induce or suppress feeling in order to sustain the outward countenance that produces the proper state of mind in others. »*
+>
+> --- @hochschild1983, p. 7
+
+Annoncer un refus AI, accompagner une fin de droits, recadrer un proche : autant de situations où le travail émotionnel est central, **invisible dans les fiches de poste**, coûteux psychiquement.
+
+### Le praticien réflexif
+
+Donald Schön [@schon1994] :
+
+> *« Les praticiens compétents en savent généralement plus qu'ils ne peuvent en dire. »*
+
+::: {.callout-important appearance="simple"}
+## Synthèse opérationnelle
+
+| Outil théorique | Question pour la pratique |
+|---|---|
+| Clinique de l'activité | Quelle est mon activité empêchée aujourd'hui ? |
+| *Street-level bureaucracy* | Quelle marge discrétionnaire ai-je mobilisée cette semaine ? |
+| Travail émotionnel | Quelles émotions ai-je dû gérer pour faire mon travail ? |
+| Praticien réflexif | Que m'a appris cette situation que je ne savais pas avant ? |
+:::
+
+## Lectures préparatoires (*jigsaw*)
+
+::: panel-tabset
+
+### Groupe A — Care et protection
+
+[@tronto2009], **chapitres 1 et 4** (40 pages).
+
+Perske (1972), The dignity of risk (4 pages, compagnon FR).
+
+### Groupe B — Clinique de l'activité et street-level bureaucracy
+
+[@clot2008], **chapitres 1 et 3** (40 pages).
+
+[@lipsky2010], **chapitres 1, 5, 11** (40 pages, compagnon FR).
+
+### Groupe C — Marges et travail émotionnel
+
+[@lenzimoine2025], **introduction + 2 chapitres au choix** (40 pages).
+
+[@hochschild1983], **introduction et chapitre 1** (30 pages, compagnon FR).
+
+:::
+
+## Auto-évaluation
+
+::: {.callout-tip collapse="true"}
+## Exercice : identifier la tension
+
+Une éducatrice rapporte : *« Léa veut prendre seule le tram pour aller travailler. Le règlement de l'institution interdit la circulation seule. La cheffe d'équipe dit que c'est pour notre protection juridique. »* Quel défi est à l'œuvre ? Quels outils mobiliser ?
+
+### Réponse
+
+**Défi 1 — Protection / Autonomie**.
+
+Outils théoriques :
+
+- **Dignité du risque** [@perske1972] : *« There can be such a thing as human dignity in risk. »*
+- **Art. 12 CDPH** : capacité juridique universelle, paradigme du soutien à la décision
+- **Éthique du care** [@tronto2009] : redistribuer la responsabilité du care plutôt que confiner la personne dans un statut de protégée
+
+Outils pratiques :
+
+- Travail d'équipe sur les **critères** d'évaluation du risque
+- Articulation avec la **clinique de l'activité** [@clot2008] : que dit le « règlement » du travail prescrit qui empêche l'équipe d'exercer son métier ?
+- Médiation avec la cheffe d'équipe en mobilisant le cadre légal
+:::
+
+## Travail attendu pour la séance 8
+
+**Troisième entrée du carnet de bord** (1 page) : auto-confrontation sur une situation où vous avez ressenti une tension (entre les trois identifiées). Quels concepts mobiliseriez-vous pour la penser ?
+
+## Bibliographie complète de la séance
+
+Voir Annexe C. Citations principales : @brasseurrodriguez2019, @charlton1998, @clot1999, @clot2008, @dubois2010, @hochschild1983, @lenzimoine2025, @lipsky2010, @paperman2011, @perske1972, @schon1994, @tronto2009.
+
+**Compléments** : Fisher & Tronto (1990). Molinier (2013).
+
+## Slides
+
+[:material-presentation: Slides reveal.js de la séance 7](../slides/07-slides.qmd){.btn .btn-primary target="_blank"}

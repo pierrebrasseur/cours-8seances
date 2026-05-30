@@ -1,0 +1,118 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Handicap, autonomie et travail social"
+  subtitle: "Cours intensif en 8 séances — Bachelor TS · HETS Genève"
+  author:
+    - name: "Pierre Brasseur"
+      affiliation: "HETS Genève · HES-SO"
+      email: "pierre.brasseur@hetsge.ch"
+  date: "2026-06-05"
+  date-format: "DD MMMM YYYY"
+  description: |
+    Cours intensif en 8 séances de 2h, version condensée du module
+    Bachelor TS *Handicap, autonomie et travail social*. Architecture
+    pédagogique diagnostic → cartographie → application, ancrée dans
+    le contexte suisse et genevois. Chaque séance comporte un chapitre
+    développé et un jeu de slides reveal.js.
+  site-url: https://pierrebrasseur.github.io/cours-8seances/
+  repo-url: https://github.com/pierrebrasseur/cours-8seances
+  repo-branch: main
+  repo-actions: [edit, source, issue]
+  sharing: [twitter, linkedin]
+  downloads: [pdf, epub]
+  search:
+    location: sidebar
+    type: textbox
+  page-navigation: true
+  back-to-top-navigation: true
+  reader-mode: true
+  page-footer:
+    left: "© 2026 Pierre Brasseur · HETS Genève"
+    center: "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)"
+    right:
+      - icon: github
+        href: https://github.com/pierrebrasseur/cours-8seances
+      - icon: rss
+        href: https://pierrebrasseur.github.io/blog-recherche/
+  chapters:
+    - index.qmd
+    - part: "Diagnostic"
+      chapters:
+        - seances/01-grammaires.qmd
+    - part: "Cartographie théorique"
+      chapters:
+        - seances/02-modele-social.qmd
+        - seances/03-mdh-capabilites.qmd
+    - part: "Cartographie politique"
+      chapters:
+        - seances/04-desinstitutionnalisation.qmd
+        - seances/05-autodetermination.qmd
+        - seances/06-financement.qmd
+    - part: "Cartographie professionnelle"
+      chapters:
+        - seances/07-posture.qmd
+    - part: "Application"
+      chapters:
+        - seances/08-sexualite-synthese.qmd
+  appendices:
+    - appendices/A-evaluation.qmd
+    - appendices/B-cadre-suisse.qmd
+    - appendices/C-references.qmd
+
+bibliography: references.bib
+csl: https://www.zotero.org/styles/apa-fr
+link-citations: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    fontsize: 1.05em
+    linestretch: 1.7
+    mainfont: "Inter"
+    monofont: "JetBrains Mono"
+    code-copy: true
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    number-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    smooth-scroll: true
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    callout-appearance: simple
+    callout-icon: true
+
+  pdf:
+    documentclass: scrreprt
+    classoption: ["paper=a4", "fontsize=10pt"]
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.8cm
+      - right=2.8cm
+    colorlinks: true
+    linkcolor: "violet"
+    citecolor: "violet"
+    urlcolor: "violet"
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    pdf-engine: xelatex
+
+  epub:
+    toc: true
+    number-sections: true
+
+execute:
+  echo: false
+  warning: false
+
+lang: fr-CH

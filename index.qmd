@@ -1,0 +1,76 @@
+# Bienvenue {.unnumbered}
+
+::: {.callout-note appearance="simple"}
+## En bref
+Cours intensif Bachelor TS en **8 séances de 2 heures**, version condensée du module *Handicap, autonomie et travail social*. **3 ECTS** · 16 h présentiel + 60 h travail personnel · 18-30 étudiant·es.
+:::
+
+## Architecture
+
+Le cours suit une progression **diagnostic → cartographie → application**.
+
+| Séance | Titre | Mouvement |
+|---|---|---|
+| 1 | Histoires et grammaires du handicap | Diagnostic historique |
+| 2 | Modèle social et *disability studies* | Cartographie théorique I |
+| 3 | MDH-PPH et capabilités | Cartographie théorique II |
+| 4 | Désinstitutionnalisation | Cartographie politique I |
+| 5 | Autodétermination et pair-aidance | Cartographie politique II |
+| 6 | Financement orienté personne | Cartographie politique III |
+| 7 | Posture professionnelle : trois défis | Cartographie professionnelle |
+| 8 | Sexualité, violences, synthèse | Application |
+
+## Pour chaque séance
+
+::: {.callout-tip appearance="simple"}
+## Une matrice constante
+
+- **Objectifs d'apprentissage** alignés PEC20
+- **Plan minuté** de 2 h
+- **Cadre théorique** synthétisé avec citations situées
+- **3 lectures préparatoires** distribuées en *jigsaw* (un texte par sous-groupe)
+- **Bibliographie complète** (≈ 8-12 références citées dans le texte)
+- **Exemples d'application** en formation pratique
+- **Auto-évaluation** de fin de séance (1 exercice court)
+- **Slides reveal.js** téléchargeables
+:::
+
+## Téléchargements
+
+::: {.callout-important appearance="simple"}
+## Trois formats disponibles
+- :material-file-pdf-box: **PDF** — version imprimable, mise en page académique
+- :material-book: **EPUB** — pour liseuse ou lecture sur tablette
+- :material-presentation: **Slides reveal.js** — un jeu par séance, HTML interactif + PDF
+
+Les téléchargements sont accessibles depuis le sidebar (bouton **Download**).
+:::
+
+## Modalités d'évaluation
+
+| Modalité | Pondération | Échéance |
+|---|---|---|
+| Participation aux *jigsaws* (≥ 1 restitution) | 20 % | Continu |
+| Carnet de bord (3 entrées d'1 page) | 30 % | Continu |
+| Travail final (analyse de FP, 12 pages, ≥ 8 références) | 50 % | 4 sem. après s8 |
+
+## Méthode pédagogique
+
+Trois temps par séance :
+
+1. **Exposé cadré** (≈ 45 min) — l'enseignant pose concepts, controverses, jalons
+2. ***Jigsaw* sur lectures préparatoires** (≈ 45 min) — 3 lectures distribuées en amont, chaque sous-groupe restitue à plénière
+3. **Synthèse et ouverture** (≈ 30 min) — articulation, ouverture, lecture pour la séance suivante
+
+## Cadre éthique
+
+- Situations de FP partagées en séance : **anonymisées** (sans noms, sans lieu identifiable)
+- Séance 8 (sexualité, violences) : **cadre spécifique**, possibilité de se retirer
+- Pluralité des positions respectée, controverses internes présentées comme telles
+- Aucune référence présentée comme dogme
+
+## Liens
+
+- 🌐 **Site cours MkDocs** : [pierrebrasseur.github.io/cours-handicap-ts](https://pierrebrasseur.github.io/cours-handicap-ts/)
+- 📖 **Livre Quarto de la leçon probatoire** : [pierrebrasseur.github.io/handicap-autonomie-ts](https://pierrebrasseur.github.io/handicap-autonomie-ts/)
+- 📑 **Carnet de recherche** : [pierrebrasseur.github.io/blog-recherche](https://pierrebrasseur.github.io/blog-recherche/)

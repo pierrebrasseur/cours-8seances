@@ -1,0 +1,159 @@
+---
+title: "Séance 5 — Autodétermination et pair-aidance"
+subtitle: "Cartographie politique II"
+---
+
+::: {.callout-note appearance="simple"}
+## En bref
+**Mouvement** : Cartographie politique. **Question structurante** : *Comment soutenir l'autodétermination sans la transformer en injonction ?* **Slides** : [voir](../slides/05-slides.qmd).
+:::
+
+## Objectifs d'apprentissage
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. Distinguer **autodétermination** comme trait individuel et comme produit relationnel
+2. Mobiliser le **modèle de Wehmeyer** (autonomie, autorégulation, *empowerment*, autoréalisation)
+3. Identifier les **conditions d'une pair-aidance non extractive**
+4. Adopter une **vigilance épistémique** sur la division témoin / expert [@brasseurrodriguez2019]
+
+Compétences PEC20 ciblées : **C1, C3, C7, C9**.
+
+## Plan minuté (2 h)
+
+| Temps | Contenu | Activité |
+|---|---|---|
+| 0-10 min | Retour sur l'analyse de dispositif | Tour de table |
+| 10-30 min | **Ryan-Deci (2017)** : trois besoins psychologiques universels | Exposé |
+| 30-50 min | **Wehmeyer 1996, Lachapelle 2022** : modèle de l'autodétermination | Exposé |
+| 50-70 min | **Pair-aidance** : Jouet-Flora-Las Vergnas, HAS, Souesme | Exposé |
+| 70-95 min | **Vigilance épistémique** : la division témoin/expert | Exposé + discussion |
+| 95-115 min | **Étude de cas** : intégrer un·e pair-aidant·e dans un service social | Travail collectif |
+| 115-120 min | Synthèse | Discussion |
+
+## Cadre théorique
+
+### Ryan et Deci : trois besoins universels
+
+Richard Ryan et Edward Deci identifient trois besoins psychologiques fondamentaux **universels** [@ryandeci2017] :
+
+| Besoin | Définition | Question test |
+|---|---|---|
+| **Autonomie** | Agir en accord avec ses valeurs | La personne agit-elle selon ce qu'elle ressent juste ? |
+| **Compétence** | Éprouver son efficacité | La personne peut-elle voir l'effet de ses actions ? |
+| **Appartenance** | Être relié·e à autrui | La personne se sent-elle reconnue dans un collectif ? |
+
+> *« Autonomy, competence, and relatedness are not just preferences but universal psychological necessities. »*
+>
+> --- @ryandeci2017, p. 86
+
+::: {.callout-tip appearance="simple"}
+## Trois postures à distinguer
+- **Contrôler** l'autonomie de la personne accompagnée
+- **Contraindre** son autonomie
+- **Soutenir** son autonomie (*autonomy support*)
+
+Seule la troisième posture est compatible avec l'autodétermination. Les deux premières sont fréquentes en institution — sous des apparences bienveillantes.
+:::
+
+### Wehmeyer et l'agentivité causale
+
+Michael Wehmeyer [@wehmeyer1996] propose une opérationnalisation centrée sur le concept d'**agent causal** : agir comme le principal agent causal de sa propre vie.
+
+Quatre caractéristiques :
+
+1. **Autonomie comportementale**
+2. **Autorégulation**
+3. ***Empowerment* psychologique**
+4. **Autoréalisation**
+
+Lachapelle, Wehmeyer et Shogren (2022) prolongent avec la *Causal Agency Theory* : l'autodétermination n'est pas un trait individuel à entraîner mais un produit **relationnel et écosystémique**.
+
+::: {.callout-warning appearance="simple"}
+## Important
+Cette précision change tout pour la pratique du TS : *« développer l'autodétermination de la personne »* devient *« transformer l'écosystème pour que l'autodétermination devienne possible »*.
+
+L'objet de l'intervention se déplace de la personne vers les conditions environnementales et relationnelles de son agentivité.
+:::
+
+### La pair-aidance : cartographie et controverses
+
+Jouet, Flora et Las Vergnas cartographient pour la francophonie la production de savoirs spécifiques par les personnes concernées [@jouet2010] :
+
+> *« Les patients développent, au fil de l'expérience de la maladie, des savoirs spécifiques qui ne sont pas réductibles aux savoirs médicaux. »*
+
+À Genève, les recherches HETS de Manon Masse, Chloé Souesme et Yves Delessert documentent la pair-aidance dans le champ DI. Souesme [@souesme2024] propose une analyse opérationnelle : *« Des pair·e·s pour faciliter l'habitat autonome. »*
+
+La HAS (2022) a inscrit la pair-aidance dans ses recommandations de bonnes pratiques pour le secteur DI.
+
+### Vigilance épistémique : la division témoin / expert
+
+Brasseur et Rodriguez [@brasseurrodriguez2019] montrent que malgré la rhétorique participative, une division du travail épistémique persiste :
+
+> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. La participation se déploie selon une économie inégale de la parole. »*
+
+::: {.callout-important appearance="simple"}
+## Quatre conditions pour une pair-aidance non extractive
+1. **Co-construction structurelle** dès la conception
+2. **Pluralité représentée** (déficiences, classes, genres, âges)
+3. **Rétribution et formation** au niveau des autres experts
+4. **Transparence sur les rapports de pouvoir** entre valides et concerné·es
+:::
+
+## Lectures préparatoires (*jigsaw*)
+
+::: panel-tabset
+
+### Groupe A — Théorie de l'autodétermination
+
+[@ryandeci2017], **chapitres 1 et 5** (40 pages, compagnon FR).
+
+[@wehmeyer1996] (20 pages, compagnon FR).
+
+### Groupe B — Pair-aidance et savoirs expérientiels
+
+[@jouet2010] (25 pages).
+
+[@souesme2024] (15 pages).
+
+HAS (2022), *Autodétermination, participation et citoyenneté*, **synthèse** (15 pages).
+
+### Groupe C — Vigilance épistémique
+
+[@brasseurrodriguez2019] (20 pages).
+
+[@charlton1998], **introduction et chapitre 1** (35 pages, compagnon FR).
+
+:::
+
+## Auto-évaluation
+
+::: {.callout-tip collapse="true"}
+## Exercice : contrôle, contrainte ou soutien ?
+
+Une éducatrice dit à un résident DI : *« Tu as le droit de choisir entre l'atelier menuiserie et l'atelier cuisine, mais tu dois choisir, et si tu choisis pas, c'est moi qui choisis. »* Cette posture relève de laquelle des trois logiques (contrôle, contrainte, soutien) ?
+
+### Réponse
+
+Posture de **contrainte** déguisée en **soutien**.
+
+L'apparence : un choix est proposé (deux options). La réalité : il n'y a **pas de troisième option** (« ne pas choisir », « négocier une troisième option », « différer le choix »). L'absence de choix est punie par une décision externe.
+
+Une posture de **vrai soutien à l'autonomie** poserait : *« Quelles sont les options qui te plaisent ? Veux-tu qu'on en imagine d'autres ensemble ? Veux-tu prendre du temps pour décider ? »*
+
+Référence : [@ryandeci2017] sur la distinction *autonomy support* vs *controlling environment*.
+:::
+
+## Travail attendu pour la séance 6
+
+Identifier dans votre lieu de FP **un dispositif** mobilisant explicitement l'autodétermination ou la pair-aidance. Évaluer son fonctionnement à l'aune des conditions opérationnelles vues en séance.
+
+## Bibliographie complète de la séance
+
+Voir Annexe C. Citations principales : @brasseurrodriguez2019, @charlton1998, @jouet2010, @ryandeci2017, @souesme2024, @wehmeyer1996.
+
+**Compléments** : Deci & Ryan (2000). HAS (2022). Lachapelle, Wehmeyer & Shogren (2022). Pachoud & Corbière (2014). Shogren et al. (2015).
+
+## Slides
+
+[:material-presentation: Slides reveal.js de la séance 5](../slides/05-slides.qmd){.btn .btn-primary target="_blank"}

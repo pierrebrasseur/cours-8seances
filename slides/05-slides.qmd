@@ -1,0 +1,116 @@
+---
+title: "Séance 5 — Autodétermination et pair-aidance"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 5 · Cartographie politique II"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-10 min · Retour sur analyses
+- 10-30 min · Ryan-Deci 2017
+- 30-50 min · Wehmeyer 1996, Lachapelle 2022
+- 50-70 min · Pair-aidance
+- 70-95 min · Vigilance épistémique
+- 95-115 min · Étude de cas
+- 115-120 min · Synthèse
+
+## Trois objectifs
+
+1. **Autodétermination** : trait individuel vs produit relationnel
+2. Mobiliser le **modèle de Wehmeyer**
+3. Conditions d'une **pair-aidance non extractive**
+4. **Vigilance épistémique** sur la division témoin/expert
+
+## Ryan & Deci (2017)
+
+Trois besoins psychologiques **universels** :
+
+- **Autonomie**
+- **Compétence**
+- **Appartenance**
+
+> *« Autonomy, competence, and relatedness are not just preferences but universal psychological necessities. »*
+
+## Trois postures à distinguer
+
+| Posture | Question test |
+|---|---|
+| **Contrôler** | Imposer une direction |
+| **Contraindre** | Donner deux options sans tierce |
+| **Soutenir** | Élargir les options réelles |
+
+::: {.callout-tip}
+Seul le **soutien** est compatible avec l'autodétermination.
+:::
+
+## Wehmeyer : agentivité causale
+
+L'**agent causal** de sa propre vie.
+
+Quatre caractéristiques :
+
+1. Autonomie comportementale
+2. Autorégulation
+3. *Empowerment* psychologique
+4. Autoréalisation
+
+## Lachapelle 2022
+
+L'autodétermination = **produit relationnel et écosystémique**.
+
+Pas un trait individuel à entraîner.
+
+::: {.callout-warning}
+Le TS ne **développe** pas l'autodétermination de la personne.
+
+Il **transforme l'écosystème** pour qu'elle devienne possible.
+:::
+
+## Pair-aidance et savoirs expérientiels
+
+> *« Les patients développent, au fil de l'expérience de la maladie, des savoirs spécifiques qui ne sont pas réductibles aux savoirs médicaux. »*
+>
+> — Jouet, Flora & Las Vergnas (2010)
+
+À Genève : recherches Masse, Souesme, Delessert (HETS).
+
+## Vigilance épistémique
+
+> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. »*
+>
+> — Brasseur & Rodriguez (2019)
+
+**Économie inégale de la parole**.
+
+## Quatre conditions
+
+1. **Co-construction** structurelle dès la conception
+2. **Pluralité** représentée
+3. **Rétribution** et formation
+4. **Transparence** sur les rapports de pouvoir
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | Ryan & Deci (2017) + Wehmeyer (1996) |
+| B | Jouet et al. (2010) + Souesme (2024) + HAS (2022) |
+| C | Brasseur & Rodriguez (2019) + Charlton (1998) |
+
+## Travail pour la séance 6
+
+Identifier un dispositif de FP mobilisant l'autodétermination ou la pair-aidance.
+
+Évaluer son fonctionnement à l'aune des **quatre conditions**.

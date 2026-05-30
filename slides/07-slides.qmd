@@ -1,0 +1,120 @@
+---
+title: "Séance 7 — Posture professionnelle : trois défis"
+subtitle: "Cours intensif · Bachelor TS · HETS Genève"
+author: "Pierre Brasseur"
+date: "2026-06-05"
+format:
+  revealjs:
+    theme: [simple, ../slides-theme.scss]
+    slide-number: c/t
+    width: 1280
+    height: 720
+    margin: 0.08
+    transition: fade
+    footer: "Séance 7 · Cartographie professionnelle"
+    embed-resources: true
+    auto-stretch: true
+---
+
+## Plan de la séance
+
+- 0-10 min · Partage carnets de bord
+- 10-30 min · Défi 1 — Protection / Autonomie
+- 30-50 min · Défi 2 — Expertise / Expérientiel
+- 50-75 min · Défi 3 — Prescrit / Réel
+- 75-95 min · Travail émotionnel
+- 95-115 min · Auto-confrontation
+- 115-120 min · Synthèse
+
+## Trois objectifs
+
+1. Nommer les **trois défis** structurels
+2. Mobiliser **clinique de l'activité** + ***street-level bureaucracy***
+3. Comprendre l'**éthique du care**
+4. Reconnaître le **travail émotionnel**
+
+## Vue d'ensemble
+
+![](../images/3-tensions.svg)
+
+## Défi 1 — Protection / Autonomie
+
+> *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »*
+>
+> — Perske (1972)
+
+- **CDPH art. 12** : capacité juridique universelle
+- **Care éthique** (Tronto, Paperman, Laugier)
+
+## Tronto 2009
+
+> *« Nous sommes tous des êtres vulnérables et dépendants. Il s'agit de redistribuer la responsabilité du care, non de la concentrer sur les plus faibles. »*
+
+## Défi 2 — Expertise / Expérientiel
+
+> *« Nothing about us without us. »*
+>
+> — Charlton (1998)
+
+> *« Les personnes handicapées sont invitées à témoigner pendant que les valides en produisent l'analyse. »*
+>
+> — Brasseur & Rodriguez (2019)
+
+## Défi 3 — Prescrit / Réel
+
+> *« Ce qui rend malade au travail, ce n'est pas le conflit, c'est l'impossibilité du conflit. »*
+>
+> — Clot (2008)
+
+Trois niveaux :
+
+- Travail **prescrit**
+- Activité **réalisée**
+- **Réel de l'activité** (inclut l'empêché)
+
+## Lipsky 1980
+
+> *« The decisions of street-level bureaucrats... effectively become the public policies they carry out. »*
+
+Le TS = **producteur de politique publique au guichet**.
+
+::: {.small}
+Lipsky (1980/2010), p. xii
+:::
+
+## Lenzi & Moine 2025
+
+> *« Des pas de côté dans le travail social. Le métier dans toutes ses marges. »*
+
+Les **marges du métier** comme lieu d'invention professionnelle.
+
+## Travail émotionnel
+
+> *« This labor requires one to induce or suppress feeling in order to sustain the outward countenance that produces the proper state of mind in others. »*
+>
+> — Hochschild (1983), p. 7
+
+Annoncer un refus AI · accompagner une fin de droits · recadrer un proche.
+
+## Synthèse opérationnelle
+
+| Outil | Question pour la pratique |
+|---|---|
+| Clinique de l'activité | Quelle activité empêchée aujourd'hui ? |
+| *Street-level bureaucracy* | Quelle marge discrétionnaire cette semaine ? |
+| Travail émotionnel | Quelles émotions gérées pour travailler ? |
+| Praticien réflexif | Que m'a appris cette situation ? |
+
+## Lectures préparatoires (jigsaw)
+
+| Groupe | Texte |
+|---|---|
+| A | Tronto (2009) chap. 1 et 4 + Perske (1972) |
+| B | Clot (2008) chap. 1 et 3 + Lipsky (1980) chap. 1, 5, 11 |
+| C | Lenzi & Moine (2025) intro + 2 chap. + Hochschild (1983) intro + chap. 1 |
+
+## Travail pour la séance 8
+
+**Troisième entrée du carnet de bord** (1 page) :
+
+Auto-confrontation sur une situation où vous avez ressenti une tension. Quels concepts mobiliser ?
