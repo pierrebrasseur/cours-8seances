@@ -4,226 +4,117 @@ subtitle: "Cartographie théorique II"
 ---
 
 ::: {.callout-tip icon=false appearance="default"}
-## Au programme de cette séance
+## Au programme
 
-**Mouvement** · Cartographie théorique II
-**Question structurante** · Comment articuler personne et environnement dans une grille opérationnelle ?
-**Durée** · 2 heures
-**Lecture estimée** · 35 minutes
+Mouvement · Cartographie théorique II
+Question structurante · Comment articuler personne et environnement dans une grille opérationnelle ?
+Durée · 2 heures
+Lecture estimée · 35 minutes
 
-Trois cadres convergents : le MDH-PPH québécois de Fougeyrollas, l'approche par les capabilités de Sen et Nussbaum, la CDPH ONU 2006. Application finale à la vignette de Léa avec les quatre modèles.
+Trois cadres convergents : le MDH-PPH québécois de Fougeyrollas [@fougeyrollas2010 ; @ripph2018], l'approche par les capabilités de Sen [@sen1985 ; @sen1992] et Nussbaum [@nussbaum2006 ; @nussbaum2000 ; @nussbaum2011], la CDPH ONU 2006 [@cdph2006 ; @quinn2002]. Application finale à la vignette de Léa avec les quatre modèles.
 
-À la fin, vous saurez **mobiliser le MDH-PPH** sur une situation concrète, **identifier les dix capabilités centrales**, **articuler la CDPH** avec la pratique du TS.
+À la fin, vous saurez mobiliser le MDH-PPH sur une situation concrète, identifier les dix capabilités centrales, articuler la CDPH avec la pratique du TS.
 
-**Slides** · [reveal.js de la séance 3](../slides/03-slides.qmd)
+Slides · [reveal.js de la séance 3](../slides/03-slides.qmd)
 :::
 
 ## Objectifs d'apprentissage
 
-À l'issue de cette séance, l'étudiant·e sera capable de :
+À l'issue de cette séance, l'étudiant·e sera capable de mobiliser le MDH-PPH pour analyser une situation concrète [@fougeyrollas2010 ; @fougeyrollas2002 ; @fougeyrollas1998 ; @masse2018] ; d'identifier les dix capabilités centrales de Nussbaum et leur portée évaluative [@nussbaum2006 ; @nussbaum2011 ; @robeyns2017] ; d'articuler le cadre normatif CDPH ONU 2006 avec les pratiques quotidiennes du TS [@cdph2006 ; @quinn2002 ; @bantekas2018 ; @kayess2008] ; et d'appliquer les quatre modèles du handicap à la vignette de Léa.
 
-1. Mobiliser le **MDH-PPH** pour analyser une situation concrète (facteurs personnels, environnementaux, habitudes de vie)
-2. Identifier les **dix capabilités centrales** de Nussbaum et leur portée évaluative
-3. Articuler le cadre normatif **CDPH ONU 2006** avec les pratiques quotidiennes du TS
-4. Appliquer les **quatre modèles** du handicap à la vignette de Léa
+Compétences PEC20 ciblées : C1, C2, C3, C4, C7.
 
-Compétences PEC20 ciblées : **C1, C2, C3, C4, C7**.
-
-## Plan minuté (2 h)
+## Plan minuté
 
 | Temps | Contenu | Activité |
 |---|---|---|
 | 0-10 min | Restitution des règlements analysés | Tour de table |
-| 10-35 min | **MDH-PPH** : Fougeyrollas, RIPPH, métaphore du funambule | Exposé |
-| 35-60 min | **Capabilités** : Sen, Nussbaum, dix capabilités centrales | Exposé |
-| 60-80 min | **CDPH ONU 2006** : articles 12, 19, 24 ; ratification suisse 2014 | Exposé |
-| 80-110 min | **Application à la vignette de Léa** : 4 modèles en action | Travail collectif |
+| 10-35 min | MDH-PPH : Fougeyrollas, RIPPH, métaphore du funambule | Exposé |
+| 35-60 min | Capabilités : Sen, Nussbaum, dix capabilités centrales | Exposé |
+| 60-80 min | CDPH ONU 2006 : articles 12, 19, 24 ; ratification suisse 2014 | Exposé |
+| 80-110 min | Application à la vignette de Léa : 4 modèles en action | Travail collectif |
 | 110-120 min | Synthèse | Discussion |
 
-## Cadre théorique
-
-### Le MDH-PPH : un modèle francophone interactif
+## Le MDH-PPH, un modèle francophone interactif
 
 ::: {.column-margin}
-**Patrick Fougeyrollas** est anthropologue, professeur titulaire au Département de réadaptation de l'Université Laval (Québec) et directeur du **RIPPH** (Réseau international du processus de production du handicap). Le RIPPH publie la revue *Développement humain, handicap et changement social*.
+Patrick Fougeyrollas est anthropologue, professeur titulaire au Département de réadaptation de l'Université Laval (Québec) et directeur du RIPPH (Réseau international du processus de production du handicap). Le RIPPH publie la revue *Développement humain, handicap et changement social*.
 :::
 
-Patrick Fougeyrollas développe le **Modèle de Développement Humain – Processus de Production du Handicap (MDH-PPH)** à partir des années 1990, en collaboration avec un réseau international de chercheur·es et de personnes concernées [@fougeyrollas2010].
-
-Le MDH-PPH se présente comme une **classification alternative** à la CIH (Classification internationale du handicap, OMS 1980) et complémentaire à la CIF (Classification internationale du fonctionnement, OMS 2001). Ses deux différences majeures :
-
-- Refuser le **vocabulaire des « déficiences »** qui pathologise la personne. Le MDH-PPH parle de **facteurs personnels** (organiques et identitaires).
-- Refuser la **causalité unilatérale** (déficience → incapacité → handicap). Le MDH-PPH propose une **interaction dynamique** entre facteurs personnels, habitudes de vie et facteurs environnementaux.
-
-#### Les trois éléments interactifs
+Patrick Fougeyrollas développe le Modèle de Développement Humain – Processus de Production du Handicap (MDH-PPH) à partir des années 1990, en collaboration avec un réseau international de chercheur·es et de personnes concernées [@fougeyrollas2010 ; @fougeyrollas1998 ; @ripph2018]. Le MDH-PPH se présente comme une classification alternative à la CIH (Classification internationale du handicap, OMS 1980) et complémentaire à la CIF (Classification internationale du fonctionnement, OMS 2001) [@oms2001 ; @fougeyrollas2002]. Ses deux différences majeures : refuser le vocabulaire des « déficiences » qui pathologise la personne — le MDH-PPH parle de facteurs personnels (organiques et identitaires) ; refuser la causalité unilatérale (déficience → incapacité → handicap) — le MDH-PPH propose une interaction dynamique entre facteurs personnels, habitudes de vie et facteurs environnementaux. Le modèle a essaimé en francophonie via le RIPPH [@boucher2003] et a structuré la recherche romande sur l'accessibilité et la participation sociale.
 
 ![Métaphore du funambule, du fil et de la toile](../images/mdh-pph.svg)
 
-Le modèle articule trois ensembles d'éléments qui interagissent :
-
-**Les facteurs personnels (le funambule)** — système organique (corps, cerveau, fonctionnement neuro-cognitif) et facteurs identitaires (âge, genre, parcours, valeurs, projets de vie).
-
-**Les habitudes de vie (le fil)** — activités courantes et rôles sociaux valorisés que la personne souhaite réaliser : se déplacer, communiquer, travailler, se loger, entretenir des relations, exercer une citoyenneté.
-
-**Les facteurs environnementaux (la toile)** — l'ensemble des conditions extérieures à la personne : politiques sociales, bâti, technologies, attitudes, famille, réseau social, accès financier.
-
-#### La situation de handicap est dynamique
-
-L'apport conceptuel décisif du MDH-PPH se trouve dans la définition de la **situation de handicap** :
-
-> *« Le handicap n'est pas une caractéristique de la personne mais le résultat contextuel d'une interaction. »* [@fougeyrollas2010]
-
-Une situation de handicap survient quand l'interaction entre les trois éléments **compromet la réalisation d'une habitude de vie**. À l'inverse, une **situation de participation sociale** survient quand l'interaction soutient la réalisation.
+Le modèle articule trois ensembles d'éléments qui interagissent. Les facteurs personnels (le funambule) regroupent système organique (corps, cerveau, fonctionnement neuro-cognitif) et facteurs identitaires (âge, genre, parcours, valeurs, projets de vie). Les habitudes de vie (le fil) désignent les activités courantes et rôles sociaux valorisés que la personne souhaite réaliser : se déplacer, communiquer, travailler, se loger, entretenir des relations, exercer une citoyenneté. Les facteurs environnementaux (la toile) couvrent l'ensemble des conditions extérieures à la personne : politiques sociales, bâti, technologies, attitudes, famille, réseau social, accès financier. L'apport conceptuel décisif du modèle se trouve dans la définition de la situation de handicap : *« Le handicap n'est pas une caractéristique de la personne mais le résultat contextuel d'une interaction »* [@fougeyrollas2010]. Une situation de handicap survient quand l'interaction entre les trois éléments compromet la réalisation d'une habitude de vie. À l'inverse, une situation de participation sociale survient quand l'interaction soutient la réalisation [@masse2018].
 
 ::: {.callout-note appearance="simple"}
 ## Exemple genevois
 
-Un jeune homme avec trouble du spectre autistique (TSA) cherche un stage. Lecture MDH-PPH :
-
-- **Facteurs personnels** : profil cognitif particulier, sensibilité aux stimuli sensoriels, compétences spécifiques (informatique, mémoire détaillée)
-- **Habitude de vie compromise** : accès à un stage rémunéré dans son domaine de formation
-- **Facteurs environnementaux obstacles** : entretiens d'embauche standardisés (oral, interactionnel), open spaces bruyants, absence de mentor
-- **Facteurs environnementaux facilitateurs possibles** : entretien en deux temps avec essai pratique, poste avec consignes écrites, supervision adaptée
-
-La situation de handicap **émerge** de l'interaction. Elle n'est pas dans la personne ni dans l'environnement, mais dans leur rencontre. Modifier un seul facteur environnemental (par exemple proposer un essai pratique) peut transformer la situation.
+Un jeune homme avec trouble du spectre autistique (TSA) cherche un stage. Lecture MDH-PPH : facteurs personnels — profil cognitif particulier, sensibilité aux stimuli sensoriels, compétences spécifiques (informatique, mémoire détaillée). Habitude de vie compromise — accès à un stage rémunéré dans son domaine de formation. Facteurs environnementaux obstacles — entretiens d'embauche standardisés (oral, interactionnel), open spaces bruyants, absence de mentor. Facteurs environnementaux facilitateurs possibles — entretien en deux temps avec essai pratique, poste avec consignes écrites, supervision adaptée. La situation de handicap émerge de l'interaction. Elle n'est pas dans la personne ni dans l'environnement, mais dans leur rencontre. Modifier un seul facteur environnemental (par exemple proposer un essai pratique) peut transformer la situation.
 :::
 
-#### L'outil MHAVIE
+Le RIPPH a développé la Mesure des habitudes de vie (MHAVIE), instrument standardisé qui évalue 12 catégories d'habitudes de vie (nutrition, condition corporelle, soins personnels, communication, habitation, déplacements, responsabilités, relations interpersonnelles, vie communautaire, éducation, travail, loisirs) sur des dimensions de réalisation et de satisfaction [@ripph2018]. L'instrument est validé en français. Il est utilisé en Suisse romande notamment dans les recherches HETS — *Accessibilité et participation sociale* [@masse2018] a mobilisé la MHAVIE dans 47 institutions romandes auprès d'environ 7 000 adultes avec déficience intellectuelle. Le RIPPH a également formalisé en 2018 une version révisée du modèle (MDH-PPH 2) [@ripph2018] qui affine la conceptualisation des facteurs personnels en distinguant systèmes organiques, aptitudes et facteurs identitaires.
 
-Le RIPPH a développé la **Mesure des habitudes de vie (MHAVIE)**, instrument standardisé qui évalue 12 catégories d'habitudes de vie (nutrition, condition corporelle, soins personnels, communication, habitation, déplacements, responsabilités, relations interpersonnelles, vie communautaire, éducation, travail, loisirs) sur des dimensions de réalisation et de satisfaction.
+Le MDH-PPH n'est pas sans limites. Sa complexité rend l'opérationnalisation difficile dans les dispositifs administratifs qui demandent des catégories simples (taux d'invalidité) [@tabin2019 ; @probst2017]. L'AI suisse ne sait pas évaluer une « situation de handicap variable » — elle cherche une incapacité stable mesurable. Par ailleurs, le MDH-PPH reste un modèle d'inspiration interactionniste mais ne mobilise pas la sociologie politique du handicap (pas de Foucault, pas de Marx, pas de Bourdieu). Il décrit les interactions sans toujours interroger les rapports de pouvoir qui les structurent [@oliver1990 ; @goodley2017]. C'est précisément l'apport du modèle social britannique (séance 2) et de l'approche par les capabilités.
 
-L'instrument est validé en français. Il est utilisé en Suisse romande notamment dans les recherches HETS — *Accessibilité et participation sociale* [@masse2018] a mobilisé la MHAVIE dans 47 institutions romandes auprès d'environ 7 000 adultes avec déficience intellectuelle.
-
-#### Une critique du MDH-PPH
-
-Le MDH-PPH n'est pas sans limites. Sa **complexité** rend l'opérationnalisation difficile dans les dispositifs administratifs qui demandent des catégories simples (taux d'invalidité). L'AI suisse ne sait pas évaluer une « situation de handicap variable » — elle cherche une **incapacité stable** mesurable.
-
-Par ailleurs, le MDH-PPH reste un modèle d'**inspiration interactionniste** mais ne mobilise pas la sociologie politique du handicap (pas de Foucault, pas de Marx, pas de Bourdieu). Il décrit les interactions sans toujours interroger les rapports de pouvoir qui les structurent. C'est précisément l'apport du modèle social britannique (séance 2) et de l'approche par les capabilités.
-
-### L'approche par les capabilités : de Sen à Nussbaum
+## L'approche par les capabilités
 
 ::: {.column-margin}
-**Amartya Sen** est économiste, prix Nobel 1998. **Martha Nussbaum** est philosophe, professeure à l'Université de Chicago. Leur collaboration intellectuelle commence dans les années 1980 au WIDER (Helsinki). Sen développe le cadre conceptuel, Nussbaum le décline pour les personnes vulnérables (femmes, enfants, personnes handicapées).
+Amartya Sen est économiste et philosophe, prix Nobel 1998. Martha Nussbaum est philosophe, professeure à l'Université de Chicago. Leur collaboration intellectuelle commence dans les années 1980 au WIDER (Helsinki). Sen développe le cadre conceptuel, Nussbaum le décline pour les personnes vulnérables (femmes, enfants, personnes handicapées).
 :::
 
-L'**approche par les capabilités** [@nussbaum2006] propose une alternative aux théories de la justice fondées sur la **distribution des ressources** (Rawls) ou sur la **maximisation de l'utilité** (utilitarisme).
+L'approche par les capabilités [@nussbaum2006 ; @sen1985 ; @sen1992] propose une alternative aux théories de la justice fondées sur la distribution des ressources (Rawls) ou sur la maximisation de l'utilité (utilitarisme). Sen part d'un constat empirique simple : deux personnes recevant les mêmes ressources peuvent avoir des opportunités très différentes. Une femme dans une société patriarcale et un homme avec les mêmes revenus n'ont pas les mêmes capabilités. Une personne handicapée et une personne valide avec les mêmes ressources n'ont pas les mêmes possibilités d'exercer leurs activités [@mitra2006 ; @burchardt2004]. Ce qui compte n'est donc pas ce que la personne possède mais ce qu'elle peut effectivement faire et être — sa capabilité réelle. Sen propose le concept de capabilité (*capability*) pour désigner cet ensemble d'opportunités réelles [@sen1985 ; @senpogge2009 ; @robeyns2017].
 
-#### L'argument central
+Martha Nussbaum [@nussbaum2006 ; @nussbaum2011] développe ce cadre en direction de la philosophie politique normative. Sa cible est explicite : la *Théorie de la justice* de John Rawls (1971). L'argument de Nussbaum contre Rawls peut se résumer ainsi : la construction rawlsienne suppose un contrat social passé entre des contractants libres, rationnels et productifs. Or les personnes lourdement handicapées (handicap intellectuel profond, polyhandicap) ne satisfont pas ces conditions. Rawls les renvoie à un traitement secondaire (compassion, charité) plutôt qu'à la justice première. Nussbaum considère ce traitement comme insuffisant philosophiquement et désastreux politiquement. Toute théorie de la justice doit pouvoir penser la place des personnes lourdement handicapées dès le départ, pas après coup [@nussbaum2007 ; @nussbaum2011].
 
-Sen part d'un constat empirique simple : **deux personnes recevant les mêmes ressources peuvent avoir des opportunités très différentes**. Une femme dans une société patriarcale et un homme avec les mêmes revenus n'ont pas les mêmes capabilités. Une personne handicapée et une personne valide avec les mêmes ressources n'ont pas les mêmes possibilités d'exercer leurs activités.
-
-Ce qui compte n'est donc pas ce que la personne **possède** mais ce qu'elle peut effectivement **faire et être**. Sen propose le concept de **capabilité** (*capability*) pour désigner cet ensemble d'opportunités réelles.
-
-#### La critique de Rawls par Nussbaum
-
-Nussbaum [@nussbaum2006] développe ce cadre en direction de la philosophie politique normative. Sa cible est explicite : la *Théorie de la justice* de John Rawls (1971).
-
-L'argument de Nussbaum contre Rawls peut se résumer ainsi. La construction rawlsienne suppose un contrat social passé entre des **contractants libres, rationnels et productifs**. Or les personnes lourdement handicapées (handicap intellectuel profond, polyhandicap) ne satisfont pas ces conditions. Rawls les renvoie à un traitement secondaire (compassion, charité) plutôt qu'à la justice première.
-
-Nussbaum considère ce traitement comme **insuffisant** philosophiquement et **désastreux** politiquement. Toute théorie de la justice doit pouvoir penser la place des personnes lourdement handicapées **dès le départ**, pas après coup.
-
-#### Les dix capabilités centrales
-
-Pour fonder cette pensée, Nussbaum propose une liste de **dix capabilités centrales** dont la garantie effective est la condition d'une vie digne (*a life worthy of human dignity*). Sa liste fait l'objet de controverses (qui décide, quelle universalité ?), mais elle a l'avantage d'être opérationnellement utilisable.
+Pour fonder cette pensée, Nussbaum [@nussbaum2006] propose une liste de dix capabilités centrales dont la garantie effective est la condition d'une vie digne (*a life worthy of human dignity*). Sa liste fait l'objet de controverses [@robeyns2017] — qui décide, quelle universalité ? — mais elle a l'avantage d'être opérationnellement utilisable.
 
 ::: {.callout-note appearance="simple"}
 ## Les dix capabilités centrales (Nussbaum 2006)
 
-1. **Vie** — pouvoir vivre une vie d'une durée normale, pas écourtée prématurément
-2. **Santé corporelle** — accès à la santé, à une nutrition adéquate, à un logement décent
-3. **Intégrité corporelle** — sécurité corporelle, libre déplacement, choix sexuel et reproductif
-4. **Sens, imagination, pensée** — accès à l'éducation, à l'expression, aux arts
-5. **Émotions** — capacité d'aimer, de pleurer, de vivre des émotions sans craindre
-6. **Raison pratique** — capacité de former une conception du bien et de planifier sa vie
-7. **Affiliation** — vivre avec et pour les autres ; bases sociales du respect de soi
-8. **Autres espèces** — vivre en relation avec la nature et les animaux
-9. **Jeu** — rire, jouer, profiter d'activités récréatives
-10. **Contrôle de son environnement** — au sens politique (participer aux choix) et matériel (propriété, travail, ressources)
+1. Vie — pouvoir vivre une vie d'une durée normale, pas écourtée prématurément
+2. Santé corporelle — accès à la santé, à une nutrition adéquate, à un logement décent
+3. Intégrité corporelle — sécurité corporelle, libre déplacement, choix sexuel et reproductif
+4. Sens, imagination, pensée — accès à l'éducation, à l'expression, aux arts
+5. Émotions — capacité d'aimer, de pleurer, de vivre des émotions sans craindre
+6. Raison pratique — capacité de former une conception du bien et de planifier sa vie
+7. Affiliation — vivre avec et pour les autres ; bases sociales du respect de soi
+8. Autres espèces — vivre en relation avec la nature et les animaux
+9. Jeu — rire, jouer, profiter d'activités récréatives
+10. Contrôle de son environnement — au sens politique (participer aux choix) et matériel (propriété, travail, ressources)
 :::
 
-#### Capabilité vs fonctionnement
-
-Une distinction importante chez Sen et Nussbaum : la capabilité (*capability*) n'est pas le fonctionnement (*functioning*) effectif. Une personne **peut être capable** de manger sainement sans le faire (par choix). Ce qui compte pour la justice est la capabilité, pas le fonctionnement effectif — la liberté de choisir.
-
-Cette distinction est centrale pour le handicap. Une personne avec déficience intellectuelle peut « ne pas faire » certaines activités sociales — la question pour le TS est : **a-t-elle la capabilité** de les faire si elle le souhaite ? Sont-elles soutenues, ou est-elle de facto privée de la possibilité même de choisir ?
+Une distinction importante chez Sen et Nussbaum : la capabilité (*capability*) n'est pas le fonctionnement (*functioning*) effectif. Une personne peut être capable de manger sainement sans le faire (par choix). Ce qui compte pour la justice est la capabilité, pas le fonctionnement effectif — la liberté de choisir [@robeyns2017 ; @anand2009]. Cette distinction est centrale pour le handicap. Une personne avec déficience intellectuelle peut « ne pas faire » certaines activités sociales — la question pour le TS est : a-t-elle la capabilité de les faire si elle le souhaite ? Sont-elles soutenues, ou est-elle de facto privée de la possibilité même de choisir ? Cette interrogation rejoint celle de Lorella Terzi [@terzi2005] sur l'éducation inclusive et de Tania Burchardt [@burchardt2004] sur l'articulation du modèle social et de l'approche par les capabilités.
 
 ::: {.callout-important appearance="simple"}
 ## L'apport pour la pratique du TS
 
-L'approche par les capabilités déplace l'évaluation :
-
-| Logique des besoins | Logique des capabilités |
-|---|---|
-| Que manque-t-il à la personne ? | Que peut-elle être et faire ? |
-| Focalisation sur le déficit | Focalisation sur les opportunités réelles |
-| Réponse standardisée | Réponse personnalisée |
-
-L'évaluation d'un projet personnalisé qui ne couvre que **soins, hygiène, alimentation** passe sous silence les capabilités d'affiliation, de jeu, de contrôle de son environnement. Pour Nussbaum, c'est une **violence**.
+L'approche par les capabilités déplace l'évaluation. Là où la logique des besoins demande ce qui manque à la personne, la logique des capabilités demande ce qu'elle peut être et faire. L'évaluation d'un projet personnalisé qui ne couvre que soins, hygiène, alimentation passe sous silence les capabilités d'affiliation, de jeu, de contrôle de son environnement. Pour Nussbaum [@nussbaum2006 ; @nussbaum2011], c'est une violence.
 :::
 
-#### Capabilités en Suisse
+L'approche par les capabilités a été transposée en Suisse romande notamment par Jean-Michel Bonvin (sociologue, Université de Lausanne) [@bonvin2008], qui a traduit Sen en français et a mobilisé son cadre pour analyser les politiques sociales suisses (chômage, intégration, formation). Son livre *Amartya Sen. Une politique de la liberté* (Michalon, 2008) avec Nicolas Farvaque reste l'introduction francophone de référence.
 
-L'approche par les capabilités a été transposée en Suisse romande notamment par **Jean-Michel Bonvin** (sociologue, Université de Lausanne), qui a traduit Sen en français et a mobilisé son cadre pour analyser les politiques sociales suisses (chômage, intégration, formation). Son livre *Amartya Sen. Une politique de la liberté* (Michalon, 2008) avec Nicolas Farvaque reste l'introduction francophone de référence.
+## La CDPH ONU 2006
 
-### La CDPH ONU 2006 : le tournant des droits
+La Convention relative aux droits des personnes handicapées [@cdph2006] est adoptée par l'Assemblée générale de l'ONU le 13 décembre 2006 et ouverte à la signature le 30 mars 2007. C'est le huitième traité international des droits humains et le premier du XXIᵉ siècle [@quinn2002 ; @kayess2008]. La CDPH est notable par son processus de rédaction inclusif. Les négociations onusiennes (2002-2006) ont associé pour la première fois les organisations de personnes handicapées comme parties prenantes, pas seulement comme observatrices. Le slogan *« Nothing about us without us »* [@charlton1998] (séance 5) a structuré ces négociations. Theresia Degener [@degener2017], membre du Comité ONU CDPH (2011-2018), a proposé une lecture conceptuelle de la CDPH comme *« new human rights model of disability »* qui prolonge et dépasse le modèle social britannique.
 
-La **Convention relative aux droits des personnes handicapées** [@cdph2006] est adoptée par l'Assemblée générale de l'ONU le 13 décembre 2006 et ouverte à la signature le 30 mars 2007. C'est le **huitième traité international des droits humains** et le **premier du XXIᵉ siècle**.
+La Suisse a signé la CDPH le 15 avril 2014, avec entrée en vigueur le 15 mai 2014. Sa ratification a été tardive : adoptée en 2006, la CDPH avait déjà été ratifiée par la France (2010), l'Allemagne (2009), l'Autriche (2008). Le retard suisse s'explique par les controverses internes sur la portée fédérale du traité et sur la conformité du système suisse de curatelle [@tabin2019 ; @biglerschob2016]. La Suisse a émis trois réserves à la ratification — sur l'article 14 (liberté et sécurité de la personne), sur l'article 25 (santé), sur la possibilité d'adapter progressivement la législation —, réserves critiquées par le Comité ONU CDPH dans ses observations finales de 2022 [@onu2022].
 
-#### Le processus de rédaction
-
-La CDPH est notable par son **processus de rédaction inclusif**. Les négociations onusiennes (2002-2006) ont associé pour la première fois les organisations de personnes handicapées **comme parties prenantes**, pas seulement comme observatrices. Le slogan *« Nothing about us without us »* (Charlton, séance 5) a structuré ces négociations.
-
-#### La ratification suisse
-
-La Suisse a signé la CDPH le 15 avril 2014 (date de signature et de ratification), avec entrée en vigueur le 15 mai 2014. Sa ratification a été tardive : adoptée en 2006, la CDPH avait déjà été ratifiée par la France (2010), l'Allemagne (2009), l'Autriche (2008). Le retard suisse s'explique par les controverses internes sur la portée fédérale du traité et sur la conformité du système suisse de curatelle.
-
-La Suisse a émis **trois réserves** à la ratification :
-
-- Sur l'article 14 (liberté et sécurité de la personne) — concernant les hospitalisations sans consentement
-- Sur l'article 25 (santé) — concernant l'objection de conscience
-- Sur la possibilité d'**adapter progressivement** la législation
-
-Ces réserves ont été critiquées par le Comité ONU CDPH dans ses observations finales de 2022 [@onu2022].
-
-#### Trois articles structurants pour le TS
-
-La CDPH compte 50 articles. Pour le travail social, trois sont particulièrement structurants.
-
-**Article 12 — Reconnaissance de la personnalité juridique dans des conditions d'égalité**
-
-L'article 12 reconnaît la **capacité juridique universelle** des personnes handicapées. C'est l'article le plus contesté de la CDPH au moment de la ratification suisse, car il entre en tension avec le système de **curatelle de portée générale** (CC art. 398) qui reste massivement utilisé.
-
-Le Comité ONU CDPH a publié en 2014 une **Observation générale n° 1** qui interprète strictement l'article 12 : la curatelle de portée générale (substitution de décision) doit être remplacée par un **paradigme du soutien à la décision** (*supported decision-making*). En 2022, le Comité a rappelé à la Suisse que la pratique des curatelles reste excessivement restrictive [@onu2022, § 22-23].
+La CDPH compte 50 articles. Pour le travail social, trois sont particulièrement structurants. L'article 12 reconnaît la capacité juridique universelle des personnes handicapées. C'est l'article le plus contesté de la CDPH au moment de la ratification suisse, car il entre en tension avec le système de curatelle de portée générale (CC art. 398) qui reste massivement utilisé. Le Comité ONU CDPH a publié en 2014 une Observation générale n° 1 [@cdph_og1] qui interprète strictement l'article 12 : la curatelle de portée générale (substitution de décision) doit être remplacée par un paradigme du soutien à la décision (*supported decision-making*) [@quinn2010 ; @maitre2021 ; @eyraud2016]. En 2022, le Comité a rappelé à la Suisse que la pratique des curatelles reste excessivement restrictive [@onu2022, § 22-23]. L'article 19 pose le droit de vivre dans la communauté avec la même liberté de choix que les autres personnes. Il implique trois éléments structurants — choix du lieu de vie et des personnes avec qui vivre, accès à des services de soutien à domicile et à l'assistance personnelle, accès aux services généraux sur la base de l'égalité [@cdph_og5]. Cet article cadre la désinstitutionnalisation (séance 4) [@mansell2010 ; @bigby2018]. L'article 24 pose le droit à une éducation inclusive de qualité dans le système ordinaire. Il cadre la transformation de l'école spécialisée vers l'école inclusive [@ebersold2017 ; @plaisance2007]. Le retard suisse en la matière est important : environ 50 % des élèves avec déficience intellectuelle sont encore scolarisés dans des structures séparées.
 
 ::: {.column-margin}
-**La curatelle de portée générale** suspend la capacité civile de la personne. Elle est encore prononcée pour des milliers de personnes en Suisse, principalement adultes avec déficience intellectuelle ou troubles psychiatriques sévères. Inclusion Handicap milite pour son abolition.
+La curatelle de portée générale suspend la capacité civile de la personne. Elle est encore prononcée pour des milliers de personnes en Suisse, principalement adultes avec déficience intellectuelle ou troubles psychiatriques sévères. Inclusion Handicap milite pour son abolition.
 :::
 
-**Article 19 — Autonomie de vie et inclusion dans la société**
-
-L'article 19 pose le droit de vivre dans la communauté avec la même liberté de choix que les autres personnes. Il implique trois éléments structurants :
-
-- Choix du lieu de vie et des personnes avec qui vivre
-- Accès à des services de soutien à domicile et à l'assistance personnelle
-- Accès aux services généraux sur la base de l'égalité
-
-Cet article cadre la **désinstitutionnalisation** (séance 4). Le Comité ONU CDPH a publié en 2017 une **Observation générale n° 5** qui interprète strictement : la désinstitutionnalisation suppose la fermeture des établissements résidentiels et leur remplacement par des services communautaires.
-
-**Article 24 — Éducation inclusive**
-
-L'article 24 pose le droit à une **éducation inclusive de qualité** dans le système ordinaire. Il cadre la transformation de l'école spécialisée vers l'école inclusive. Le retard suisse en la matière est important : environ 50 % des élèves avec déficience intellectuelle sont encore scolarisés dans des structures séparées.
-
-#### La portée juridique de la CDPH en Suisse
-
-Une question juridique sensible : la CDPH est-elle **directement applicable** (*self-executing*) en droit suisse ? Le Tribunal fédéral a tranché de manière différenciée selon les articles. L'article 12 a été jugé **non directement applicable** dans plusieurs arrêts ; l'article 9 (accessibilité) a été reconnu comme principe directeur. La CDPH ne supplante pas le droit suisse — elle l'**oriente**.
+Une question juridique sensible reste la portée de la CDPH en Suisse : la Convention est-elle directement applicable (*self-executing*) en droit suisse ? Le Tribunal fédéral a tranché de manière différenciée selon les articles. L'article 12 a été jugé non directement applicable dans plusieurs arrêts ; l'article 9 (accessibilité) a été reconnu comme principe directeur [@biglerschob2016 ; @maitre2021]. La CDPH ne supplante pas le droit suisse — elle l'oriente. Le commentaire international de référence est celui de Bantekas, Stein et Anastasiou [@bantekas2018], 1 380 pages article par article.
 
 ::: {.callout-important appearance="simple"}
 ## Pour la pratique du TS
 
-La CDPH n'est pas une baguette magique juridique. Mais elle est un **levier d'argumentation** puissant. Mobiliser un article CDPH dans un recours, un projet personnalisé, une demande d'aménagement, c'est inscrire la situation dans un horizon normatif que toutes les parties prenantes (institutions, financeurs, autorités) doivent au minimum prendre au sérieux.
+La CDPH n'est pas une baguette magique juridique. Mais elle est un levier d'argumentation puissant. Mobiliser un article CDPH dans un recours, un projet personnalisé, une demande d'aménagement, c'est inscrire la situation dans un horizon normatif que toutes les parties prenantes (institutions, financeurs, autorités) doivent au minimum prendre au sérieux.
 :::
 
-## Application : la vignette de Léa
+## Application à la vignette de Léa
 
 Revenons à la situation de Léa, 22 ans, trisomie 21, à L'Atelier de la Fondation Ensemble, qui demande *« un appartement à moi et un amoureux qui dort là »*. Sa mère demande à l'équipe de la *« raisonner »*.
 
@@ -231,72 +122,29 @@ Revenons à la situation de Léa, 22 ans, trisomie 21, à L'Atelier de la Fondat
 
 Appliquons les quatre modèles vus dans les séances 2 et 3.
 
-### Lecture 1 — Modèle médical-réadaptatif
+Lecture 1, modèle médical-réadaptatif. La demande de Léa est lue comme un symptôme : déni de sa déficience, fantasme inadapté à ses capacités, désir à canaliser [@stiker2013]. L'équipe peut être tentée de proposer un travail psycho-éducatif sur l'acceptation de ses limites. Action suggérée : bilan cognitif et fonctionnel, évaluation des risques psychologiques, accompagnement éducatif individualisé centré sur la « réalité » de ses possibilités. Risque : ne pas interroger l'environnement institutionnel et familial qui produit la dépendance.
 
-La demande de Léa est lue comme un **symptôme** : déni de sa déficience, fantasme inadapté à ses capacités, désir à canaliser. L'équipe peut être tentée de proposer un « travail psycho-éducatif » sur l'acceptation de ses limites.
+Lecture 2, modèle social. La demande de Léa est légitime [@oliver1990]. Le « problème » est ailleurs : le cadre institutionnel ne propose pas d'alternative à l'hébergement collectif, les financeurs ne reconnaissent pas l'habitat inclusif comme priorité, la formation des assistant·es à domicile est insuffisante. Action suggérée : faire évoluer le règlement de L'Atelier pour permettre la cohabitation avec un·e partenaire, identifier les barrières architecturales et procédurales à un appartement individuel, mobiliser le plan cantonal CDPH pour exiger une transformation de l'offre [@plancantonal2023]. Risque : minorer le besoin d'accompagnement quotidien que Léa pourrait éprouver [@crow1996 ; @shakespeare2014].
 
-**Action suggérée** : bilan cognitif et fonctionnel, évaluation des risques psychologiques, accompagnement éducatif individualisé centré sur la « réalité » de ses possibilités.
+Lecture 3, MDH-PPH. La demande de Léa s'inscrit dans une situation interactive [@fougeyrollas2010]. Facteurs personnels : 22 ans, trisomie 21, autonomie de communication, projet de couple. Habitudes de vie compromises : habitat individuel, vie affective et sexuelle. Facteurs environnementaux obstacles : institution résidentielle collective, mère protectrice, financement orienté établissement. Action suggérée : cartographier précisément obstacles et facilitateurs avec la MHAVIE [@masse2018], identifier des leviers de transformation par étapes (week-end seule, puis nuit seule, puis appartement supervisé), mobiliser des facilitateurs (pair-aidance, contribution d'assistance). Risque : la complexité du modèle peut paralyser l'action.
 
-**Risque** : ne pas interroger l'environnement institutionnel et familial qui produit la dépendance.
+Lecture 4, droits et capabilités. La demande de Léa active plusieurs capabilités centrales de Nussbaum [@nussbaum2006] : l'affiliation (vivre une relation amoureuse), le contrôle de son environnement (habiter chez soi), l'intégrité corporelle (avoir une vie affective et sexuelle). Le cadre juridique mobilisable est la CDPH article 12 (Léa n'est pas sous curatelle de portée générale, sa capacité juridique doit être reconnue) [@cdph_og1 ; @maitre2021], article 19 (droit à l'habitat dans la communauté) [@cdph_og5], article 22 (vie privée), article 23 (vie familiale). Action suggérée : reconnaître la légitimité juridique et éthique de la demande, mobiliser la contribution d'assistance AI [@ofas2020], soutenir le travail de la mère pour éviter qu'elle ne devienne substitut de décision, mettre en réseau avec Cap-Contact et Pro Infirmis Genève. Risque : effectivité variable [@revillard2020]. La demande peut être reconnue normativement mais demeurer impossible faute d'opérateur·trice qui la rende effective.
 
-### Lecture 2 — Modèle social
-
-La demande de Léa est légitime. Le « problème » est ailleurs : le cadre institutionnel ne propose pas d'**alternative** à l'hébergement collectif, les financeurs ne reconnaissent pas l'**habitat inclusif** comme priorité, la formation des assistant·es à domicile est insuffisante.
-
-**Action suggérée** : faire évoluer le règlement de L'Atelier pour permettre la cohabitation avec un·e partenaire ; identifier les barrières architecturales et procédurales à un appartement individuel ; mobiliser le plan cantonal CDPH pour exiger une transformation de l'offre.
-
-**Risque** : minorer le besoin d'accompagnement quotidien que Léa pourrait éprouver.
-
-### Lecture 3 — MDH-PPH
-
-La demande de Léa s'inscrit dans une situation interactive. **Facteurs personnels** : 22 ans, trisomie 21, autonomie de communication, projet de couple. **Habitudes de vie compromises** : habitat individuel, vie affective et sexuelle. **Facteurs environnementaux obstacles** : institution résidentielle collective, mère protectrice, financement orienté établissement.
-
-**Action suggérée** : cartographier précisément obstacles et facilitateurs avec la MHAVIE ; identifier des leviers de transformation par étapes (week-end seule, puis nuit seule, puis appartement supervisé) ; mobiliser des facilitateurs (pair-aidance, contribution d'assistance).
-
-**Risque** : la complexité du modèle peut paralyser l'action.
-
-### Lecture 4 — Droits + capabilités
-
-La demande de Léa active **plusieurs capabilités centrales** de Nussbaum : l'affiliation (vivre une relation amoureuse), le contrôle de son environnement (habiter chez soi), l'intégrité corporelle (avoir une vie affective et sexuelle). Le cadre juridique mobilisable est la CDPH article 12 (Léa n'est pas sous curatelle de portée générale, sa capacité juridique doit être reconnue), article 19 (droit à l'habitat dans la communauté), article 22 (vie privée), article 23 (vie familiale).
-
-**Action suggérée** : reconnaître la légitimité juridique et éthique de la demande ; mobiliser la contribution d'assistance AI ; soutenir le travail de la mère pour éviter qu'elle ne devienne substitut de décision ; mettre en réseau avec Cap-Contact et Pro Infirmis Genève.
-
-**Risque** : effectivité variable. La demande peut être reconnue normativement mais demeurer impossible faute d'opérateur·trice qui la rende effective.
-
-### Aucune lecture n'est *fausse*
+![Les quatre modèles, posture et risque](../images/4-modeles.svg)
 
 ::: {.callout-warning appearance="simple"}
 ## L'enseignement de l'exercice
 
-Aucune des quatre lectures n'est **fausse**. Chacune est **incomplète**.
+Aucune des quatre lectures n'est fausse. Chacune est incomplète. Le modèle médical capte une réalité : Léa a effectivement des limitations cognitives qui appellent un accompagnement adapté. Le modèle social capte une réalité : le cadre institutionnel ne soutient pas son projet. Le MDH-PPH capte une réalité : la situation est interactionnelle, plusieurs leviers sont possibles. Le modèle des droits et capabilités capte une réalité : la demande de Léa active des droits formellement reconnus.
 
-- Le modèle médical capte une réalité : Léa a effectivement des limitations cognitives qui appellent un accompagnement adapté.
-- Le modèle social capte une réalité : le cadre institutionnel ne soutient pas son projet.
-- Le MDH-PPH capte une réalité : la situation est interactionnelle, plusieurs leviers sont possibles.
-- Le modèle des droits + capabilités capte une réalité : la demande de Léa active des droits formellement reconnus.
-
-La posture professionnelle ne consiste pas à **choisir** un modèle. Elle consiste à **mobiliser plusieurs grammaires simultanément**, en explicitant ce que chaque modèle éclaire et ce qu'il occulte.
+La posture professionnelle ne consiste pas à choisir un modèle. Elle consiste à mobiliser plusieurs grammaires simultanément, en explicitant ce que chaque modèle éclaire et ce qu'il occulte.
 :::
 
 ## Exemples genevois supplémentaires
 
-### Le projet Sureaux
+Le projet Sureaux (Chêne-Bougeries, emménagement mars 2021) est un cas d'école romand d'habitat inclusif. 19 logements coopératifs dont 3 réservés à la Fondation Ensemble pour environ 12 résident·es avec déficience intellectuelle, partenariat avec la Codha. Le projet a reçu le 1ᵉʳ prix de Coopératives Habitat Suisse dans la catégorie « partenariat » [@plancantonal2023]. Lecture mobilisable : MDH-PPH — Sureaux transforme la toile (environnement bâti, voisinage, gouvernance coopérative) pour permettre de nouvelles habitudes de vie (vivre en immeuble ordinaire, partager des espaces communs avec des non-handicapé·es) ; capabilités — Sureaux soutient simultanément plusieurs capabilités (contrôle de l'environnement, affiliation, jeu) ; CDPH art. 19 — Sureaux concrétise le droit de vivre dans la communauté [@cdph_og5]. C'est un exemple à connaître pour le travail final et pour la pratique.
 
-Le **projet Sureaux** (Chêne-Bougeries, emménagement mars 2021) est un cas d'école romand d'habitat inclusif. 19 logements coopératifs dont 3 réservés à la Fondation Ensemble pour environ 12 résident·es avec déficience intellectuelle, partenariat avec la Codha. Le projet a reçu le 1ᵉʳ prix de Coopératives Habitat Suisse dans la catégorie « partenariat ».
-
-Lecture mobilisable :
-
-- **MDH-PPH** : Sureaux transforme la **toile** (environnement bâti, voisinage, gouvernance coopérative) pour permettre de nouvelles habitudes de vie (vivre en immeuble ordinaire, partager des espaces communs avec des non-handicapé·es)
-- **Capabilités** : Sureaux soutient simultanément plusieurs capabilités (contrôle de l'environnement, affiliation, jeu)
-- **CDPH art. 19** : Sureaux concrétise le droit de vivre dans la communauté
-
-C'est un exemple à connaître pour le travail final et pour la pratique.
-
-### La Commission cantonale d'indication (CCI)
-
-À Genève, la **CCI** rattachée à l'OAIS (Office de l'action, de l'insertion et de l'intégration sociales) statue sur l'orientation des personnes vers les Établissements pour personnes handicapées (EPH). Son fonctionnement illustre concrètement la **catégorisation administrative** au sens de Ville-Fillion-Ravaud (séance 1) : c'est elle qui détermine si une personne « relève » d'une catégorie ouvrant droit à une place subventionnée.
-
-La CCI est aussi un acteur central pour la **désinstitutionnalisation** (séance 4) : sans transformation de ses critères, l'orientation reste structurellement institutionnelle.
+À Genève, la Commission cantonale d'indication (CCI) rattachée à l'OAIS statue sur l'orientation des personnes vers les Établissements pour personnes handicapées (EPH). Son fonctionnement illustre concrètement la catégorisation administrative au sens de Ville, Fillion et Ravaud [@villefillion2020] (séance 1) : c'est elle qui détermine si une personne « relève » d'une catégorie ouvrant droit à une place subventionnée. La CCI est aussi un acteur central pour la désinstitutionnalisation (séance 4) : sans transformation de ses critères, l'orientation reste structurellement institutionnelle.
 
 ## Lectures préparatoires (*jigsaw*)
 
@@ -304,111 +152,73 @@ La CCI est aussi un acteur central pour la **désinstitutionnalisation** (séanc
 
 ### Groupe A — MDH-PPH
 
-[@fougeyrollas2010], **chapitres 2 et 4** (40 pages). [@masse2018], **introduction et chapitre 1** (30 pages).
+[@fougeyrollas2010], chapitres 2 et 4 (40 pages). [@masse2018], introduction et chapitre 1 (30 pages).
 
-**Questions guides** :
+Comment Fougeyrollas justifie-t-il son rejet du vocabulaire des déficiences ? Quels apports et limites du MDH-PPH pour le travail social romand selon Masse et al. ? Donnez un exemple où le MDH-PPH conduirait à une intervention que la CIF ne permettrait pas.
 
-- Comment Fougeyrollas justifie-t-il son **rejet du vocabulaire des déficiences** ?
-- Quels apports et limites du MDH-PPH pour le travail social romand selon Masse et al. ?
-- Donnez un exemple où le MDH-PPH conduirait à une intervention que la CIF ne permettrait pas.
+Compléments éventuels : Fougeyrollas 1998 [@fougeyrollas1998], RIPPH 2018 [@ripph2018], OMS CIF [@oms2001], Boucher [@boucher2003].
 
 ### Groupe B — Capabilités
 
-[@nussbaum2006], **introduction et chapitre 2** (45 pages, version française).
+[@nussbaum2006], introduction et chapitre 2 (45 pages, version française). Bonvin & Farvaque [@bonvin2008], chapitres 1 et 4 (30 pages).
 
-Bonvin & Farvaque (2008), *Amartya Sen. Une politique de la liberté*, **chapitres 1 et 4** (30 pages).
+Pourquoi Nussbaum considère-t-elle la théorie de Rawls comme insuffisante pour penser le handicap ? Quelles sont les trois capabilités que vous mobiliseriez en priorité pour évaluer une situation de FP ? Comment l'approche capabilité contre fonctionnement transforme-t-elle l'évaluation ?
 
-**Questions guides** :
-
-- Pourquoi Nussbaum considère-t-elle la théorie de Rawls comme **insuffisante** pour penser le handicap ?
-- Quelles sont les **trois capabilités** que vous mobiliseriez en priorité pour évaluer une situation de FP ?
-- Comment l'approche **capabilité vs fonctionnement** transforme-t-elle l'évaluation ?
+Compléments éventuels : Sen [@sen1985 ; @sen1992], Nussbaum *Creating Capabilities* [@nussbaum2011], Robeyns [@robeyns2017], Mitra [@mitra2006], Burchardt [@burchardt2004], Terzi [@terzi2005].
 
 ### Groupe C — CDPH
 
-[@cdph2006], **Préambule, articles 1, 3, 9, 12, 19, 24** (15 pages).
+[@cdph2006], Préambule, articles 1, 3, 9, 12, 19, 24 (15 pages). [@onu2022], § 1-25 (10 pages).
 
-[@onu2022], **§ 1-25** (10 pages).
+Pourquoi l'article 12 est-il considéré comme le plus contesté de la CDPH ? Quelles trois réserves la Suisse a-t-elle émises lors de la ratification ? Quelles critiques le Comité ONU CDPH adresse-t-il à la Suisse en 2022 ?
 
-**Questions guides** :
-
-- Pourquoi l'**article 12** est-il considéré comme le plus contesté de la CDPH ?
-- Quelles **trois réserves** la Suisse a-t-elle émises lors de la ratification ? Sont-elles justifiées ?
-- Quelles critiques le Comité ONU CDPH adresse-t-il à la Suisse en 2022 ?
+Compléments éventuels : Quinn & Degener [@quinn2002], Bantekas et al. [@bantekas2018], Degener [@degener2017], Kayess & French [@kayess2008], Maître [@maitre2021], Comité OG n° 1 [@cdph_og1] et n° 5 [@cdph_og5].
 
 :::
 
 ## Pour aller plus loin
 
-**Pour le MDH-PPH approfondi** : RIPPH (2018), *Classification internationale Modèle de développement humain – Processus de production du handicap (MDH-PPH 2)* — version révisée et opérationnelle.
-
-**Pour les capabilités appliquées** : Otto & Ziegler (Eds.) (2010), *Capabilities — Handlungsbefähigung und Verwirklichungschancen in der Erziehungswissenschaft* (VS Verlag) — application aux sciences de l'éducation et au travail social.
-
-**Pour la CDPH en Suisse** : Maître (2021), *La capacité juridique des personnes avec handicap intellectuel* (Stämpfli) — analyse juridique de l'article 12 en droit suisse.
-
-**Commentaire de référence international** : Bantekas, Stein & Anastasiou (Eds.) (2018), *The UN Convention on the Rights of Persons with Disabilities. A Commentary* (Oxford University Press) — commentaire article par article (1 380 pages) considéré comme la référence académique.
+Pour le MDH-PPH approfondi, le RIPPH [@ripph2018] propose la version révisée et opérationnelle. Pour les capabilités appliquées, Otto et Ziegler proposent une application aux sciences de l'éducation et au travail social. Pour la CDPH en Suisse, Maître [@maitre2021] propose une analyse juridique de l'article 12 en droit suisse. Pour le commentaire international de référence, Bantekas, Stein et Anastasiou [@bantekas2018] proposent un commentaire article par article (1 380 pages). Pour la dimension empirique, Anand et collègues [@anand2009] ont développé des indicateurs de capabilité utilisables en enquête. Pour les enjeux philosophiques contemporains, Bickenbach, Felder et Schmitz [@bickenbach2014] proposent un dialogue entre approche par les capabilités et bonne vie humaine. Pour l'application en éducation inclusive, Terzi [@terzi2005] articule capability approach et besoins éducatifs particuliers. Sur la place de la dignité humaine, Nussbaum [@nussbaum2007] propose une réflexion politique systématique. Sur l'articulation entre approche par les capabilités et politiques publiques, Comim et Qizilbash [@senpogge2009] proposent une synthèse de référence.
 
 ## Auto-évaluation
 
 ::: {.callout-tip collapse="true"}
-## Exercice 1 : mobiliser une capabilité
+## Exercice 1 — mobiliser une capabilité
 
 Une personne polyhandicapée sans communication verbale, en foyer, ne participe à aucune activité collective. L'équipe écrit dans le projet personnalisé : *« Bien-être de base assuré. »* Que dirait Nussbaum ?
 
 ### Réponse
 
-Les **dix capabilités centrales** [@nussbaum2006] posent un seuil minimal pour qu'une vie soit *worthy of human dignity*. Y figurent notamment :
-
-- **L'affiliation** (vivre avec et pour les autres)
-- **Le jeu** (rire, jouer, profiter d'activités récréatives)
-- **Le contrôle de son environnement**
-
-Réduire l'évaluation au « bien-être de base » (soins, hygiène, alimentation), c'est **passer sous silence ces capabilités**. La personne est traitée comme objet de soin, non comme sujet d'une vie digne.
-
-Le TS qui mobilise Nussbaum dans son évaluation oblige l'équipe à se demander : *« Que faisons-nous pour soutenir l'affiliation et le jeu ? Comment savons-nous ce que la personne préfère, si elle ne peut pas le dire verbalement ? Quels indicateurs comportementaux mobilisons-nous ? »*
-
-L'enjeu n'est pas seulement éthique. Il est **juridique** : l'article 12 CDPH (soutien à la décision) implique de **présumer** la préférence et l'expression de la personne, même quand elle ne s'exprime pas verbalement.
+Les dix capabilités centrales [@nussbaum2006] posent un seuil minimal pour qu'une vie soit *worthy of human dignity*. Y figurent notamment l'affiliation (vivre avec et pour les autres), le jeu (rire, jouer, profiter d'activités récréatives), le contrôle de son environnement. Réduire l'évaluation au « bien-être de base » (soins, hygiène, alimentation), c'est passer sous silence ces capabilités. La personne est traitée comme objet de soin, non comme sujet d'une vie digne. Le TS qui mobilise Nussbaum dans son évaluation oblige l'équipe à se demander ce qu'elle fait pour soutenir l'affiliation et le jeu. L'enjeu n'est pas seulement éthique. Il est juridique : l'article 12 CDPH (soutien à la décision) [@cdph_og1 ; @maitre2021] implique de présumer la préférence et l'expression de la personne, même quand elle ne s'exprime pas verbalement.
 :::
 
 ::: {.callout-tip collapse="true"}
-## Exercice 2 : appliquer le MDH-PPH
+## Exercice 2 — appliquer le MDH-PPH
 
 Reprenez la situation de Madame T. (sclérose en plaques, vue en séance 1). Elle pourrait bénéficier de la contribution d'assistance AI mais hésite. Comment cartographier sa situation avec le MDH-PPH ?
 
 ### Réponse
 
-**Facteurs personnels** :
+Facteurs personnels — organiques (système nerveux central, sclérose en plaques évolutive, troubles moteurs) et identitaires (56 ans, femme, travailleuse, refus de l'étiquette « handicapée ») [@fougeyrollas2010]. Habitudes de vie compromises — déplacements (fatigue), travail (mi-temps imposé), soins personnels (assistance pour certaines tâches), vie sociale (renoncement à certaines activités par fatigue) [@masse2018]. Facteurs environnementaux : obstacles — sa propre réticence identitaire (auto-stigmatisation au sens de Goffman [@goffman1975]), complexité administrative de la contribution d'assistance [@ofas2020], regard du milieu professionnel ; facilitateurs possibles — information par le médecin, accompagnement par le service social, exemples de pair·es ayant fait la démarche.
 
-- Organiques : système nerveux central (sclérose en plaques évolutive, troubles moteurs)
-- Identitaires : 56 ans, femme, travailleuse, refus de l'étiquette « handicapée »
-
-**Habitudes de vie compromises** : déplacements (fatigue), travail (mi-temps imposé), soins personnels (assistance pour certaines tâches), vie sociale (renoncement à certaines activités par fatigue)
-
-**Facteurs environnementaux** :
-
-- Obstacles : sa propre réticence identitaire (auto-stigmatisation au sens de Goffman), complexité administrative de la contribution d'assistance, regard du milieu professionnel
-- Facilitateurs possibles : information par le médecin, accompagnement par le service social, exemples de pair·es ayant fait la démarche
-
-Le MDH-PPH oriente vers une intervention **multidimensionnelle** : agir simultanément sur l'information (vulnérabilité informationnelle au sens de Revillard, séance 1), sur les démarches (vulnérabilité procédurale), sur l'identification (travail avec une pair-aidante, séance 5).
+Le MDH-PPH oriente vers une intervention multidimensionnelle : agir simultanément sur l'information (vulnérabilité informationnelle au sens de Revillard [@revillard2020], séance 1), sur les démarches (vulnérabilité procédurale), sur l'identification (travail avec une pair-aidante [@souesme2024], séance 5).
 :::
 
 ## Travail attendu pour la séance 4
 
-**Première entrée du carnet de bord** (1 page) : appliquer le MDH-PPH ou les dix capabilités à votre cas-fil de FP. Veillez à mobiliser **au moins deux références** du cours dans l'analyse.
+Première entrée du carnet de bord (1 page) : appliquer le MDH-PPH ou les dix capabilités à votre cas-fil de FP. Veillez à mobiliser au moins deux références du cours dans l'analyse.
 
 ## Bibliographie complète de la séance
 
-Voir Annexe C. Citations principales : @cdph2006, @fougeyrollas2010, @masse2018, @nussbaum2006, @onu2022.
+Voir Annexe C. Citations principales : @cdph2006, @fougeyrollas2010, @masse2018, @nussbaum2006, @onu2022, @sen1985.
 
-**Compléments** : Bantekas, Stein & Anastasiou (Eds.) (2018), *The UN Convention on the Rights of Persons with Disabilities. A Commentary*. Bonvin & Farvaque (2008), *Amartya Sen. Une politique de la liberté*. Comité ONU CDPH (2014), *Observation générale n° 1 sur l'article 12*. Comité ONU CDPH (2017), *Observation générale n° 5 sur l'article 19*. Maître (2021), *La capacité juridique des personnes avec handicap intellectuel*. Mitra (2006), *The capability approach and disability*. Otto & Ziegler (Eds.) (2010), *Capabilities*. Sen (1999), *Development as Freedom*.
+Compléments mobilisés dans la séance : Anand et al. [@anand2009], Bantekas et al. [@bantekas2018], Bickenbach et al. [@bickenbach2014], Bigler-Schöb & Gächter [@biglerschob2016], Bonvin & Farvaque [@bonvin2008], Boucher [@boucher2003], Burchardt [@burchardt2004], Comité OG n° 1 [@cdph_og1] et n° 5 [@cdph_og5], Crow [@crow1996], Degener [@degener2017], Ebersold [@ebersold2017], Eyraud [@eyraud2016], Fougeyrollas 1998 [@fougeyrollas1998] et 2002 [@fougeyrollas2002], Goffman [@goffman1975], Goodley [@goodley2017], Inclusion Handicap [@inclusionhandicap2022], Kayess & French [@kayess2008], Maître [@maitre2021], Mitra [@mitra2006], Nussbaum [@nussbaum2000 ; @nussbaum2007 ; @nussbaum2011], OFAS [@ofas2020], Oliver [@oliver1990], OMS [@oms2001], Plaisance [@plaisance2007], Plan cantonal [@plancantonal2023], Probst & Tabin [@probst2017], Quinn [@quinn2010], Quinn & Degener [@quinn2002], Revillard [@revillard2020], RIPPH [@ripph2018], Robeyns [@robeyns2017], Sen 1992 [@sen1992], Senpogge [@senpogge2009], Shakespeare [@shakespeare2014], Souesme [@souesme2024], Stiker [@stiker2013], Tabin et al. [@tabin2019], Terzi [@terzi2005], Villefillion [@villefillion2020].
 
 ## Fiches de lecture détaillées
 
-Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+Cette séance mobilise les auteurs suivants, traités en détail dans l'Annexe D :
 
 > Fougeyrollas · Nussbaum · Sen
-
-Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
 
 [:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
 
