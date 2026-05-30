@@ -362,6 +362,16 @@ Voir Annexe C. Citations principales : @brasseurrodriguez2019, @charlton1998, @j
 
 **Compléments** : Akrich & Méadel (2002), *Prendre ses médicaments / prendre la parole*. Deci & Ryan (2000). HAS (2022), *Autodétermination, participation et citoyenneté*. Lachapelle, Wehmeyer & Shogren (2022). Le Cardinal (2013). Pachoud & Corbière (2014). Ratzka (1990). Shogren & Wehmeyer (2017). Shogren et al. (2015), *Causal Agency Theory*.
 
+## Fiches de lecture détaillées
+
+Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+
+> Wehmeyer · Ryan & Deci · Charlton
+
+Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
+
+[:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
+
 ## Slides
 
 [:material-presentation: Slides reveal.js de la séance 5](../slides/05-slides.qmd){.btn .btn-primary target="_blank"}

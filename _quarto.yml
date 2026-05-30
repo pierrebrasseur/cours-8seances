@@ -64,6 +64,7 @@ book:
   appendices:
     - appendices/A-evaluation.qmd
     - appendices/B-cadre-suisse.qmd
+    - appendices/D-fiches-lecture.qmd
     - appendices/C-references.qmd
 
 bibliography: references.bib

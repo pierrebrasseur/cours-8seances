@@ -402,6 +402,16 @@ Voir Annexe C. Citations principales : @cdph2006, @fougeyrollas2010, @masse2018,
 
 **Compléments** : Bantekas, Stein & Anastasiou (Eds.) (2018), *The UN Convention on the Rights of Persons with Disabilities. A Commentary*. Bonvin & Farvaque (2008), *Amartya Sen. Une politique de la liberté*. Comité ONU CDPH (2014), *Observation générale n° 1 sur l'article 12*. Comité ONU CDPH (2017), *Observation générale n° 5 sur l'article 19*. Maître (2021), *La capacité juridique des personnes avec handicap intellectuel*. Mitra (2006), *The capability approach and disability*. Otto & Ziegler (Eds.) (2010), *Capabilities*. Sen (1999), *Development as Freedom*.
 
+## Fiches de lecture détaillées
+
+Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+
+> Fougeyrollas · Nussbaum · Sen
+
+Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
+
+[:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
+
 ## Slides
 
 [:material-presentation: Slides reveal.js de la séance 3](../slides/03-slides.qmd){.btn .btn-primary target="_blank"}

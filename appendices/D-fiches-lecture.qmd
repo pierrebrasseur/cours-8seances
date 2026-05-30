@@ -1,0 +1,601 @@
+# Fiches de lecture détaillées {.unnumbered}
+
+::: {.callout-tip appearance="simple"}
+## Mode d'emploi
+
+Cette annexe rassemble des **fiches de lecture détaillées** pour les auteurs et textes centraux du cours. Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et une **articulation aux séances du cours**.
+
+Ces fiches peuvent être lues :
+
+- **Avant chaque séance** pour préparer le *jigsaw*
+- **Comme support de révision** pour le travail final
+- **Comme entrée bibliographique** pour approfondir un auteur
+
+L'annexe couvre 24 fiches. Vous pouvez naviguer par auteur ou par séance.
+
+:::
+
+## Volet 1 — Modèles théoriques (séance 1)
+
+### Stiker, Henri-Jacques
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Henri-Jacques Stiker** (né en 1936) est anthropologue et historien français, directeur de recherche honoraire à l'EHESS (Centre d'études des mouvements sociaux). Ancien jésuite, il a consacré sa carrière à l'anthropologie historique du handicap, à l'éthique et aux politiques sociales. Il a fondé la revue *ALTER. European Journal of Disability Research*. Wikipédia : [Henri-Jacques Stiker](https://fr.wikipedia.org/wiki/Henri-Jacques_Stiker).
+:::
+
+**Texte central** : *Corps infirmes et sociétés. Essais d'anthropologie historique* (Aubier, 1982 ; 3ᵉ éd. Dunod, 2013) [@stiker2013].
+
+**Contexte d'écriture.** L'ouvrage paraît en 1982, dans un contexte où la France vient d'adopter la loi d'orientation en faveur des personnes handicapées (1975) et où le secteur médico-social s'institutionnalise. Stiker prend ses distances avec une lecture purement présentiste pour proposer une histoire longue.
+
+**Argument central.** Chaque société construit un rapport spécifique à l'infirmité. La modernité produit le paradigme de la **réadaptation** qui prétend ramener à la norme — mais ce faisant désigne nécessairement comme différent.
+
+**Cinq périodes archéologiques** structurent l'ouvrage :
+
+1. **Antiquité** — figure du signe (présage, marque divine)
+2. **Moyen Âge** — figure du pauvre du Christ (économie de la charité)
+3. **Âge classique** — figure de l'enfermé (Hôpital Général 1656)
+4. **XIXᵉ siècle médical** — figure du patient à classifier (Itard, Bourneville)
+5. **XXᵉ siècle réadaptatif** — figure de l'inadapté à réadapter
+
+**Citations.**
+
+> *« Réadapter, c'est ramener à la norme, à l'identique, et c'est par là même désigner comme différent. »* [@stiker2013]
+
+**Prolongements.** Stiker poursuit dans *Corps infirmes et sociétés* (1997), *Pour le débat démocratique. La question du handicap* (2000), *Quand la trace se fait signe* (2017) [@stiker2017]. Il a dirigé en 2014 avec Joël Puig et Alain Huet *Handicap et accompagnement* [@stiker2014].
+
+**Articulation au cours.** Mobilisé centralement en **séance 1**, repris en séance 8 pour la sexualité institutionnelle.
+
+**Pour approfondir.** Une lecture critique de Stiker depuis le contexte suisse : Tabin et al. (2019) [@tabin2019] qui analysent l'AI suisse en mobilisant la sociologie politique du handicap.
+
+### Goffman, Erving
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Erving Goffman** (1922-1982) est un sociologue américain d'origine canadienne, l'un des fondateurs de la sociologie de la vie quotidienne et de l'interactionnisme symbolique. Professeur à l'Université de Berkeley puis Pennsylvania, président de l'American Sociological Association en 1982 (juste avant son décès). Ses ouvrages majeurs ont été traduits en français aux Éditions de Minuit. Wikipédia : [Erving Goffman](https://fr.wikipedia.org/wiki/Erving_Goffman).
+:::
+
+**Texte central** : *Stigma. Notes on the Management of Spoiled Identity* (Prentice-Hall, 1963) ; trad. fr. *Stigmate. Les usages sociaux des handicaps* (Minuit, 1975) [@goffman1975].
+
+**Contexte d'écriture.** *Stigmate* est le troisième volet d'une trilogie sur l'identité, après *La présentation de soi dans la vie quotidienne* (1956) et *Asylums* (1961). Goffman développe sa **sociologie des interactions** à partir d'observations dans les institutions psychiatriques américaines.
+
+**Argument central.** Le stigmate n'est pas une propriété de la personne. C'est une **relation** entre un attribut et un stéréotype qui le dévalorise. La condition est interactionnelle.
+
+**Concepts opérationnels.**
+
+- **Trois types de stigmate** : corporel, de caractère, tribal
+- **Trois positions sociales** : normaux, stigmatisés, *initiés (the wise)*
+- **Discrédité** (stigmate visible) vs **discréditable** (stigmate dissimulable)
+- **Stratégies de gestion** : *passing*, *covering*, normalisation
+
+**Citations.**
+
+> *« La société établit les procédés de catégorisation des personnes et le complément d'attributs que l'on estime ordinaires et naturels pour les membres de chacune de ces catégories. »* [@goffman1975]
+
+> *« Par définition, nous pensons qu'une personne ayant un stigmate n'est pas tout à fait humaine. »* [@goffman1975]
+
+**Prolongements.** *Asylums* [@goffman1961] (trad. *Asiles*, [@goffman1968]) reste central pour penser les institutions totales et la mortification du moi. *Behavior in Public Places* (1963) et *Interaction Ritual* (1967) approfondissent la microsociologie des interactions.
+
+**Articulation au cours.** Mobilisé centralement en **séance 1**, repris en séance 4 (institutions), séance 7 (posture).
+
+**Pour approfondir.** Robert Murphy (1990) [@murphy1990] applique Goffman à l'expérience de la paraplégie ; texte saisissant de lecture goffmanienne à la première personne.
+
+### Revillard, Anne
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Anne Revillard** est sociologue, professeure à Sciences Po Paris (Observatoire sociologique du changement). Ses recherches portent sur les politiques publiques, le handicap, le genre, et la sociologie de la réception du droit. Elle co-dirige avec Pierre-Yves Baudot et d'autres chercheur·es le programme *Sociologie de l'action publique*.
+:::
+
+**Texte central** : *Des droits vulnérables. Handicap, action publique et changement social* (Presses de Sciences Po, 2020) [@revillard2020].
+
+**Contexte d'écriture.** L'ouvrage paraît dans le sillage de la loi française du 11 février 2005 sur l'égalité des droits et des chances des personnes handicapées. Revillard mobilise une enquête de plusieurs années auprès de personnes handicapées (récits de vie).
+
+**Argument central.** Les droits sociaux issus des grandes lois sont « vulnérables » : leur existence formelle ne garantit pas leur effectivité. Cette effectivité dépend de configurations institutionnelles et de ressources individuelles fragiles.
+
+**Concepts opérationnels.**
+
+- **Droits vulnérables** — entre proclamation et effectivité
+- **Travail des bénéficiaires** — l'effort que doivent fournir les personnes pour mobiliser un droit
+- **Réception du droit** — comment le droit est concrètement approprié (ou pas) par les destinataires
+
+**Citation.**
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »* [@revillard2020]
+
+**Prolongements.** Article méthodologique sur *La réception du droit du handicap* (2017) [@revillard2017]. Travaux en cours sur les inégalités d'accès aux droits.
+
+**Articulation au cours.** Mobilisée centralement en **séances 1 et 6**, fil rouge sur l'effectivité.
+
+**Pour approfondir.** Le cadre théorique mobilisé par Revillard renvoie à Lascoumes & Le Galès (2004) [@lascoumes2004] sur les *instruments d'action publique*.
+
+### Ville, Fillion, Ravaud
+
+::: {.callout-note appearance="simple"}
+## Biographies
+
+**Isabelle Ville** est sociologue, directrice de recherche INSERM, codirectrice de l'IRIS (Institut de recherche interdisciplinaire sur les enjeux sociaux). Elle a piloté l'enquête HID-1999 (Handicaps, incapacités, dépendance) en France.
+
+**Emmanuelle Fillion** est sociologue, professeure à l'EHESP. Travaux sur les minorités sexuelles et le handicap.
+
+**Jean-François Ravaud** (1953-2024) était épidémiologiste et chercheur INSERM. Pionnier français de l'épidémiologie sociale du handicap.
+:::
+
+**Texte central** : *Introduction à la sociologie du handicap. Histoire, politiques et expérience* (De Boeck, 2014 ; 2ᵉ éd. 2020) [@villefillion2020].
+
+**Contexte d'écriture.** L'ouvrage est conçu comme un **manuel** synthétique pour étudiant·es, articulant les apports français et internationaux. Il s'inscrit dans la lignée des manuels critiques de sociologie publiée chez De Boeck.
+
+**Argument central.** Le handicap n'est pas un donné mais un **construit historique, social et politique**. La sociologie du handicap a pour tâche de restituer cette construction.
+
+**Concepts opérationnels.**
+
+- **Construction sociale du handicap**
+- **Catégorie d'action publique**
+- **Trois effets de catégorisation** : seuil, identité, pratique
+
+**Citation.**
+
+> *« Le handicap n'est pas un donné mais un construit historique, social et politique. »* [@villefillion2020]
+
+**Prolongements.** Travaux d'Isabelle Ville en sociologie des risques génétiques et du diagnostic prénatal. Travaux d'Emmanuelle Fillion sur Lévitra, sexualité et handicap.
+
+**Articulation au cours.** Manuel de référence, mobilisé en **séances 1, 3, 8**.
+
+## Volet 2 — Modèle social et disability studies (séance 2)
+
+### Oliver, Michael
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Michael Oliver** (1945-2019) est sociologue britannique, professeur à l'Université de Greenwich. Tétraplégique suite à un accident de plongeon à 17 ans, il est l'un des fondateurs des *disability studies* britanniques. Ses ouvrages majeurs : *Social Work With Disabled People* (1983), *The Politics of Disablement* (1990), *Understanding Disability* (1996). Wikipédia : [Mike Oliver (disability advocate)](https://en.wikipedia.org/wiki/Mike_Oliver_(disability_advocate)).
+:::
+
+**Texte central** : *The Politics of Disablement* (Macmillan, 1990) [@oliver1990].
+
+**Contexte d'écriture.** L'ouvrage paraît à un moment de structuration politique du mouvement britannique du handicap. Le *Disability Discrimination Act* (1995) en sera l'une des conséquences politiques. Oliver mobilise une analyse marxisante héritée des années 1970.
+
+**Argument central.** Le handicap, tel que nous le connaissons, est un **produit historique du capitalisme industriel** qui exclut les corps non-productifs. La libération doit être politique et collective.
+
+**Concepts opérationnels.**
+
+- ***Disabling society***
+- ***Disablism*** (handicap-isme)
+- ***Disabled people*** vs *people with disabilities*
+- **Auto-organisation** (*self-organisation*) des concerné·es
+
+**Citation.**
+
+> *« The way our needs are interpreted in terms of "their" definitions of "our" lives is one of the major issues confronting disabled people. »* (1990)
+
+**Prolongements.** Oliver écrit avec Jane Campbell *Disability Politics* (1996) [@campbell1996], histoire du mouvement britannique. Avec Colin Barnes : *Disability Studies. A New Field?* (Polity, 2012) et *The New Politics of Disablement* (Palgrave, 2012).
+
+**Articulation au cours.** Mobilisé centralement en **séance 2**, repris en séances 5 et 7.
+
+**Pour approfondir.** L'extension *critical disability studies* avec Goodley [@goodley2017]. La critique féministe avec Crow [@crow1996] et Morris [@morris1991].
+
+### UPIAS
+
+::: {.callout-note appearance="simple"}
+## Histoire
+
+L'**Union of the Physically Impaired Against Segregation (UPIAS)** est une organisation militante britannique fondée en 1972 par Paul Hunt après une correspondance publique dans *The Guardian*. Premier secrétaire : Vic Finkelstein, sociologue sud-africain anti-apartheid réfugié au Royaume-Uni. UPIAS s'est dissoute formellement en 1990 après avoir essaimé ses militants vers le *British Council of Organisations of Disabled People*. Wikipédia : [Union of the Physically Impaired Against Segregation](https://en.wikipedia.org/wiki/Union_of_the_Physically_Impaired_Against_Segregation).
+:::
+
+**Texte central** : *Fundamental Principles of Disability* (1976) [@upias1976], document de 12 pages négocié avec la *Disability Alliance* de Peter Townsend.
+
+**Argument central.** Le handicap est imposé aux personnes déficientes par la manière dont la société les exclut. C'est la rupture conceptuelle fondatrice du modèle social britannique.
+
+**Citation centrale.**
+
+> *« Disability is something imposed on top of our impairments by the way we are unnecessarily isolated and excluded from full participation in society. »* [@upias1976]
+
+**Prolongements.** Vic Finkelstein (1980) [@finkelstein1980] systématise les principes UPIAS. Colin Barnes (1991) [@barnes1991] les applique à la situation britannique.
+
+**Articulation au cours.** Mobilisé centralement en **séance 2**.
+
+### Shakespeare, Tom
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Tom Shakespeare** (né en 1966) est sociologue britannique, professeur à la *London School of Hygiene and Tropical Medicine*. Atteint d'achondroplasie (nanisme), il est l'un des critiques internes les plus systématiques du modèle social britannique. Petit-fils du baron Shakespeare. Wikipédia : [Tom Shakespeare](https://en.wikipedia.org/wiki/Tom_Shakespeare).
+:::
+
+**Texte central** : *Disability Rights and Wrongs* (Routledge, 2006) ; 2ᵉ éd. *Disability Rights and Wrongs Revisited* (Routledge, 2014) [@shakespeare2014].
+
+**Argument central.** Le binarisme *impairment / disability* rejoue un dualisme corps/société problématique. *Impairment* et *disability* sont **co-construits**. Le modèle social doit être renouvelé sans abandonner ses acquis politiques.
+
+**Concepts opérationnels.**
+
+- **Co-construction** *impairment* / *disability*
+- **Approche relationnelle** du handicap
+- **Critique du fondamentalisme** théorique
+
+**Prolongements.** Shakespeare a aussi écrit avec Kath Gillespie-Sells et Dominic Davies *The Sexual Politics of Disability* (1996), pionnier sur le champ.
+
+**Articulation au cours.** Mobilisé en **séance 2** (critiques internes), repris en séance 5.
+
+## Volet 3 — MDH-PPH et capabilités (séance 3)
+
+### Fougeyrollas, Patrick
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Patrick Fougeyrollas** est anthropologue, professeur titulaire au Département de réadaptation de l'Université Laval (Québec). Directeur du **RIPPH** (Réseau international du processus de production du handicap). Il a co-fondé en 1986 la *Société canadienne de la CIDIH* (qui deviendra RIPPH). Considéré comme l'une des figures francophones majeures de la conceptualisation du handicap.
+:::
+
+**Texte central** : *La funambule, le fil et la toile. Modèles conceptuels appliqués au handicap* (Presses de l'Université Laval, 2010) [@fougeyrollas2010].
+
+**Argument central.** Le handicap n'est pas une caractéristique de la personne mais le résultat **contextuel d'une interaction** entre facteurs personnels, habitudes de vie et facteurs environnementaux.
+
+**Concepts opérationnels.**
+
+- **MDH-PPH** (Modèle de Développement Humain – Processus de Production du Handicap)
+- **Métaphore du funambule** : personne (funambule), habitudes de vie (fil), environnement (toile)
+- **Situation de handicap** vs **situation de participation sociale**
+- **MHAVIE** : Mesure des habitudes de vie
+
+**Prolongements.** Le RIPPH publie en 2018 une version révisée du modèle (*MDH-PPH 2*). Diffusion romande par Manon Masse et son équipe HETS [@masse2018].
+
+**Articulation au cours.** Mobilisé centralement en **séance 3**, repris en séance 4.
+
+**Pour approfondir.** Normand Boucher (2003) [@boucher2003] retrace l'émergence québécoise du paradigme social du handicap.
+
+### Nussbaum, Martha
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Martha Nussbaum** (née en 1947) est philosophe américaine, professeure à l'Université de Chicago (*Ernst Freund Distinguished Service Professor of Law and Ethics*). Une des philosophes contemporaines les plus influentes, elle a publié plus de 25 ouvrages traduits dans 40 langues. Prix Kyoto en philosophie (2016). Wikipédia : [Martha Nussbaum](https://fr.wikipedia.org/wiki/Martha_Nussbaum).
+:::
+
+**Texte central** : *Frontiers of Justice. Disability, Nationality, Species Membership* (Belknap/Harvard, 2006) [@nussbaum2006].
+
+**Contexte d'écriture.** L'ouvrage prolonge *Women and Human Development* (2000) [@nussbaum2000]. Nussbaum y formule sa critique de Rawls et sa proposition des dix capabilités centrales appliquée aux personnes handicapées.
+
+**Argument central.** La théorie rawlsienne échoue à inclure les personnes lourdement handicapées dès la délibération première. Il faut une approche par les capabilités fondée sur la **dignité humaine inconditionnelle**.
+
+**Concepts opérationnels.**
+
+- **Dix capabilités centrales** (vie, santé corporelle, intégrité corporelle, sens-imagination-pensée, émotions, raison pratique, affiliation, autres espèces, jeu, contrôle de l'environnement)
+- ***A life worthy of human dignity***
+- **Critique du contractualisme**
+
+**Prolongements.** Sen (1985) [@sen1985] développe la version économique de l'approche. Robeyns (2017) [@robeyns2017] propose la synthèse contemporaine la plus systématique. Mitra (2006) [@mitra2006] applique l'approche au handicap.
+
+**Articulation au cours.** Mobilisée centralement en **séance 3**, fil rouge sur l'évaluation des capabilités.
+
+**Pour approfondir.** Bonvin & Farvaque (2008) [@bonvin2008] proposent l'introduction francophone de référence à Sen.
+
+### Sen, Amartya
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Amartya Sen** (né en 1933) est économiste et philosophe indien, prix Nobel d'économie 1998 *« pour ses contributions à l'économie du bien-être »*. Professeur à Harvard, à la *London School of Economics*. Pionnier de l'approche par les capabilités. Wikipédia : [Amartya Sen](https://fr.wikipedia.org/wiki/Amartya_Sen).
+:::
+
+**Textes centraux** :
+
+- *Commodities and Capabilities* (1985) [@sen1985] — formulation systématique de l'approche
+- *Inequality Reexamined* (1992) [@sen1992] — application aux inégalités
+- *Development as Freedom* (1999) — synthèse populaire
+
+**Argument central.** Ce qui compte pour la justice n'est pas ce que la personne **possède** mais ce qu'elle peut **faire et être**. La liberté réelle (et non formelle) doit être le critère.
+
+**Articulation au cours.** Arrière-plan théorique de la séance 3 (capabilités).
+
+## Volet 4 — Désinstitutionnalisation (séance 4)
+
+### Mansell, Jim & Beadle-Brown, Julie
+
+::: {.callout-note appearance="simple"}
+## Biographies
+
+**Jim Mansell** (1952-2012) était professeur à l'Université du Kent (*Tizard Centre*), figure britannique de la recherche sur le handicap intellectuel. **Julie Beadle-Brown** est sa successeure à la direction du Tizard Centre. Ensemble, ils ont formalisé la position IASSIDD sur la désinstitutionnalisation.
+:::
+
+**Texte central** : *Deinstitutionalisation and community living. Position statement of IASSIDD* (*Journal of Intellectual Disability Research*, 2010) [@mansell2010].
+
+**Argument central.** Les services communautaires produisent en moyenne de meilleurs résultats que les institutions, mais la qualité dépend de l'organisation, pas de la taille.
+
+**Citation centrale.**
+
+> *« Community-based services are typically associated with better outcomes than institutional provision, but outcomes vary widely depending on how services are organised. »* [@mansell2010, p. 106]
+
+**Conditions de qualité.**
+
+- *Active support*
+- *Person-centred planning*
+- Choix au quotidien
+- Inclusion communautaire réelle
+- Continuité des relations
+- Compétences du personnel
+
+**Prolongements.** Bigby & Beadle-Brown (2018) [@bigby2018] approfondissent les conditions opérationnelles. Mansell et al. (2007) [@mansell2007] formalisent l'*active support*.
+
+**Articulation au cours.** Mobilisés centralement en **séance 4**.
+
+### Piérart, Geneviève
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Geneviève Piérart** est professeure HES à la HETS Fribourg (HES-SO). Ses recherches portent sur le handicap, la famille, la migration et la surdité. Son ouvrage collectif *Handicap, famille et migration* (IES, 2013) est la référence francophone sur cette intersection.
+:::
+
+**Texte central** : *Handicap, famille et migration* (IES, 2013) [@pierart2013].
+
+**Argument central.** L'intersection handicap-migration produit des **angles morts institutionnels** majeurs. Les familles migrantes confrontées au handicap d'un enfant cumulent obstacles linguistiques, juridiques, culturels.
+
+**Concepts opérationnels.**
+
+- **Intersection handicap-migration**
+- **Non-recours structurel**
+- **Médiation interculturelle**
+- **Représentations culturelles du handicap**
+
+**Articulation au cours.** Mobilisée centralement en **séance 4**, transversale.
+
+## Volet 5 — Autodétermination et pair-aidance (séance 5)
+
+### Wehmeyer, Michael
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Michael Wehmeyer** est professeur à l'Université du Kansas et directeur du *Kansas University Center on Developmental Disabilities*. Plus de 400 publications, structure le champ de l'autodétermination dans la déficience intellectuelle depuis les années 1990. Wikipédia : [Michael Wehmeyer](https://en.wikipedia.org/wiki/Michael_Wehmeyer).
+:::
+
+**Texte central** : *Self-determination as an educational outcome* (1996) [@wehmeyer1996], chapitre dans Sands & Wehmeyer (eds.) *Self-determination across the life span*.
+
+**Argument central.** L'autodétermination est définie comme **actions volitionnelles** permettant à la personne d'agir comme **agent causal principal** de sa propre vie.
+
+**Concepts opérationnels.**
+
+- ***Causal agent***
+- **Quatre caractéristiques** : autonomie comportementale, autorégulation, *empowerment* psychologique, autoréalisation
+- ***Causal Agency Theory*** (Shogren et al., 2015) [@shogren2015]
+
+**Prolongements.** Lachapelle et al. (2022) [@lachapelle2022] proposent la lecture francophone et écosystémique. Wehmeyer & Shogren (2017) [@wehmeyer2017] formalisent le *Self-Determined Learning Model of Instruction*.
+
+**Articulation au cours.** Mobilisé centralement en **séance 5**.
+
+### Ryan, Richard & Deci, Edward
+
+::: {.callout-note appearance="simple"}
+## Biographies
+
+**Edward Deci** (Université de Rochester) et **Richard Ryan** (Australian Catholic University) ont développé la *Self-Determination Theory* à partir des années 1970. Plus d'un demi-siècle de travaux. Wikipédia : [Self-determination theory](https://en.wikipedia.org/wiki/Self-determination_theory).
+:::
+
+**Texte central** : *Self-Determination Theory. Basic Psychological Needs in Motivation, Development, and Wellness* (Guilford, 2017) [@ryandeci2017], synthèse de 750 pages.
+
+**Précurseurs** : Deci & Ryan (1985) [@deci1985], Deci & Ryan (2000) [@deci2000].
+
+**Argument central.** Trois besoins psychologiques universels : **autonomie**, **compétence**, **appartenance**. Leur satisfaction conditionne la motivation intrinsèque et le bien-être.
+
+**Articulation au cours.** Mobilisée centralement en **séance 5**.
+
+### Charlton, James
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**James Charlton** est militant et chercheur américain. *Disability activist*, professeur à l'Université de l'Illinois à Chicago. *Nothing About Us Without Us* est son ouvrage majeur. Wikipédia : [James Charlton](https://en.wikipedia.org/wiki/James_I._Charlton).
+:::
+
+**Texte central** : *Nothing About Us Without Us. Disability Oppression and Empowerment* (University of California Press, 1998) [@charlton1998].
+
+**Argument central.** L'oppression handicap est un système totalisant ; l'émancipation requiert que les personnes concernées prennent la parole sur elles-mêmes.
+
+**Citations.**
+
+> *« Nothing about us without us! »*
+>
+> *« Disability oppression is a totalizing system. »*
+
+**Articulation au cours.** Mobilisé en **séances 2, 5, 7**. Slogan fil rouge.
+
+## Volet 6 — Financement orienté personne (séance 6)
+
+### Le Bihan, Blanche & Da Roit, Barbara
+
+::: {.callout-note appearance="simple"}
+## Biographies
+
+**Blanche Le Bihan** est professeure à l'EHESP Rennes (Département SHS). Spécialiste des politiques de soin de longue durée. **Barbara Da Roit** est professeure à l'Université Ca' Foscari de Venise. Collaboration au long cours sur le *cash-for-care* européen.
+:::
+
+**Texte central** : *The turn to optional familialism through the market. Long-term care, cash-for-care, and caregiving policies in Europe* (*Social Policy & Administration*, 2019) [@lebihan2019].
+
+**Argument central.** Les politiques *cash-for-care* en France, Italie, Pays-Bas instituent un **familialisme optionnel par le marché** : la famille reste productrice du soin, peut acheter sur un marché concurrentiel, au prix d'une précarisation des care workers.
+
+**Prolongements.** Da Roit & Le Bihan (2010) [@daroit2010] proposent une comparaison sur six pays. Ungerson (2004) [@ungerson2004] formule la critique pionnière du *cash-for-care*.
+
+**Articulation au cours.** Mobilisé centralement en **séance 6**.
+
+### Glendinning, Caroline
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Caroline Glendinning** est professeure émérite à l'Université de York (*Social Policy Research Unit*). Spécialiste internationale des politiques de soin de longue durée. Wikipédia : [Caroline Glendinning](https://en.wikipedia.org/wiki/Caroline_Glendinning).
+:::
+
+**Texte central** : *Increasing choice and control for older and disabled people. A critical review of new developments in England* (*Social Policy & Administration*, 2008) [@glendinning2008].
+
+**Argument central.** La personnalisation marque un passage du *citizen-as-recipient* au *citizen-as-purchaser of care*. Ce déplacement n'est pas neutre.
+
+**Citation.**
+
+> *« Personalisation marks a shift from the citizen-as-recipient to the citizen-as-purchaser of care. »* [@glendinning2008]
+
+**Articulation au cours.** Mobilisée centralement en **séance 6**.
+
+## Volet 7 — Posture professionnelle (séance 7)
+
+### Perske, Robert
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Robert Perske** (1927-2016) était pasteur et activiste américain proche du mouvement des familles d'enfants avec déficience intellectuelle. *The Dignity of Risk* (1972) a circulé mondialement comme slogan du mouvement de désinstitutionnalisation. Wikipédia : [Robert Perske](https://en.wikipedia.org/wiki/Robert_Perske).
+:::
+
+**Texte central** : *The dignity of risk and the mentally retarded* (*Mental Retardation*, 1972, 10(1), 24-27) [@perske1972].
+
+**Citation centrale.**
+
+> *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »* [@perske1972]
+
+**Articulation au cours.** Mobilisé en **séances 1, 5, 7**.
+
+### Tronto, Joan
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Joan Tronto** est philosophe politique américaine, professeure émérite à l'Université du Minnesota. Elle a transformé l'éthique du care, initialement développée par Carol Gilligan, en **théorie politique**. *Moral Boundaries* (1993) et *Caring Democracy* (2013) sont ses ouvrages majeurs. Wikipédia : [Joan Tronto](https://en.wikipedia.org/wiki/Joan_Tronto).
+:::
+
+**Textes centraux** :
+
+- *Moral Boundaries* (1993) [@tronto1993]
+- *Un monde vulnérable* (2009) [@tronto2009], trad. fr.
+- *Caring Democracy* (2013) [@tronto2013]
+
+**Argument central.** La vulnérabilité est universelle. La justice exige de **redistribuer** la responsabilité du care, non de la concentrer sur les plus faibles.
+
+**Concepts opérationnels.**
+
+- **Quatre phases du care** : *caring about, taking care of, care giving, care receiving*
+- **Cinquième phase** (2013) : *caring with* — démocratie *caring*
+- **Frontières morales** et **privilèges d'irresponsabilité**
+
+**Prolongements.** Avec Berenice Fisher (1990) [@fisher1990] elle formule la définition générique du care reprise par toute la littérature francophone.
+
+**Articulation au cours.** Mobilisée centralement en **séance 7**, transversale.
+
+### Clot, Yves
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Yves Clot** dirige le pôle Clinique du travail au CNAM (Paris). Disciple d'Ivar Oddone et de Christophe Dejours. La clinique de l'activité, qu'il a développée depuis les années 1990, s'inscrit dans la lignée de l'ergonomie de langue française et de la psychodynamique du travail. Wikipédia : [Yves Clot](https://fr.wikipedia.org/wiki/Yves_Clot).
+:::
+
+**Textes centraux** :
+
+- *La fonction psychologique du travail* (1999) [@clot1999]
+- *Travail et pouvoir d'agir* (2008) [@clot2008]
+- *Le travail à cœur* (2010) [@clot2010]
+
+**Concepts opérationnels.**
+
+- **Travail prescrit / activité réalisée / réel de l'activité**
+- **Genre professionnel** vs **style**
+- **Pouvoir d'agir**
+- **Activité empêchée**
+
+**Citation centrale.**
+
+> *« Ce qui rend malade au travail, ce n'est pas le conflit, c'est l'impossibilité du conflit. »* [@clot2008]
+
+**Méthode** : autoconfrontation simple et croisée.
+
+**Prolongements.** Application au travail social romand : Libois & Stroumza (2007) [@libois2007]. Lignée Lenzi-Moine 2025 [@lenzimoine2025] sur les marges du métier.
+
+**Articulation au cours.** Mobilisé centralement en **séance 7**.
+
+### Lipsky, Michael
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Michael Lipsky** (né en 1940) est politologue américain, professeur émérite à l'Université du Massachusetts. Senior advisor au *Demos*. *Street-Level Bureaucracy* (1980, réédité 2010) est un classique de la sociologie de l'action publique.
+:::
+
+**Texte central** : *Street-Level Bureaucracy. Dilemmas of the Individual in Public Services* (Russell Sage Foundation, 1980 ; 30th anniversary ed. 2010) [@lipsky2010].
+
+**Argument central.** Les agents de terrain qui appliquent les politiques publiques au contact des usagers disposent d'un pouvoir discrétionnaire considérable. Ils sont les véritables *policy makers*.
+
+**Citation centrale.**
+
+> *« The decisions of street-level bureaucrats, the routines they establish, and the devices they invent to cope with uncertainties and work pressures effectively become the public policies they carry out. »* [@lipsky2010, p. xii]
+
+**Mécanismes d'adaptation** (*coping mechanisms*) : rationnement, écrémage, simplification, routinisation, stéréotypisation.
+
+**Prolongements en francophonie** : Dubois (2010) [@dubois2010] propose l'ethnographie pionnière du guichet en France.
+
+**Articulation au cours.** Mobilisé centralement en **séance 7**.
+
+### Hochschild, Arlie
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Arlie Hochschild** (née en 1940) est sociologue américaine, professeure émérite à l'Université de Californie à Berkeley. Pionnière de la sociologie du travail féministe. *The Managed Heart* (1983) est un classique. Wikipédia : [Arlie Russell Hochschild](https://en.wikipedia.org/wiki/Arlie_Russell_Hochschild).
+:::
+
+**Texte central** : *The Managed Heart. Commercialization of Human Feeling* (University of California Press, 1983) [@hochschild1983].
+
+**Concept central** : **travail émotionnel** (*emotional labor*).
+
+**Citation.**
+
+> *« This labor requires one to induce or suppress feeling in order to sustain the outward countenance that produces the proper state of mind in others. »* [@hochschild1983, p. 7]
+
+**Trois opérations** : *surface acting*, *deep acting*, *genuine emotion*.
+
+**Articulation au cours.** Mobilisée centralement en **séance 7**.
+
+## Volet 8 — Sexualité, violences (séance 8)
+
+### Brasseur, Pierre
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Pierre Brasseur** est sociologue, candidat au poste de Professeur HES associé à 80 % à la HETS Genève (réf. 309). Ses recherches portent sur le handicap, le travail du care, le travail sexuel, les politiques sociales et les violences sexuelles institutionnelles. Membre du laboratoire IRIS-EHESS et du GIS Hybrida-IS.
+:::
+
+**Texte central** : *Sociologie de l'assistance sexuelle. Travail du care, travail sexuel et politiques du handicap* (PUF, 2024) [@brasseur2024].
+
+**Argument central.** L'assistance sexuelle se situe à la **frontière** entre travail du care, travail du sexe et politiques du handicap. Trois tensions structurantes la traversent.
+
+**Articulation au cours.** Mobilisé centralement en **séance 8**.
+
+**Travaux antérieurs.** Brasseur & Rodriguez (2019) [@brasseurrodriguez2019] sur la division témoin/expert dans les dispositifs participatifs. Brasseur, Robert & Garré (2026) [@brasseur2026violence], R1 acceptée à *Social Science and Medicine* sur les violences sexuelles institutionnelles.
+
+### Giami, Alain
+
+::: {.callout-note appearance="simple"}
+## Biographie
+
+**Alain Giami** est sociologue, directeur de recherche émérite à l'INSERM. Pionnier de la sociologie de la sexualité en France. Son rapport *La sexualité des personnes handicapées* (INSERM, 2005) est resté une référence pendant deux décennies.
+:::
+
+**Texte central** : *La sexualité des personnes handicapées. Revue bibliographique* (INSERM, 2005) [@giami2005].
+
+**Apport principal** : Cartographie systématique de la littérature francophone et internationale sur la sexualité dans le champ du handicap, de la déficience intellectuelle aux maladies chroniques.
+
+**Articulation au cours.** Lecture complémentaire pour la **séance 8**.
+
+------------------------------------------------------------------------
+
+::: {.callout-tip appearance="simple"}
+## Ressources complémentaires en ligne
+
+- **Wikipédia francophone** — articles biographiques de tous les auteurs cités, à recommander aux étudiant·es comme première entrée
+- **Cairn.info** — articles francophones en libre accès pour la plupart des références (Brasseur, Revillard, Le Bihan, Piérart…)
+- **OpenEdition Books** — version numérique de plusieurs ouvrages mobilisés (Stiker, Masse et al., Lucas, Bonvin)
+- **OpenAlex** — base bibliographique ouverte, permet de retrouver gratuitement la plupart des articles internationaux cités
+- **Inclusion Handicap, AGILE.CH, Cap-Contact, Pro Infirmis** — sites institutionnels suisses de référence
+- **RIPPH** ([ripph.qc.ca](https://ripph.qc.ca)) — pour les outils francophones du MDH-PPH
+:::

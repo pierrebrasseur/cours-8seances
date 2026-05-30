@@ -308,6 +308,16 @@ Voir Annexe C. Citations principales : @oliver1990, @upias1976.
 
 **Compléments** : Campbell & Oliver (1996), *Disability Politics*. Crow (1996), *Including all of our lives*. French (1993), *Disability, impairment or something in between?*. Goodley (2017), *Disability Studies*. McRuer (2006), *Crip Theory*. Probst & Tabin (2017), *De la justice à l'arbitraire*. Shakespeare (2014), *Disability Rights and Wrongs Revisited*. Winance (2007), *Being normally different?*.
 
+## Fiches de lecture détaillées
+
+Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+
+> Oliver · UPIAS · Shakespeare
+
+Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
+
+[:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
+
 ## Slides
 
 [:material-presentation: Slides reveal.js de la séance 2](../slides/02-slides.qmd){.btn .btn-primary target="_blank"}

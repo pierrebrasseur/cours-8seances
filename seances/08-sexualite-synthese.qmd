@@ -368,6 +368,16 @@ Voir Annexe C. Citations principales : @brasseur2024, @brasseurrodriguez2019.
 
 **Compléments** : Comité ONU CDPH (2022), articles 16, 22, 23. Giami (2005), *La sexualité des personnes handicapées*. HAS (2024). Stiker, Puig & Huet (2014), *Handicap et accompagnement*. Westcott & Jones (1999).
 
+## Fiches de lecture détaillées
+
+Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+
+> Brasseur · Giami
+
+Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
+
+[:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
+
 ## Slides
 
 [:material-presentation: Slides reveal.js de la séance 8](../slides/08-slides.qmd){.btn .btn-primary target="_blank"}

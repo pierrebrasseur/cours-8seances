@@ -363,6 +363,16 @@ Voir Annexe C. Citations principales : @mansell2010, @onu2022, @pierart2013.
 
 **Compléments** : AGILE.CH (2023-2024), *Vie autodéterminée*. Bigby & Beadle-Brown (2018). Castel (1995), *Les Métamorphoses de la question sociale*. Comité ONU CDPH (2017), *Observation générale n° 5*. ENIL (2023). État de Genève DCS (2023), *Plan cantonal CDPH*. État de Genève DCS (2024), *Avant-projet LED-H*. Inclusion Handicap (2022). Lucas (2022), *Care, droits et citoyenneté*. Power (2013), *Making space for belonging*. Ratzka (2003), *Independent Living*.
 
+## Fiches de lecture détaillées
+
+Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+
+> Mansell & Beadle-Brown · Piérart
+
+Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
+
+[:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
+
 ## Slides
 
 [:material-presentation: Slides reveal.js de la séance 4](../slides/04-slides.qmd){.btn .btn-primary target="_blank"}

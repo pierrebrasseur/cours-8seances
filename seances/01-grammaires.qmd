@@ -347,6 +347,16 @@ Les références sont listées en fin de volume (Annexe C). Citations bibliograp
 
 **Compléments** : Blanc (2012), *Sociologie du handicap*. Buton (2007), *Les corps saisis par l'État*. Calvez (2000), *La sociologie du handicap*. Lascoumes & Le Galès (2004), *Gouverner par les instruments*. Murphy (1990), *Vivre à corps perdu*. Tabin et al. (2019), *Repenser la normalité*.
 
+## Fiches de lecture détaillées
+
+Cette séance mobilise les auteurs suivants, traités en détail dans l'**Annexe D — Fiches de lecture détaillées** :
+
+> Stiker · Goffman · Ville-Fillion-Ravaud · Revillard
+
+Chaque fiche comporte une **biographie**, le **contexte du texte**, son **argument central** avec citations, ses **concepts opérationnels**, ses **prolongements**, des **liens externes** (Wikipédia, ressources libres) et son **articulation aux séances**.
+
+[:material-book-multiple: Aller aux fiches de lecture (Annexe D)](../appendices/D-fiches-lecture.qmd){.btn .btn-primary target="_blank"}
+
 ## Slides
 
 [:material-presentation: Slides reveal.js de la séance 1](../slides/01-slides.qmd){.btn .btn-primary target="_blank"}
